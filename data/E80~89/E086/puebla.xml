@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">El Estado de Puebla fue libre y soberano por decreto desde el 3 de febrero de 1824.</mensaje>
+<mensaje id="en" num="1">El Estado de Puebla fue libre y soberano por decreto desde el 3 de febrero de 1824.</mensaje>
+<mensaje id="pr" num="1">El Estado de Puebla fue libre y soberano por decreto desde el 3 de febrero de 1824.</mensaje>
+
+<mensaje id="es" num="2">Puebla dio a la república tres presidentes: Manuel Ávila Camacho, Ignacio Comonfort y Gustavo Díaz Ordaz.</mensaje>
+<mensaje id="en" num="2">Puebla dio a la república tres presidentes: Manuel Ávila Camacho, Ignacio Comonfort y Gustavo Díaz Ordaz.</mensaje>
+<mensaje id="pr" num="2">Puebla dio a la república tres presidentes: Manuel Ávila Camacho, Ignacio Comonfort y Gustavo Díaz Ordaz.</mensaje>
+
+<mensaje id="es" num="3">Entre los atractivos naturales de interés  con que cuenta el Estado destacan: las aguas termales, el valle de Piedras Encimadas en Zacatlán y los manantiales de Tehuacán.</mensaje>
+<mensaje id="en" num="3">Entre los atractivos naturales de interés  con que cuenta el Estado destacan: las aguas termales, el valle de Piedras Encimadas en Zacatlán y los manantiales de Tehuacán.</mensaje>
+<mensaje id="pr" num="3">Entre los atractivos naturales de interés  con que cuenta el Estado destacan: las aguas termales, el valle de Piedras Encimadas en Zacatlán y los manantiales de Tehuacan.</mensaje>
+
+<mensaje id="es" num="4">El 5 de mayo de 1862 un ejército de patriotas poblanos luchó contra los franceses y los venció en lo que hoy conocemos como La Batalla de Puebla.</mensaje>
+<mensaje id="en" num="4">El 5 de mayo de 1862 un ejército de patriotas poblanos luchó contra los franceses y los venció en lo que hoy conocemos como La Batalla de Puebla.</mensaje>
+<mensaje id="pr" num="4">El 5 de mayo de 1862 un ejército de patriotas poblanos luchó contra los franceses y los venció en lo que hoy conocemos como La Batalla de Puebla.</mensaje>
+
+<mensaje id="es" num="5">La ciudad de Puebla, por sus edificios coloniales, calles y monumentos, ha sido nombrada Patrimonio Cultural de la Humanidad.</mensaje>
+<mensaje id="en" num="5">La ciudad de Puebla, por sus edificios coloniales, calles y monumentos, ha sido nombrada Patrimonio Cultural de la Humanidad.</mensaje>
+<mensaje id="pr" num="5">La ciudad de Puebla, por sus edificios coloniales, calles y monumentos, ha sido nombrada Patrimonio Cultural de la Humanidad.</mensaje>
+
+<mensaje id="es" num="6">La zona arqueológica de Cholula, cuenta con la pirámide más grande de México.</mensaje>
+<mensaje id="en" num="6">La zona arqueológica de Cholula, cuenta con la pirámide más grande de México.</mensaje>
+<mensaje id="pr" num="6">La zona arqueológica de Cholula, cuenta con la pirámide más grande de México.</mensaje>
+
+<mensaje id="es" num="7">La talavera poblana, conocida originalmente como loza blanca y azulejo de Puebla, es una de las artesanías más representativas del Estado.</mensaje>
+<mensaje id="en" num="7">La talavera poblana, conocida originalmente como loza blanca y azulejo de Puebla, es una de las artesanías más representativas del Estado.</mensaje>
+<mensaje id="pr" num="7">La talavera poblana, conocida originalmente como loza blanca y azulejo de Puebla, es una de las artesanías más representativas del Estado.</mensaje>
+
+<mensaje id="es" num="8">La presa hidroeléctrica de Necaxa  se construyó a partir de 1905 para generar energía eléctrica.</mensaje>
+<mensaje id="en" num="8">La presa hidroeléctrica de Necaxa  se construyó a partir de 1905 para generar energía eléctrica.</mensaje>
+<mensaje id="pr" num="8">La presa hidroeléctrica de Necaxa  se construyó a partir de 1905 para generar energía eléctrica.</mensaje>
+
+<mensaje id="es" num="9">En Puebla, el obispo Juan de Palafox y Mendoza destacó por apoyar las obras culturales y materiales de la región.</mensaje>
+<mensaje id="en" num="9">En Puebla, el obispo Juan de Palafox y Mendoza destacó por apoyar las obras culturales y materiales de la región.</mensaje>
+<mensaje id="pr" num="9">En Puebla, el obispo Juan de Palafox y Mendoza destacó por apoyar las obras culturales y materiales de la región.</mensaje>
+
+<mensaje id="es" num="10">El 8 de septiembre de 1917 se aprobó la Constitución para el Estado de Puebla.</mensaje>
+<mensaje id="en" num="10">El 8 de septiembre de 1917 se aprobó la Constitución para el Estado de Puebla.</mensaje>
+<mensaje id="pr" num="10">El 8 de septiembre de 1917 se aprobó la Constitución para el Estado de Puebla.</mensaje>
+
+<mensaje id="es" num="11">Golfo de México</mensaje>
+<mensaje id="en" num="11">Gulf of Mexico</mensaje>
+<mensaje id="pr" num="11">Golfo de México</mensaje>
+
+<mensaje id="es" num="12">Estado de México</mensaje>
+<mensaje id="en" num="12">State of Mexico </mensaje>
+<mensaje id="pr" num="12">Estado de México </mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id="es" num="39">REGIÓN HUAUCHINANGO
+En esta región llueve todo el año, por lo que hay mucha vegetación. El clima va de templado a frío. Es una zona montañosa ya que se encuentra en la Sierra Norte del Estado.
+En estos poblados se elaboran artesanías de papel amate y ropas bordadas con chaquiras. Los grupos indígenas conservan sus lenguas y muchas tradiciones, como las danzas de los voladores, quetzalines, los tejedores y los huehues. También se celebran importantes ferias como la de las flores en Huauchinango, la de la manzana en Zacatlán y la de la primavera en Xicotepec y Chignahuapan. En ellas se muestran y venden los productos de la región.
+Los municipios que conforman esta región son: Ahuacatlán, Juan Galindo, Ahuazotepec, Naupan, Amixtlán, Pahuatlán, Aquixtla, Pantepec, Camocuautla, San Felipe Tepatlán, Coatepec, Tepango de Rodríguez, Cuautempan, Tepetzintla, Chiconcuautla, Tetela de Ocampo, Chignahuapan, Tlacuilotepec, Francisco Z. Mena, Tlaola, Hermenegildo Galeana, Tlapacoya, Honey, Tlaxco, Huauchinango, Venustiano Carranza, Ixtacamaxtitlán, Xicotepec, Jalpan, Zacatlán, Jopala y Zihuateutla.
+</mensaje>
+
+<mensaje id="en" num="39">REGIÓN HUAUCHINANGO
+En esta región llueve todo el año, por lo que hay mucha vegetación. El clima va de templado a frío. Es una zona montañosa ya que se encuentra en la Sierra Norte del Estado.
+En estos poblados se elaboran artesanías de papel amate y ropas bordadas con chaquiras. Los grupos indígenas conservan sus lenguas y muchas tradiciones, como las danzas de los voladores, quetzalines, los tejedores y los huehues. También se celebran importantes ferias como la de las flores en Huauchinango, la de la manzana en Zacatlán y la de la primavera en Xicotepec y Chignahuapan. En ellas se muestran y venden los productos de la región.
+Los municipios que conforman esta región son: Ahuacatlán, Juan Galindo, Ahuazotepec, Naupan, Amixtlán, Pahuatlán, Aquixtla, Pantepec, Camocuautla, San Felipe Tepatlán, Coatepec, Tepango de Rodríguez, Cuautempan, Tepetzintla, Chiconcuautla, Tetela de Ocampo, Chignahuapan, Tlacuilotepec, Francisco Z. Mena, Tlaola, Hermenegildo Galeana, Tlapacoya, Honey, Tlaxco, Huauchinango, Venustiano Carranza, Ixtacamaxtitlán, Xicotepec, Jalpan, Zacatlán, Jopala y Zihuateutla.
+</mensaje>
+
+<mensaje id="pr" num="39">REGIÓN HUAUCHINANGO
+En esta región llueve todo el año, por lo que hay mucha vegetación. El clima va de templado a frío. Es una zona montañosa ya que se encuentra en la Sierra Norte del Estado.
+En estos poblados se elaboran artesanías de papel amate y ropas bordadas con chaquiras. Los grupos indígenas conservan sus lenguas y muchas tradiciones, como las danzas de los voladores, quetzalines, los tejedores y los huehues. También se celebran importantes ferias como la de las flores en Huauchinango, la de la manzana en Zacatlán y la de la primavera en Xicotepec y Chignahuapan. En ellas se muestran y venden los productos de la región.
+Los municipios que conforman esta región son: Ahuacatlán, Juan Galindo, Ahuazotepec, Naupan, Amixtlán, Pahuatlán, Aquixtla, Pantepec, Camocuautla, San Felipe Tepatlán, Coatepec, Tepango de Rodríguez, Cuautempan, Tepetzintla, Chiconcuautla, Tetela de Ocampo, Chignahuapan, Tlacuilotepec, Francisco Z. Mena, Tlaola, Hermenegildo Galeana, Tlapacoya, Honey, Tlaxco, Huauchinango, Venustiano Carranza, Ixtacamaxtitlán, Xicotepec, Jalpan, Zacatlán, Jopala y Zihuateutla.
+</mensaje>
+
+
+<mensaje id="es" num="40">REGIÓN TEZIUTLÁN
+Esta región está ubicada al noreste del Estado. Hay grandes extensiones de bosques con variedad de árboles como pino, encino y sauce. Llueve mucho, hay neblina y generalmente hace frío. En regiones de menor altitud, el clima y la vegetación son semitropicales.
+Los grupos indígenas de esta región conservan su lengua y sus costumbres, como la danza de los quetzales, los voladores y los negritos. Se elaboran artesanías como los chales de lana en Hueyapan y se realizan ferias importantes como la del Huipil en Cuetzalan y la conmemoración de la batalla del 5 de mayo en Zacapoaxtla.
+Los municipios que integran esta región son: Acateno, Tenampulco, Atempan ,Teteles de Ávila Castillo, Atlequizayan, Teziutlán, Ayotoxco de Guerrero, Tlatlauquitepec, Caxhuacan, Tuzamapan de Galeana, Cuetzalan del Progreso, Xiutetelco, Chignautla, Xochiapulco, Huehuetla, Xochitlán de Vicente Suárez, Hueyapan, Yaonahuac, Hueytamalco, Zacapoaxtla, Hueytlalpan, Zapotitlán de Méndez, Huitzilan de Serdán, Zaragoza, Ixtepec, Zautla, Jonotla, Zongozotla, Nauzontla, Zoquiapan y Olintla.
+</mensaje>
+
+<mensaje id="en" num="40">REGIÓN TEZIUTLÁN
+Esta región está ubicada al noreste del Estado. Hay grandes extensiones de bosques con variedad de árboles como pino, encino y sauce. Llueve mucho, hay neblina y generalmente hace frío. En regiones de menor altitud, el clima y la vegetación son semitropicales.
+Los grupos indígenas de esta región conservan su lengua y sus costumbres, como la danza de los quetzales, los voladores y los negritos. Se elaboran artesanías como los chales de lana en Hueyapan y se realizan ferias importantes como la del Huipil en Cuetzalan y la conmemoración de la batalla del 5 de mayo en Zacapoaxtla.
+Los municipios que integran esta región son: Acateno, Tenampulco, Atempan ,Teteles de Ávila Castillo, Atlequizayan, Teziutlán, Ayotoxco de Guerrero, Tlatlauquitepec, Caxhuacan, Tuzamapan de Galeana, Cuetzalan del Progreso, Xiutetelco, Chignautla, Xochiapulco, Huehuetla, Xochitlán de Vicente Suárez, Hueyapan, Yaonahuac, Hueytamalco, Zacapoaxtla, Hueytlalpan, Zapotitlán de Méndez, Huitzilan de Serdán, Zaragoza, Ixtepec, Zautla, Jonotla, Zongozotla, Nauzontla, Zoquiapan y Olintla.
+</mensaje>
+
+<mensaje id="pr" num="40">REGIÓN TEZIUTLÁN
+Esta región está ubicada al noreste del Estado. Hay grandes extensiones de bosques con variedad de árboles como pino, encino y sauce. Llueve mucho, hay neblina y generalmente hace frío. En regiones de menor altitud, el clima y la vegetación son semitropicales.
+Los grupos indígenas de esta región conservan su lengua y sus costumbres, como la danza de los quetzales, los voladores y los negritos. Se elaboran artesanías como los chales de lana en Hueyapan y se realizan ferias importantes como la del Huipil en Cuetzalan y la conmemoración de la batalla del 5 de mayo en Zacapoaxtla.
+Los municipios que integran esta región son: Acateno, Tenampulco, Atempan ,Teteles de Ávila Castillo, Atlequizayan, Teziutlán, Ayotoxco de Guerrero, Tlatlauquitepec, Caxhuacan, Tuzamapan de Galeana, Cuetzalan del Progreso, Xiutetelco, Chignautla, Xochiapulco, Huehuetla, Xochitlán de Vicente Suárez, Hueyapan, Yaonahuac, Hueytamalco, Zacapoaxtla, Hueytlalpan, Zapotitlán de Méndez, Huitzilan de Serdán, Zaragoza, Ixtepec, Zautla, Jonotla, Zongozotla, Nauzontla, Zoquiapan y Olintla.
+</mensaje>
+
+
+<mensaje id="es" num="41">REGIÓN CIUDAD SERDÁN
+Esta región  se encuentra al este del Estado. Está formada por valles, llanuras y montañas. En esta zona se localiza el volcán Pico de Orizaba o Citlaltépetl, el más alto de México. En el valle y la llanura, el clima es templado con lluvias en verano; el de la montaña es frío.
+Se elaboran artesanías de barro, carrizo, palma, cantera negra y madera. Se celebra la Feria Regional de la papa en Ciudad Serdán y en Cantona existe una importante zona arqueológica. 
+Los municipios que integran esta región son: Aljojuca, Nopalucan, Atzitzintla, Ocotepec, Cuyoaco, Oriental, Chalchicomula de Sesma, Quimixtlán, Chichiquila, Rafael Lara Grajales, Chilchotla, San José Chiapa, Esperanza, San Juan Atenco, Guadalupe Victoria, San Nicolás Buenos Aires, Lafragua, San Salvador el Seco, Libres, Soltepec, Mazapiltepec de Juárez, Tepeyahualco, Cañada Morelos y Tlachichuca.
+</mensaje>
+
+<mensaje id="en" num="41">REGIÓN CIUDAD SERDÁN
+Esta región  se encuentra al este del Estado. Está formada por valles, llanuras y montañas. En esta zona se localiza el volcán Pico de Orizaba o Citlaltépetl, el más alto de México. En el valle y la llanura, el clima es templado con lluvias en verano; el de la montaña es frío.
+Se elaboran artesanías de barro, carrizo, palma, cantera negra y madera. Se celebra la Feria Regional de la papa en Ciudad Serdán y en Cantona existe una importante zona arqueológica. 
+Los municipios que integran esta región son: Aljojuca, Nopalucan, Atzitzintla, Ocotepec, Cuyoaco, Oriental, Chalchicomula de Sesma, Quimixtlán, Chichiquila, Rafael Lara Grajales, Chilchotla, San José Chiapa, Esperanza, San Juan Atenco, Guadalupe Victoria, San Nicolás Buenos Aires, Lafragua, San Salvador el Seco, Libres, Soltepec, Mazapiltepec de Juárez, Tepeyahualco, Cañada Morelos y Tlachichuca.
+</mensaje>
+
+<mensaje id="pr" num="41">REGIÓN CIUDAD SERDÁN
+Esta región  se encuentra al este del Estado. Está formada por valles, llanuras y montañas. En esta zona se localiza el volcán Pico de Orizaba o Citlaltépetl, el más alto de México. En el valle y la llanura, el clima es templado con lluvias en verano; el de la montaña es frío.
+Se elaboran artesanías de barro, carrizo, palma, cantera negra y madera. Se celebra la Feria Regional de la papa en Ciudad Serdán y en Cantona existe una importante zona arqueológica. 
+Los municipios que integran esta región son: Aljojuca, Nopalucan, Atzitzintla, Ocotepec, Cuyoaco, Oriental, Chalchicomula de Sesma, Quimixtlán, Chichiquila, Rafael Lara Grajales, Chilchotla, San José Chiapa, Esperanza, San Juan Atenco, Guadalupe Victoria, San Nicolás Buenos Aires, Lafragua, San Salvador el Seco, Libres, Soltepec, Mazapiltepec de Juárez, Tepeyahualco, Cañada Morelos y Tlachichuca.
+</mensaje>
+
+
+
+<mensaje id="es" num="42">REGIÓN SAN PEDRO CHOLULA
+Se ubica en el centro oeste del Estado. Su clima es variado y el suelo es un llano limitado por dos grandes volcanes: el Popocatépetl y el Iztaccíhuatl, que son de los más bellos y elevados del país.
+En esta región se encuentran la pirámide de Cholula, los antiguos conventos y el templo de Santa María Tonantzintla, famoso por su decorado de rasgos indígenas y españoles. También en esta población se encuentra el primer observatorio astronómico  moderno de México. 
+Se celebran fiestas como la de Huey Atlixcayotl, en Atlixco y el carnaval de Huejotzingo.
+Los municipios que conforman esta región son: Atlixco, San Jerónimo Tecuanipan, Calpan, San Martín Texmelucan, Coronango, San Matías Tlalancaleca, Cuautlancingo, San Miguel Xoxtla, Chiautzingo, San Nicolás de los Ranchos, Domingo Arenas, San Pedro Cholula, Huaquechula, San Salvador el Verde, Huejotzingo, Santa Isabel Cholula, Juan C. Bonilla, Tianguismanalco, Nealtican, Tlahuapan, Ocoyucan, Tlaltenango, San Andrés Cholula, Tochimilco, San Diego la Mesa Tochimiltzingo, San Felipe Teotlalcingo y San Gregorio Atzompa. 
+</mensaje>
+
+<mensaje id="en" num="42">REGIÓN SAN PEDRO CHOLULA
+Se ubica en el centro oeste del Estado. Su clima es variado y el suelo es un llano limitado por dos grandes volcanes: el Popocatépetl y el Iztaccíhuatl, que son de los más bellos y elevados del país.
+En esta región se encuentran la pirámide de Cholula, los antiguos conventos y el templo de Santa María Tonantzintla, famoso por su decorado de rasgos indígenas y españoles. También en esta población se encuentra el primer observatorio astronómico  moderno de México. 
+Se celebran fiestas como la de Huey Atlixcayotl, en Atlixco y el carnaval de Huejotzingo.
+Los municipios que conforman esta región son: Atlixco, San Jerónimo Tecuanipan, Calpan, San Martín Texmelucan, Coronango, San Matías Tlalancaleca, Cuautlancingo, San Miguel Xoxtla, Chiautzingo, San Nicolás de los Ranchos, Domingo Arenas, San Pedro Cholula, Huaquechula, San Salvador el Verde, Huejotzingo, Santa Isabel Cholula, Juan C. Bonilla, Tianguismanalco, Nealtican, Tlahuapan, Ocoyucan, Tlaltenango, San Andrés Cholula, Tochimilco, San Diego la Mesa Tochimiltzingo, San Felipe Teotlalcingo y San Gregorio Atzompa. 
+</mensaje>
+
+<mensaje id="pr" num="42">REGIÓN SAN PEDRO CHOLULA
+Se ubica en el centro oeste del Estado. Su clima es variado y el suelo es un llano limitado por dos grandes volcanes: el Popocatépetl y el Iztaccíhuatl, que son de los más bellos y elevados del país.
+En esta región se encuentran la pirámide de Cholula, los antiguos conventos y el templo de Santa María Tonantzintla, famoso por su decorado de rasgos indígenas y españoles. También en esta población se encuentra el primer observatorio astronómico  moderno de México. 
+Se celebran fiestas como la de Huey Atlixcayotl, en Atlixco y el carnaval de Huejotzingo.
+Los municipios que conforman esta región son: Atlixco, San Jerónimo Tecuanipan, Calpan, San Martín Texmelucan, Coronango, San Matías Tlalancaleca, Cuautlancingo, San Miguel Xoxtla, Chiautzingo, San Nicolás de los Ranchos, Domingo Arenas, San Pedro Cholula, Huaquechula, San Salvador el Verde, Huejotzingo, Santa Isabel Cholula, Juan C. Bonilla, Tianguismanalco, Nealtican, Tlahuapan, Ocoyucan, Tlaltenango, San Andrés Cholula, Tochimilco, San Diego la Mesa Tochimiltzingo, San Felipe Teotlalcingo y San Gregorio Atzompa. 
+</mensaje>
+
+
+<mensaje id="es" num="43">REGIÓN PUEBLA
+Esta región se localiza en el centro del Estado y en ella se encuentra su capital, la ciudad de Puebla. En  esta zona hay desde terrenos planos hasta montañas boscosas. El clima es templado con lluvias en verano, a veces hace frío.
+En esta región se ubica el tianguis de Tepeaca, el más grande y antiguo de América. También destaca el centro histórico de Puebla, considerado patrimonio cultural de la humanidad. Entre los lugares más importantes se encuentran la Biblioteca Palafoxiana y la Catedral, también  la capilla  del Rosario y varios museos como el de Antropología y el de la Revolución.
+La feria de la ciudad de Puebla es de las más importantes y la comida regional es muy variada y sabrosa, porque se preparan los famosos chiles en nogada, el mole poblano, los molotes, chalupas, frutas cubiertas y camotes.
+Los municipios que integran esta región son: Acajete, Amozoc, Cuautinchán, Puebla, Tecali de Herrera, Tepatlaxco de Hidalgo, Tepeaca y Tzicatlacoyan.
+</mensaje>
+
+<mensaje id="en" num="43">REGIÓN PUEBLA
+Esta región se localiza en el centro del Estado y en ella se encuentra su capital, la ciudad de Puebla. En  esta zona hay desde terrenos planos hasta montañas boscosas. El clima es templado con lluvias en verano, a veces hace frío.
+En esta región se ubica el tianguis de Tepeaca, el más grande y antiguo de América. También destaca el centro histórico de Puebla, considerado patrimonio cultural de la humanidad. Entre los lugares más importantes se encuentran la Biblioteca Palafoxiana y la Catedral, también  la capilla  del Rosario y varios museos como el de Antropología y el de la Revolución.
+La feria de la ciudad de Puebla es de las más importantes y la comida regional es muy variada y sabrosa, porque se preparan los famosos chiles en nogada, el mole poblano, los molotes, chalupas, frutas cubiertas y camotes.
+Los municipios que integran esta región son: Acajete, Amozoc, Cuautinchán, Puebla, Tecali de Herrera, Tepatlaxco de Hidalgo, Tepeaca y Tzicatlacoyan.
+</mensaje>
+
+<mensaje id="pr" num="43">REGIÓN PUEBLA
+Esta región se localiza en el centro del Estado y en ella se encuentra su capital, la ciudad de Puebla. En  esta zona hay desde terrenos planos hasta montañas boscosas. El clima es templado con lluvias en verano, a veces hace frío.
+En esta región se ubica el tianguis de Tepeaca, el más grande y antiguo de América. También destaca el centro histórico de Puebla, considerado patrimonio cultural de la humanidad. Entre los lugares más importantes se encuentran la Biblioteca Palafoxiana y la Catedral, también  la capilla  del Rosario y varios museos como el de Antropología y el de la Revolución.
+La feria de la ciudad de Puebla es de las más importantes y la comida regional es muy variada y sabrosa, porque se preparan los famosos chiles en nogada, el mole poblano, los molotes, chalupas, frutas cubiertas y camotes.
+Los municipios que integran esta región son: Acajete, Amozoc, Cuautinchán, Puebla, Tecali de Herrera, Tepatlaxco de Hidalgo, Tepeaca y Tzicatlacoyan.
+</mensaje>
+
+
+
+
+<mensaje id="es" num="44">REGIÓN IZÚCAR DE MATAMOROS
+Esta región se ubica al suroeste del Estado. Está formada por un relieve variado de llanos y montañas. Su clima es caluroso y semiárido, con escasas lluvias en verano. 
+Los grupos indígenas trabajan artesanías y alfarería; las más conocidas son las de barro negro de Acatlán. En las fiestas patronales se celebra con las danzas de los Tecuanis, Vaqueros y Doce pares de Francia.
+Los municipios que integran esta región son: Acatlán, Petlalcingo, Acteopan, Piaxtla, Ahuatlán, San Jerónimo Xayacatlán, Ahuehuetitla, San Martín Totoltepec, Albino Zertuche, San Miguel Ixitlán, Atzala, San Pablo Anicano, Atzitzihuacan, San Pedro Yeloixtlahuaca, Axutla, Coatzingo, Tecomatlán, Coetzala, Tehuitzingo, Cohuecan, Teopantlán, Cuayuca de Andrade, Teotlalco, Chiautla, Tepemaxalco, Chietla, Tepeojuma, Chila, Tepexco, Chila de la Sal, Tilapa, Chinantla, Tlapanalá, Epatlán, Totoltepec de Guerrero, Guadalupe, Tulcingo, Huehuetlán el Chico, Xayacatlán de Bravo, Ixcamilpa de Guerrero, Xicotlán, Izúcar de Matamoros, Xochiltepec y Jolalpan.
+</mensaje>
+
+<mensaje id="en" num="44">REGIÓN IZÚCAR DE MATAMOROS
+Esta región se ubica al suroeste del Estado. Está formada por un relieve variado de llanos y montañas. Su clima es caluroso y semiárido, con escasas lluvias en verano. 
+Los grupos indígenas trabajan artesanías y alfarería; las más conocidas son las de barro negro de Acatlán. En las fiestas patronales se celebra con las danzas de los Tecuanis, Vaqueros y Doce pares de Francia.
+Los municipios que integran esta región son: Acatlán, Petlalcingo, Acteopan, Piaxtla, Ahuatlán, San Jerónimo Xayacatlán, Ahuehuetitla, San Martín Totoltepec, Albino Zertuche, San Miguel Ixitlán, Atzala, San Pablo Anicano, Atzitzihuacan, San Pedro Yeloixtlahuaca, Axutla, Coatzingo, Tecomatlán, Coetzala, Tehuitzingo, Cohuecan, Teopantlán, Cuayuca de Andrade, Teotlalco, Chiautla, Tepemaxalco, Chietla, Tepeojuma, Chila, Tepexco, Chila de la Sal, Tilapa, Chinantla, Tlapanalá, Epatlán, Totoltepec de Guerrero, Guadalupe, Tulcingo, Huehuetlán el Chico, Xayacatlán de Bravo, Ixcamilpa de Guerrero, Xicotlán, Izúcar de Matamoros, Xochiltepec y Jolalpan.
+</mensaje>
+
+<mensaje id="pr" num="44">REGIÓN IZÚCAR DE MATAMOROS
+Esta región se ubica al suroeste del Estado. Está formada por un relieve variado de llanos y montañas. Su clima es caluroso y semiárido, con escasas lluvias en verano. 
+Los grupos indígenas trabajan artesanías y alfarería; las más conocidas son las de barro negro de Acatlán. En las fiestas patronales se celebra con las danzas de los Tecuanis, Vaqueros y Doce pares de Francia.
+Los municipios que integran esta región son: Acatlán, Petlalcingo, Acteopan, Piaxtla, Ahuatlán, San Jerónimo Xayacatlán, Ahuehuetitla, San Martín Totoltepec, Albino Zertuche, San Miguel Ixitlán, Atzala, San Pablo Anicano, Atzitzihuacan, San Pedro Yeloixtlahuaca, Axutla, Coatzingo, Tecomatlán, Coetzala, Tehuitzingo, Cohuecan, Teopantlán, Cuayuca de Andrade, Teotlalco, Chiautla, Tepemaxalco, Chietla, Tepeojuma, Chila, Tepexco, Chila de la Sal, Tilapa, Chinantla, Tlapanalá, Epatlán, Totoltepec de Guerrero, Guadalupe, Tulcingo, Huehuetlán el Chico, Xayacatlán de Bravo, Ixcamilpa de Guerrero, Xicotlán, Izúcar de Matamoros, Xochiltepec y Jolalpan.
+</mensaje>
+
+
+
+<mensaje id="es" num="45">REGIÓN TEHUACÁN
+Esta región está situada al sureste del Estado, rodeada de montañas con bosques de encino y pino, selva y matorrales. Su clima es variado, va desde el templado con lluvias en verano hasta el cálido. Hay lagunas, ríos y manantiales minerales importantes.
+Los grupos indígenas conservan sus costumbres y en las ferias patronales representan sus danzas, como los Vaqueros, Tecuanis y Doce pares de Francia.
+En Acatzingo y Tecamachalco se encuentran antiguos conventos franciscanos.
+Los municipios que conforman esta región son: Acatzingo, San Antonio Cañada, Ajalpan, San Gabriel Chilac, Altepexi, San José Miahuatlán, Atexcal, San Juan Atzompa, Atoyatempan, San Salvador Huixcolotla, Caltepec, San Sebastián Tlacotepec, Coxcatlán, Santa Catarina Tlaltempan, Coyomeapan, Santa Inés Ahuatempan, Coyotepec, Santiago Miahuatlán, Cuapiaxtla de Madero, Santo Tomás Hueyotlipan, Chapulco, Tecamachalco, Chigmecatitlán, Tehuacán, Eloxochitlán, Tepanco de López, General Felipe Ángeles, Tepexi de Rodríguez, Huatlatlauca, Tepeyahualco de Cuauhtémoc, Huitziltepec, Tlacotepec de Benito Juárez, Ixcaquixtla, Tlanepantla, Juan N. Méndez, Tochtepec, Magdalena Tlatlauquitepec , Vicente Guerrero, Mixtla, Xochitlan Todos Santos, Molcaxac, Yehualtepec, Nicolás Bravo, Zacapala, Palmar de Bravo, Zapotitlán, Quecholac, Zinacatepec, Los Reyes de Juárez y Zoquitlán.
+</mensaje>
+
+<mensaje id="en" num="45">REGIÓN TEHUACÁN
+Esta región está situada al sureste del Estado, rodeada de montañas con bosques de encino y pino, selva y matorrales. Su clima es variado, va desde el templado con lluvias en verano hasta el cálido. Hay lagunas, ríos y manantiales minerales importantes.
+Los grupos indígenas conservan sus costumbres y en las ferias patronales representan sus danzas, como los Vaqueros, Tecuanis y Doce pares de Francia.
+En Acatzingo y Tecamachalco se encuentran antiguos conventos franciscanos.
+Los municipios que conforman esta región son: Acatzingo, San Antonio Cañada, Ajalpan, San Gabriel Chilac, Altepexi, San José Miahuatlán, Atexcal, San Juan Atzompa, Atoyatempan, San Salvador Huixcolotla, Caltepec, San Sebastián Tlacotepec, Coxcatlán, Santa Catarina Tlaltempan, Coyomeapan, Santa Inés Ahuatempan, Coyotepec, Santiago Miahuatlán, Cuapiaxtla de Madero, Santo Tomás Hueyotlipan, Chapulco, Tecamachalco, Chigmecatitlán, Tehuacán, Eloxochitlán, Tepanco de López, General Felipe Ángeles, Tepexi de Rodríguez, Huatlatlauca, Tepeyahualco de Cuauhtémoc, Huitziltepec, Tlacotepec de Benito Juárez, Ixcaquixtla, Tlanepantla, Juan N. Méndez, Tochtepec, Magdalena Tlatlauquitepec , Vicente Guerrero, Mixtla, Xochitlan Todos Santos, Molcaxac, Yehualtepec, Nicolás Bravo, Zacapala, Palmar de Bravo, Zapotitlán, Quecholac, Zinacatepec, Los Reyes de Juárez y Zoquitlán.
+</mensaje>
+
+<mensaje id="pr" num="45">REGIÓN TEHUACÁN
+Esta región está situada al sureste del Estado, rodeada de montañas con bosques de encino y pino, selva y matorrales. Su clima es variado, va desde el templado con lluvias en verano hasta el cálido. Hay lagunas, ríos y manantiales minerales importantes.
+Los grupos indígenas conservan sus costumbres y en las ferias patronales representan sus danzas, como los Vaqueros, Tecuanis y Doce pares de Francia.
+En Acatzingo y Tecamachalco se encuentran antiguos conventos franciscanos.
+Los municipios que conforman esta región son: Acatzingo, San Antonio Cañada, Ajalpan, San Gabriel Chilac, Altepexi, San José Miahuatlán, Atexcal, San Juan Atzompa, Atoyatempan, San Salvador Huixcolotla, Caltepec, San Sebastián Tlacotepec, Coxcatlán, Santa Catarina Tlaltempan, Coyomeapan, Santa Inés Ahuatempan, Coyotepec, Santiago Miahuatlán, Cuapiaxtla de Madero, Santo Tomás Hueyotlipan, Chapulco, Tecamachalco, Chigmecatitlán, Tehuacán, Eloxochitlán, Tepanco de López, General Felipe Ángeles, Tepexi de Rodríguez, Huatlatlauca, Tepeyahualco de Cuauhtémoc, Huitziltepec, Tlacotepec de Benito Juárez, Ixcaquixtla, Tlanepantla, Juan N. Méndez, Tochtepec, Magdalena Tlatlauquitepec , Vicente Guerrero, Mixtla, Xochitlan Todos Santos, Molcaxac, Yehualtepec, Nicolás Bravo, Zacapala, Palmar de Bravo, Zapotitlán, Quecholac, Zinacatepec, Los Reyes de Juárez y Zoquitlán.
+</mensaje>
+
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+
+<mensaje id='es' num='95'>Ganadería</mensaje>
+<mensaje id='en' num='95'>Ganadería</mensaje>
+<mensaje id='pr' num='95'>Ganadería</mensaje>
+<mensaje id='es' num='96'>Maíz</mensaje>
+<mensaje id='en' num='96'>Maíz</mensaje>
+<mensaje id='pr' num='96'>Maíz</mensaje>
+<mensaje id='es' num='100'>Naranja</mensaje>
+<mensaje id='en' num='100'>Naranja</mensaje>
+<mensaje id='pr' num='100'>Naranja</mensaje>
+<mensaje id='es' num='101'>Café</mensaje>
+<mensaje id='en' num='101'>Café</mensaje>
+<mensaje id='pr' num='101'>Café</mensaje>
+<mensaje id='es' num='105'>Trigo</mensaje>
+<mensaje id='en' num='105'>Trigo</mensaje>
+<mensaje id='pr' num='105'>Trigo</mensaje>
+<mensaje id='es' num='106'>Papa</mensaje>
+<mensaje id='en' num='106'>Papa</mensaje>
+<mensaje id='pr' num='106'>Papa</mensaje>
+<mensaje id='es' num='107'>Flores</mensaje>
+<mensaje id='en' num='107'>Flores</mensaje>
+<mensaje id='pr' num='107'>Flores</mensaje>
+<mensaje id='es' num='111'>Aguacate</mensaje>
+<mensaje id='en' num='111'>Aguacate</mensaje>
+<mensaje id='pr' num='111'>Aguacate</mensaje>
+<mensaje id='es' num='113'>Frijol</mensaje>
+<mensaje id='en' num='113'>Frijol</mensaje>
+<mensaje id='pr' num='113'>Frijol</mensaje>
+<mensaje id='es' num='116'>Avena</mensaje>
+<mensaje id='en' num='116'>Avena</mensaje>
+<mensaje id='pr' num='116'>Avena</mensaje>
+<mensaje id='es' num='136'>Jitomate</mensaje>
+<mensaje id='en' num='136'>Jitomate</mensaje>
+<mensaje id='pr' num='136'>Jitomate</mensaje>
+<mensaje id='es' num='138'>Aves</mensaje>
+<mensaje id='en' num='138'>Aves</mensaje>
+<mensaje id='pr' num='138'>Aves</mensaje>
+<mensaje id='es' num='139'>Durazno</mensaje>
+<mensaje id='en' num='139'>Durazno</mensaje>
+<mensaje id='pr' num='139'>Durazno</mensaje>
+<mensaje id='es' num='140'>Artesanias</mensaje>
+<mensaje id='en' num='140'>Artesanias</mensaje>
+<mensaje id='pr' num='140'>Artesanias</mensaje>
+<mensaje id='es' num='141'>Nopal</mensaje>
+<mensaje id='en' num='141'>Nopal</mensaje>
+<mensaje id='pr' num='141'>Nopal</mensaje>
+<mensaje id='es' num='148'>Cebolla</mensaje>
+<mensaje id='en' num='148'>Cebolla</mensaje>
+<mensaje id='pr' num='148'>Cebolla</mensaje>
+<mensaje id='es' num='149'>Minería - Ónix, Yeso y Mármol</mensaje>
+<mensaje id='en' num='149'>Minería - Ónix, Yeso y Mármol</mensaje>
+<mensaje id='pr' num='149'>Minería - Ónix, Yeso y Mármol</mensaje>
+<mensaje id='es' num='150'>Turísmo</mensaje>
+<mensaje id='en' num='150'>Turísmo</mensaje>
+<mensaje id='pr' num='150'>Turísmo</mensaje>
+<mensaje id='es' num='154'>Sandia</mensaje>
+<mensaje id='en' num='154'>Sandia</mensaje>
+<mensaje id='pr' num='154'>Sandia</mensaje>
+<mensaje id='es' num='157'>Azúcar</mensaje>
+<mensaje id='en' num='157'>Azúcar</mensaje>
+<mensaje id='pr' num='157'>Azúcar</mensaje>
+<mensaje id='es' num='164'>Miel</mensaje>
+<mensaje id='en' num='164'>Miel</mensaje>
+<mensaje id='pr' num='164'>Miel</mensaje>
+<mensaje id='es' num='166'>Cacahuate</mensaje>
+<mensaje id='en' num='166'>Cacahuate</mensaje>
+<mensaje id='pr' num='166'>Cacahuate</mensaje>
+<mensaje id='es' num='171'>Manzana</mensaje>
+<mensaje id='en' num='171'>Manzana</mensaje>
+<mensaje id='pr' num='171'>Manzana</mensaje>
+<mensaje id='es' num='173'>Huevos</mensaje>
+<mensaje id='en' num='173'>Huevos</mensaje>
+<mensaje id='pr' num='173'>Huevos</mensaje>
+<mensaje id='es' num='174'>Nuez</mensaje>
+<mensaje id='en' num='174'>Nuez</mensaje>
+<mensaje id='pr' num='174'>Nuez</mensaje>
+<mensaje id='es' num='176'>Hortalizas</mensaje>
+<mensaje id='en' num='176'>Hortalizas</mensaje>
+<mensaje id='pr' num='176'>Hortalizas</mensaje>
+<mensaje id='es' num='177'>Pera</mensaje>
+<mensaje id='en' num='177'>Pera</mensaje>
+<mensaje id='pr' num='177'>Pera</mensaje>
+<mensaje id='es' num='178'>Lacteos</mensaje>
+<mensaje id='en' num='178'>Lacteos</mensaje>
+<mensaje id='pr' num='178'>Lacteos</mensaje>
+<mensaje id='es' num='179'>Químicos</mensaje>
+<mensaje id='en' num='179'>Químicos</mensaje>
+<mensaje id='pr' num='179'>Químicos</mensaje>
+<mensaje id='es' num='180'>Automotríz</mensaje>
+<mensaje id='en' num='180'>Automotríz</mensaje>
+<mensaje id='pr' num='180'>Automotríz</mensaje>
+<mensaje id='es' num='183'>Ciruela</mensaje>
+<mensaje id='en' num='183'>Ciruela</mensaje>
+<mensaje id='pr' num='183'>Ciruela</mensaje>
+<mensaje id='es' num='184'>Cebada</mensaje>
+<mensaje id='en' num='184'>Cebada</mensaje>
+<mensaje id='pr' num='184'>Cebada</mensaje>
+<mensaje id='es' num='185'>Industria Textil</mensaje>
+<mensaje id='en' num='185'>Industria Textil</mensaje>
+<mensaje id='pr' num='185'>Industria Textil</mensaje>
+<mensaje id='es' num='186'>Ladrillos</mensaje>
+<mensaje id='en' num='186'>Ladrillos</mensaje>
+<mensaje id='pr' num='186'>Ladrillos</mensaje>
+<mensaje id='es' num='187'>Papaya</mensaje>
+<mensaje id='en' num='187'>Papaya</mensaje>
+<mensaje id='pr' num='187'>Papaya</mensaje>
+<mensaje id='es' num='188'>Cabras</mensaje>
+<mensaje id='en' num='188'>Cabras</mensaje>
+<mensaje id='pr' num='188'>Cabras</mensaje>
+<mensaje id='es' num='189'>Industria Refresquera</mensaje>
+<mensaje id='en' num='189'>Industria Refresquera</mensaje>
+<mensaje id='pr' num='189'>Industria Refresquera</mensaje>
+<mensaje id='es' num='190'>Girasol</mensaje>
+<mensaje id='en' num='190'>Girasol</mensaje>
+<mensaje id='pr' num='190'>Girasol</mensaje>
+<mensaje id='es' num='191'>Artesanías</mensaje>
+<mensaje id='en' num='191'>Artesanías</mensaje>
+<mensaje id='pr' num='191'>Artesanías</mensaje>
+
+<mensaje id='es' num='213'>Laguna Alchichica</mensaje>
+<mensaje id='en' num='213'>Laguna Alchichica</mensaje>
+<mensaje id='pr' num='213'>Laguna Alchichica</mensaje>
+
+<mensaje id='es' num='214'>Laguna Totolcingo</mensaje>
+<mensaje id='en' num='214'>Laguna Totolcingo</mensaje>
+<mensaje id='pr' num='214'>Laguna Totolcingo</mensaje>
+
+<mensaje id='es' num='215'>Río Coyolapa</mensaje>
+<mensaje id='en' num='215'>Río Coyolapa</mensaje>
+<mensaje id='pr' num='215'>Río Coyolapa</mensaje>
+
+<mensaje id='es' num='216'>Río Tehuacán</mensaje>
+<mensaje id='en' num='216'>Río Tehuacán</mensaje>
+<mensaje id='pr' num='216'>Río Tehuacán</mensaje>
+
+<mensaje id='es' num='217'>Río Atoyac</mensaje>
+<mensaje id='en' num='217'>Río Atoyac</mensaje>
+<mensaje id='pr' num='217'>Río Atoyac</mensaje>
+
+<mensaje id='es' num='218'>Río Nexapa</mensaje>
+<mensaje id='en' num='218'>Río Nexapa</mensaje>
+<mensaje id='pr' num='218'>Río Nexapa</mensaje>
+
+<mensaje id='es' num='219'>Río Pantepec</mensaje>
+<mensaje id='en' num='219'>Río Pantepec</mensaje>
+<mensaje id='pr' num='219'>Río Pantepec</mensaje>
+
+<mensaje id='es' num='220'>Río San Marcos</mensaje>
+<mensaje id='en' num='220'>Río San Marcos</mensaje>
+<mensaje id='pr' num='220'>Río San Marcos</mensaje>
+
+<mensaje id='es' num='221'>Presa Necaxa</mensaje>
+<mensaje id='en' num='221'>Presa Necaxa</mensaje>
+<mensaje id='pr' num='221'>Presa Necaxa</mensaje>
+
+<mensaje id='es' num='222'>Presa Tenango</mensaje>
+<mensaje id='en' num='222'>Presa Tenango</mensaje>
+<mensaje id='pr' num='222'>Presa Tenango</mensaje>
+
+<mensaje id='es' num='223'>Río Necaxa</mensaje>
+<mensaje id='en' num='223'>Río Necaxa</mensaje>
+<mensaje id='pr' num='223'>Río Necaxa</mensaje>
+
+<mensaje id='es' num='224'>Río Apulco</mensaje>
+<mensaje id='en' num='224'>Río Apulco</mensaje>
+<mensaje id='pr' num='224'>Río Apulco</mensaje>
+
+<mensaje id='es' num='225'>Presa la Soledad</mensaje>
+<mensaje id='en' num='225'>Presa la Soledad</mensaje>
+<mensaje id='pr' num='225'>Presa la Soledad</mensaje>
+
+<mensaje id='es' num='226'>Presa Manuel Ávila Camacho</mensaje>
+<mensaje id='en' num='226'>Presa Manuel Ávila Camacho</mensaje>
+<mensaje id='pr' num='226'>Presa Manuel Ávila Camacho</mensaje>
+
+<mensaje id='es' num='227'>Río Necaxa</mensaje>
+<mensaje id='en' num='227'>Río Necaxa</mensaje>
+<mensaje id='pr' num='227'>Río Necaxa</mensaje>
+
+
+
+
+<mensaje id='es' num='342'>Sierra de Chiautla</mensaje>
+<mensaje id='en' num='342'>Sierra de Chiautla</mensaje>
+<mensaje id='pr' num='342'>Sierra de Chiautla</mensaje>
+
+<mensaje id='es' num='343'>Sierra Norte de Puebla</mensaje>
+<mensaje id='en' num='343'>Sierra Norte de Puebla</mensaje>
+<mensaje id='pr' num='343'>Sierra Norte de Puebla</mensaje>
+
+<mensaje id='es' num='344'>Sierra Madre Oriental</mensaje>
+<mensaje id='en' num='344'>Sierra Madre Oriental</mensaje>
+<mensaje id='pr' num='344'>Sierra Madre Oriental</mensaje>
+
+<mensaje id='es' num='345'>Sierra Quimixtlán</mensaje>
+<mensaje id='en' num='345'>Sierra Quimixtlán</mensaje>
+<mensaje id='pr' num='345'>Sierra Quimixtlán</mensaje>
+
+<mensaje id='es' num='346'>Pico de Orizaba</mensaje>
+<mensaje id='en' num='346'>Pico de Orizaba</mensaje>
+<mensaje id='pr' num='346'>Pico de Orizaba</mensaje>
+
+<mensaje id='es' num='347'>Sierra Nevada</mensaje>
+<mensaje id='en' num='347'>Sierra Nevada</mensaje>
+<mensaje id='pr' num='347'>Sierra Nevada</mensaje>
+
+<mensaje id='es' num='348'>Sierra de Tecamachalco</mensaje>
+<mensaje id='en' num='348'>Sierra de Tecamachalco</mensaje>
+<mensaje id='pr' num='348'>Sierra de Tecamachalco</mensaje>
+
+<mensaje id='es' num='349'>Sierra de Zapotitlán</mensaje>
+<mensaje id='en' num='349'>Sierra de Zapotitlán</mensaje>
+<mensaje id='pr' num='349'>Sierra de Zapotitlán</mensaje>
+
+<mensaje id='es' num='350'>Sierra Negra</mensaje>
+<mensaje id='en' num='350'>Sierra Negra</mensaje>
+<mensaje id='pr' num='350'>Sierra Negra</mensaje>
+
+<mensaje id='es' num='351'>La Malinche</mensaje>
+<mensaje id='en' num='351'>La Malinche</mensaje>
+<mensaje id='pr' num='351'>La Malinche</mensaje>
+
+<mensaje id='es' num='352'>Iztaccíhuatl</mensaje>
+<mensaje id='en' num='352'>Iztaccíhuatl</mensaje>
+<mensaje id='pr' num='352'>Iztaccíhuatl</mensaje>
+
+<mensaje id='es' num='353'>Popocatépetl</mensaje>
+<mensaje id='en' num='353'>Popocatépetl</mensaje>
+<mensaje id='pr' num='353'>Popocatépetl</mensaje>
+
+
+<mensaje id='es' num='436'>Huauchinango</mensaje>
+<mensaje id='en' num='436'>Huauchinango</mensaje>
+<mensaje id='pr' num='436'>Huauchinango</mensaje>
+
+<mensaje id='es' num='437'>Teziutlán</mensaje>
+<mensaje id='en' num='437'>Teziutlán</mensaje>
+<mensaje id='pr' num='437'>Teziutlán</mensaje>
+
+<mensaje id='es' num='438'>Ciudad Serdán</mensaje>
+<mensaje id='en' num='438'>Ciudad Serdán</mensaje>
+<mensaje id='pr' num='438'>Ciudad Serdán</mensaje>
+
+<mensaje id='es' num='439'>Puebla</mensaje>
+<mensaje id='en' num='439'>Puebla</mensaje>
+<mensaje id='pr' num='439'>Puebla</mensaje>
+
+<mensaje id='es' num='440'>San Pedro Cholula</mensaje>
+<mensaje id='en' num='440'>San Pedro Cholula</mensaje>
+<mensaje id='pr' num='440'>San Pedro Cholula</mensaje>
+
+<mensaje id='es' num='441'>Tehuacán</mensaje>
+<mensaje id='en' num='441'>Tehuacán</mensaje>
+<mensaje id='pr' num='441'>Tehuacán</mensaje>
+
+<mensaje id='es' num='442'>Izúcar de Matamoros</mensaje>
+<mensaje id='en' num='442'>Izúcar de Matamoros</mensaje>
+<mensaje id='pr' num='442'>Izúcar de Matamoros</mensaje>
+
+
+
+<mensaje id='es' num='507'>REGIÓN HUAUCHINANGO</mensaje>
+<mensaje id='en' num='507'>REGIÓN HUAUCHINANGO</mensaje>
+<mensaje id='pr' num='507'>REGIÓN HUAUCHINANGO</mensaje>
+
+<mensaje id='es' num='508'>REGIÓN TEZIUTLÁN</mensaje>
+<mensaje id='en' num='508'>REGIÓN TEZIUTLÁN</mensaje>
+<mensaje id='pr' num='508'>REGIÓN TEZIUTLÁN</mensaje>
+
+<mensaje id='es' num='509'>REGIÓN CIUDAD SERDÁN</mensaje>
+<mensaje id='en' num='509'>REGIÓN CIUDAD SERDÁN</mensaje>
+<mensaje id='pr' num='509'>REGIÓN CIUDAD SERDÁN</mensaje>
+
+<mensaje id='es' num='510'>REGIÓN SAN PEDRO CHOLULA</mensaje>
+<mensaje id='en' num='510'>REGIÓN SAN PEDRO CHOLULA</mensaje>
+<mensaje id='pr' num='510'>REGIÓN SAN PEDRO CHOLULA</mensaje>
+
+<mensaje id='es' num='511'>REGIÓN PUEBLA</mensaje>
+<mensaje id='en' num='511'>REGIÓN PUEBLA</mensaje>
+<mensaje id='pr' num='511'>REGIÓN PUEBLA</mensaje>
+
+<mensaje id='es' num='512'>REGIÓN TEHUACÁN</mensaje>
+<mensaje id='en' num='512'>REGIÓN TEHUACÁN</mensaje>
+<mensaje id='pr' num='512'>REGIÓN TEHUACÁN</mensaje>
+
+<mensaje id='es' num='513'>REGIÓN IZÚCAR DE MATAMOROS</mensaje>
+<mensaje id='en' num='513'>REGIÓN IZÚCAR DE MATAMOROS</mensaje>
+<mensaje id='pr' num='513'>REGIÓN IZÚCAR DE MATAMOROS</mensaje>
+
+
+
+<mensaje id='es' num='641'>Ciudad de Cuetzalan</mensaje>
+<mensaje id='en' num='641'>Ciudad de Cuetzalan</mensaje>
+<mensaje id='pr' num='641'>Ciudad de Cuetzalan</mensaje>
+
+<mensaje id='es' num='642'>Zona arqueológica de Yohualichan</mensaje>
+<mensaje id='en' num='642'>Zona arqueológica de Yohualichan</mensaje>
+<mensaje id='pr' num='642'>Zona arqueológica de Yohualichan</mensaje>
+
+<mensaje id='es' num='643'>Cavernas Naturales</mensaje>
+<mensaje id='en' num='643'>Cavernas Naturales</mensaje>
+<mensaje id='pr' num='643'>Cavernas Naturales</mensaje>
+
+<mensaje id='es' num='644'>Valle de Piedras Encimadas en Zacatlán</mensaje>
+<mensaje id='en' num='644'>Valle de Piedras Encimadas en Zacatlán</mensaje>
+<mensaje id='pr' num='644'>Valle de Piedras Encimadas en Zacatlán</mensaje>
+
+<mensaje id='es' num='645'>Aguas termales de Chignahuapan</mensaje>
+<mensaje id='en' num='645'>Aguas termales de Chignahuapan</mensaje>
+<mensaje id='pr' num='645'>Aguas termales de Chignahuapan</mensaje>
+
+<mensaje id='es' num='646'>Zona arqueológica de Cantona</mensaje>
+<mensaje id='en' num='646'>Zona arqueológica de Cantona</mensaje>
+<mensaje id='pr' num='646'>Zona arqueológica de Cantona</mensaje>
+
+<mensaje id='es' num='647'>Volcán Pico de Orizaba</mensaje>
+<mensaje id='en' num='647'>Volcán Pico de Orizaba</mensaje>
+<mensaje id='pr' num='647'>Volcán Pico de Orizaba</mensaje>
+
+<mensaje id='es' num='648'>Ex Hacienda de Chautla</mensaje>
+<mensaje id='en' num='648'>Ex Hacienda de Chautla</mensaje>
+<mensaje id='pr' num='648'>Ex Hacienda de Chautla</mensaje>
+
+<mensaje id='es' num='649'>Parque Nacional Izta-Popo</mensaje>
+<mensaje id='en' num='649'>Parque Nacional Izta-Popo</mensaje>
+<mensaje id='pr' num='649'>Parque Nacional Izta-Popo</mensaje>
+
+<mensaje id='es' num='650'>Volcán La Malinche</mensaje>
+<mensaje id='en' num='650'>Volcán La Malinche</mensaje>
+<mensaje id='pr' num='650'>Volcán La Malinche</mensaje>
+
+<mensaje id='es' num='651'>Ex convento de Tecali</mensaje>
+<mensaje id='en' num='651'>Ex convento de Tecali</mensaje>
+<mensaje id='pr' num='651'>Ex convento de Tecali</mensaje>
+
+<mensaje id='es' num='652'>Fuertes de Loreto y Guadalupe</mensaje>
+<mensaje id='en' num='652'>Fuertes de Loreto y Guadalupe</mensaje>
+<mensaje id='pr' num='652'>Fuertes de Loreto y Guadalupe</mensaje>
+
+<mensaje id='es' num='653'>Capilla del Rosario</mensaje>
+<mensaje id='en' num='653'>Capilla del Rosario</mensaje>
+<mensaje id='pr' num='653'>Capilla del Rosario</mensaje>
+
+<mensaje id='es' num='654'>Catedral de Puebla</mensaje>
+<mensaje id='en' num='654'>Catedral de Puebla</mensaje>
+<mensaje id='pr' num='654'>Catedral de Puebla</mensaje>
+
+<mensaje id='es' num='655'>Centro Histórico de Puebla</mensaje>
+<mensaje id='en' num='655'>Centro Histórico de Puebla</mensaje>
+<mensaje id='pr' num='655'>Centro Histórico de Puebla</mensaje>
+
+<mensaje id='es' num='656'>Templo de Santa María Tonantzintla</mensaje>
+<mensaje id='en' num='656'>Templo de Santa María Tonantzintla</mensaje>
+<mensaje id='pr' num='656'>Templo de Santa María Tonantzintla</mensaje>
+
+<mensaje id='es' num='657'>Observatorio Astronómico</mensaje>
+<mensaje id='en' num='657'>Observatorio Astronómico</mensaje>
+<mensaje id='pr' num='657'>Observatorio Astronómico</mensaje>
+
+<mensaje id='es' num='658'>Zona arqueológica de Cholula</mensaje>
+<mensaje id='en' num='658'>Zona arqueológica de Cholula</mensaje>
+<mensaje id='pr' num='658'>Zona arqueológica de Cholula</mensaje>
+
+<mensaje id='es' num='659'>Centro Histórico de Atlixco</mensaje>
+<mensaje id='en' num='659'>Centro Histórico de Atlixco</mensaje>
+<mensaje id='pr' num='659'>Centro Histórico de Atlixco</mensaje>
+
+<mensaje id='es' num='660'>Biblioteca Palafoxiana</mensaje>
+<mensaje id='en' num='660'>Biblioteca Palafoxiana</mensaje>
+<mensaje id='pr' num='660'>Biblioteca Palafoxiana</mensaje>
+
+<mensaje id='es' num='661'>Zona Arqueológica y cantera de fósiles marinos de Tepexi</mensaje>
+<mensaje id='en' num='661'>Zona Arqueológica y cantera de fósiles marinos de Tepexi</mensaje>
+<mensaje id='pr' num='661'>Zona Arqueológica y cantera de fósiles marinos de Tepexi</mensaje>
+
+<mensaje id='es' num='662'>Manantiales de Tehuacán</mensaje>
+<mensaje id='en' num='662'>Manantiales de Tehuacán</mensaje>
+<mensaje id='pr' num='662'>Manantiales de Tehuacán</mensaje>
+
+<mensaje id='es' num='663'>Valle de las cactáceas en Zapotitlán Salinas</mensaje>
+<mensaje id='en' num='663'>Valle de las cactáceas en Zapotitlán Salinas</mensaje>
+<mensaje id='pr' num='663'>Valle de las cactáceas en Zapotitlán Salinas</mensaje>
+
+</mensajes>

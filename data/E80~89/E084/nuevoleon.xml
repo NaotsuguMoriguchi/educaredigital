@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">La ciudad metropolitana de Nuestra Señora de Monterrey fue fundada el 20 de septiembre de 1596 por don Diego de Montemayor.</mensaje>
+<mensaje id="en" num="1">La ciudad metropolitana de Nuestra Señora de Monterrey fue fundada el 20 de septiembre de 1596 por don Diego de Montemayor.</mensaje>
+<mensaje id="pr" num="1">La ciudad metropolitana de Nuestra Señora de Monterrey fue fundada el 20 de septiembre de 1596 por don Diego de Montemayor.</mensaje>
+
+<mensaje id="es" num="2">El Parque Cumbres de Monterrey, fue decretado parque nacional en 1939.</mensaje>
+<mensaje id="en" num="2">El Parque Cumbres de Monterrey, fue decretado parque nacional en 1939.</mensaje>
+<mensaje id="pr" num="2">El Parque Cumbres de Monterrey, fue decretado parque nacional en 1939.</mensaje>
+
+<mensaje id="es" num="3">En 1985 se crea  la Macroplaza de Monterrey, es considerada la mayor plaza del mundo ya que supera al doble la Plaza Roja de Moscú, cinco veces más que la Plaza del Vaticano en Roma y seis más que el Zócalo de la Ciudad de México.</mensaje>
+<mensaje id="en" num="3">En 1985 se crea  la Macroplaza de Monterrey, es considerada la mayor plaza del mundo ya que supera al doble la Plaza Roja de Moscú, cinco veces más que la Plaza del Vaticano en Roma y seis más que el Zócalo de la Ciudad de México.</mensaje>
+<mensaje id="pr" num="3">En 1985 se crea  la Macroplaza de Monterrey, es considerada la mayor plaza del mundo ya que supera al doble la Plaza Roja de Moscú, cinco veces más que la Plaza del Vaticano en Roma y seis más que el Zócalo de la Ciudad de México.</mensaje>
+
+<mensaje id="es" num="4">Boca de Potrerillos, es un sitio de registro de arte rupestre, que cuenta con aproximadamente 4 mil piedras grabadas y más de 8 mil imágenes.</mensaje>
+<mensaje id="en" num="4">Boca de Potrerillos, es un sitio de registro de arte rupestre, que cuenta con aproximadamente 4 mil piedras grabadas y más de 8 mil imágenes.</mensaje>
+<mensaje id="pr" num="4">Boca de Potrerillos, es un sitio de registro de arte rupestre, que cuenta con aproximadamente 4 mil piedras grabadas y más de 8 mil imágenes.</mensaje>
+
+<mensaje id="es" num="5">El Parque turístico El Salto, está conformado por las cascadas Velo de la Novia y El Salto, con 15 y 40 metros de altura respectivamente.</mensaje>
+<mensaje id="en" num="5">El Parque turístico El Salto, está conformado por las cascadas Velo de la Novia y El Salto, con 15 y 40 metros de altura respectivamente.</mensaje>
+<mensaje id="pr" num="5">El Parque turístico El Salto, está conformado por las cascadas Velo de la Novia y El Salto, con 15 y 40 metros de altura respectivamente.</mensaje>
+
+<mensaje id="es" num="6">El principal centro recreativo infantil es el Parque Plaza Sésamo en Monterrey.</mensaje>
+<mensaje id="en" num="6">El principal centro recreativo infantil es el Parque Plaza Sésamo en Monterrey.</mensaje>
+<mensaje id="pr" num="6">El principal centro recreativo infantil es el Parque Plaza Sésamo en Monterrey.</mensaje>
+
+<mensaje id="es" num="7">El Parque nacional El Sabinal, es el más pequeño de todo México, con un área de 7.2 hectáreas. Fue decretado en 1939 por el presidente de la República Lázaro Cárdenas.</mensaje>
+<mensaje id="en" num="7">El Parque nacional El Sabinal, es el más pequeño de todo México, con un área de 7.2 hectáreas. Fue decretado en 1939 por el presidente de la República Lázaro Cárdenas.</mensaje>
+<mensaje id="pr" num="7">El Parque nacional El Sabinal, es el más pequeño de todo México, con un área de 7.2 hectáreas. Fue decretado en 1939 por el presidente de la República Lázaro Cárdenas.</mensaje>
+
+<mensaje id="es" num="8">La ex hacienda San Pedro es conocida también como la Casa de Melchor y fue construida en 1666.</mensaje>
+<mensaje id="en" num="8">La ex hacienda San Pedro es conocida también como la Casa de Melchor y fue construida en 1666.</mensaje>
+<mensaje id="pr" num="8">La ex hacienda San Pedro es conocida también como la Casa de Melchor y fue construida en 1666.</mensaje>
+
+<mensaje id="es" num="9">El Bioparque Estrella, es un moderno parque zoológico que se extiende por más de 250 hectáreas.</mensaje>
+<mensaje id="en" num="9">El Bioparque Estrella, es un moderno parque zoológico que se extiende por más de 250 hectáreas.</mensaje>
+<mensaje id="pr" num="9">El Bioparque Estrella, es un moderno parque zoológico que se extiende por más de 250 hectáreas.</mensaje>
+
+<mensaje id="es" num="10">La Cascada Cola de Caballo es la más famosa de la República mexicana, mide 25 metros de altura.</mensaje>
+<mensaje id="en" num="10">La Cascada Cola de Caballo es la más famosa de la República mexicana, mide 25 metros de altura.</mensaje>
+<mensaje id="pr" num="10">La Cascada Cola de Caballo es la más famosa de la República mexicana, mide 25 metros de altura.</mensaje>
+
+
+<mensaje id="es" num="11">Golfo de México</mensaje>
+<mensaje id="en" num="11">Gulf of Mexico</mensaje>
+<mensaje id="pr" num="11">Golfo de México</mensaje>
+
+<mensaje id="es" num="12">Estado de México</mensaje>
+<mensaje id="en" num="12">State of Mexico </mensaje>
+<mensaje id="pr" num="12">Estado de México </mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id="es" num="39">REGION SUR
+Municipios: Aramberri, Dr. Arroyo, Galeana, Iturbide, Mier y Noriega, Gral. Zaragoza.
+Localización: sur del Estado.
+Clima: templado, subhúmedo con inviernos frescos y lluvias en verano e invierno.
+Datos importantes: Esta región elabora diferentes artesanías, entre las cuales encontramos tejidos de Ixtle y lechuguilla, cobijas, jorongos, artículos tallados en madera, artículos de piel, ollas de barro, macetas y comales, y artículos de cerámica.
+Entre los platillos típicos encontramos nopalitos embotados, chile del monte, chile serrano, quesos de leche de vaca o cabra en sus diferentes formas, chicales (en semana santa), asado de puerco, asado de res, fritada, picadillo, menudo, caldo de res sin verduras sazonado con hierbabuena, atole de arroz, habas, chícharos, lentejas y calabacita tierna, barbacoa de pozo, gorditas y panes cocidos en hornos “panaderos”, dulces de calabaza, biznaga de leche y de chilacayote, así como cajeta de manzana, membrillo, aguamiel de maguey, atole de masa con aguamiel, atole blanco y mezcal. 
+Las fiestas de la región responden en su mayoría, a las celebraciones religiosas, por ejemplo la fiesta Patronal del 8 de diciembre,  Virgen de la Purísima Concepción, en Doctor Arroyo.
+</mensaje>
+
+<mensaje id="en" num="39">
+Municipalities: Aramberri, Dr Stream, Galeana, Iturbide, Mier and Noriega, Gral. Zaragoza. Location: the south of the state. Climate: tempering, subhumid with invier fresh and rains in summer and winter to us. Important data: This region elaborates different crafts, between which we found weaves of Ixtle and lechuguilla, blankets, jorongos, articles carved in wood, articles of skin, mud pots, flowerpots and the coevils, and articles of ceramics. Between the typical subjects of gossip we found dulled nopalitos, Chile of the mount, mountain Chile, cow milk cheeses or goat in its different forms, chicales (in Easter), roasted of pig, roasted of head of cattle, fritada, picadillo, slight, broth of head of cattle without vegetables ripened with mint, cornflour drink of rice, habas, chícharos, lentils and tender calabacita, well barbecue, gorditas and breads cooked in furnaces “bakers”, candies of pumpkin, bishop's weed of milk and chilacayote, as well as apple small box, quince, mead of maguey, cornflour drink of mass with mead, white and mezcal cornflour drink. The celebrations of the region respond in their majority, to the religious celebrations, for example the Supervisory celebration of the 8 of December, Virgin of the Purest Conception, in Doctor Arroyo. 
+</mensaje>
+
+<mensaje id="pr" num="39">
+Municipalidades: Aramberri, córrego do Dr., Galeana, Iturbide, Mier e Noriega, Gral. Zaragoza. Posição: o sul do Estado. Clima: moderar, subhumid com fresco mais invier e chuvas no verão e no inverno a nós. Dados importantes: Esta região elabora os ofícios diferentes, entre que nós encontramos tecemos de Ixtle e lechuguilla, cobertores, jorongos, artigos carved na madeira, artigos da pele, potenciômetros da lama, flowerpots e os coevils, e artigos da cerâmica. Entre os assuntos típicos da bisbolhetice que nós encontramos dulled os nopalitos, o Chile da montagem, a montanha o Chile, os queijos do leite da vaca ou a cabra em seus formulários diferentes, chicales (em Easter), roasted do porco, roasted da cabeça do gado, o fritada, o picadillo, o ligeiro, caldo de carne da cabeça do gado sem vegetais ripened com mint, bebida do cornflour do arroz, habas, chícharos, lentils e calabacita macio, barbecue bom, gorditas e pães cozinhados nas fornalhas “padeiros”, doces da abóbora, erva daninha do bishop do leite e chilacayote, as well as a caixa pequena da maçã, quince, mead do maguey, bebida do cornflour da massa com mead, branco e bebida mezcal do cornflour. Os celebrations da região respondem em sua maioria, aos celebrations religiosos, por exemplo o celebration supervisório dos 8 de dezembro, Virgin do Conception o mais puro, no doutor Arroyo. 
+</mensaje>
+
+<mensaje id="es" num="40">REGIÓN VALLE DEL PILÓN
+Municipios: Allende, Hualahuises, Linares, Montemorelos, Santiago, Gral. Terán, Rayones.
+Localización: se localiza en la parte sureste del Estado.
+Clima: semicálido, subhúmedo, con lluvias en verano e invierno.
+Datos importantes: En la región encontramos artesanías en madera tallada, como trompos, baleros, sillas rústicas, carretas, tartanas y diligencias; además se trabaja la herrería, orfebrería, platería, talabartería y alfarería, entre otros. 
+Los platillos típicos de la zona son entre otros, tamales, menudo, barbacoa, longaniza, asado de puerco, cabrito al pastor, fritada de puerco, cuajitos (en Cadereyta), machacado con huevo, carne zaraza, atole de pinole y conserva de naranja. 
+La mayoría de las fiestas de la región corresponden a las celebraciones eclesiásticas, como por ejemplo la festividad de San Pedro Apóstol el 29 de junio, en Allende.
+</mensaje>
+
+<mensaje id="en" num="40">REGION VALLEY OF THE PILON
+Municipalities: Beyond, Hualahuises, Linares, Montemorelos, Santiago, Gral. Terán, Rayons. Location: it is located in the Southeastern part of the state. Climate: semiwarm, subhumid, with rains in summer and winter. Important data: In the region we found crafts in carved wood, as trompos, bullet molds, rustic chairs, carts, tartanas and diligences; in addition one works the blacksmith shop, orfebrería, platería, talabartería and pottery, among others. The typical subjects of gossip of the zone are among others, tamales, slight, barbecue, longaniza, roasted of pig, cabrito to the shepherd, fritada of pig, cuajitos (in Cadereyta), crushed with egg, meat chintz, cornflour drink of pinole and conserve of orange. Most of the celebrations of the region they correspond to the ecclesiastical celebrations, like for example the festividad of San Pedro Apóstol the 29 of June, in Beyond. 
+</mensaje>
+
+<mensaje id="pr" num="40">VALE da REGIÃO das municipalidades do PILÃO: 
+Além de, Hualahuises, Linares, Montemorelos, Santiago, Gral. Terán, rayons. Posição: é ficada situada na parte do sudeste do Estado. Clima: semiwarm, subhumid, com chuvas no verão e no inverno. Dados importantes: Na região nós encontramos ofícios na madeira carved, como trompos, moldes da bala, cadeiras rustic, carros, tartanas e diligences; além um trabalha a loja, o orfebrería, o platería, o talabartería e a cerâmica do ferreiro, entre outro. Os assuntos típicos da bisbolhetice da zona são entre outros, tamales, ligeiro, barbecue, longaniza, roasted do porco, cabrito ao shepherd, fritada do porco, cuajitos (em Cadereyta), esmagados com ovo, chintz da carne, bebida do cornflour do pinole e conservam da laranja. A maioria dos celebrations da região correspondem aos celebrations eclesiásticos, como por exemplo o festividad de San Pedro Apóstol o 29 de junho, dentro além. 
+</mensaje>
+
+<mensaje id="es" num="41">REGIÓN METROPOLITANA
+Municipios: Apodaca, García, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina, Gral. Escobedo.
+Localización: al noroeste del Estado.
+Clima: presenta un clima semiseco, semicálido con inviernos frescos y lluvias durante el verano.
+Datos importantes: En esta región podemos encontrar artesanías como la talabartería, alfarería, cerámica moderna, vidrio soplado, cristal cortado, hierro forjado, papel maché, flores de papel,  tapetes de ixtle, madera tallada, arte plumario, hilados y tejidos. Cuenta con una gran variedad gastronómica dentro de la cual encontramos platillos como el cabrito asado, al pastor y en salsa, tortillas de harina, fritada de cabrito y de borrego, cortadillo de res y una gran variedad de carnes asadas, tamales, barbacoa, borrego a la griega, chorizo, carne seca, frijoles a la charra, asado de cerdo, panzate de res y sopa de arroz; además se elaboran panes como semitas, turcos, molletes, empanadas, hojarascas, polvorones y polkas.
+Casi la totalidad de las fiestas y tradiciones que tienen arraigo en la región son de origen religioso, por ejemplo el 29 de septiembre se llevan a cabo las fiestas correspondientes a San Miguel Arcángel en Apodaca.
+Una de las tradiciones importantes en la región es la música de tambora y clarinete conocidos popularmente como pito y tamborazo, cuyo estilo es representativo de un origen primitivo, reminiscencia del teponaxtli y la chirimía. </mensaje>
+
+<mensaje id="en" num="41">METROPOLITAN REGION Municipalities: Apodaca, Garci'a, Guadalupe, Juárez, Monterrey, San Nicholas of the Heron, San Pedro Garza Garci'a, Santa Catarina, Gral. Escobedo. Location: to the northwest of the state. Climate: it presents/displays a semidry, semiwarm climate with invier fresh and rains to us during the summer. Important data: In this region we can find crafts like talabartería, pottery, ceramics modern, blown glass, cut crystal, forged iron, paper maché, flowers of paper, rugs of ixtle, carved wood, plumario art, spinnings and weaves. Account with a great gastronomical variety within which we found subjects of gossip like the roasted cabrito, to the shepherd and in sauce, flour tortillas, fritada of cabrito and lamb, cortadillo of head of cattle and a great variety of roasted meats, tamales, barbecue, lamb to the Greek, garlic sausage, dry meat, frijoles to charra, roasted of pig, panzate of head of cattle and soup of rice; in addition breads like Semites, Turks, molletes, empanadas, hojarascas, polvorones and polkas are elaborated. The totality of the celebrations and traditions that have root in the region almost are of religious origin, for example the 29 of September are carried out the celebrations corresponding to San Miguel Arcángel in Apodaca. One of the important traditions in the region is the music of tambora and clarinete known popularly like whistle and tamborazo, whose style is representative of a primitive origin, reminiscencia of teponaxtli and chirimía. </mensaje>
+
+<mensaje id="pr" num="41">Municipalidades METROPOLITANAS da REGIÃO: Apodaca, Garci'a, Guadalupe, Juárez, Monterrey, San Nicholas do Heron, San Pedro Garza Garci'a, Santa Catarina, Gral. Escobedo. Posição: ao noroeste do Estado. Clima: apresenta-nos/indica- um clima semidry, do semiwarm com fresco mais invier e chuvas durante o verão. Dados importantes: Nesta região nós podemos encontrar ofícios como o talabartería, a cerâmica, a cerâmica moderna, o vidro fundido, cristal do corte, ferro forjado, maché de papel, flores do papel, tapetes do ixtle, madeira carved, arte do plumario, spinnings e tecemos. Explicar com uma variedade gastronomical grande dentro de que nós encontramos assuntos da bisbolhetice como o cabrito roasted, ao shepherd e no sauce, nos tortillas da farinha, no fritada do cabrito e do cordeiro, no cortadillo da cabeça do gado e em uma variedade grande de carnes roasted, tamales, barbecue, cordeiro ao grego, sausage do garlic, carne seca, frijoles ao charra, roasted do porco, do panzate da cabeça do gado e da sopa do arroz; além os pães gostam de Semites, Turks, molletes, empanadas, hojarascas, polvorones e os polkas são elaborados. O totality dos celebrations e as tradições que têm a raiz na região são quase da origem religiosa, por exemplo o 29 de setembro são realizados os celebrations que correspondem a San Miguel Arcángel em Apodaca. Uma das tradições importantes na região é a música do tambora e o clarinete sabido popular como assobia e o tamborazo, cujo o estilo é representante de uma origem primitiva, do reminiscencia do teponaxtli e do chirimía. </mensaje>
+
+<mensaje id="es" num="42">REGIÓN CENTRO PERIFÉRICA
+Municipios: Abasolo, Cadereyta Jiménez, El Carmen, Ciénega de Flores, Gral. Zuazua, Hidalgo, Pesquería, Marín. 
+Localización: Centro del Estado.
+Clima: semicálido subhúmedo con lluvias en verano
+Datos importantes: En esta región encontramos comidas típicas como cuajitos (en Cadereyta), chicales, tasajo, tortillas de trigo y harina, caldillo, carne saraza, machacado con huevo, cabrito al pastor, fritada, semitas, molletes, polkas, empanadas de cajeta de calabaza, cortadillo ranchero con arroz,  borrego al horno o en salsa, empalmes, cuajo y  mole de semilla con carne de puerco.
+La tradicional música  regional, es el acordeón y bajo sexto o guitarra imperando los corridos y canciones rancheras. 
+Las fiestas regionales se deben principalmente a las fiestas religiosas, sin embargo también se realizan fiestas en conmemoración de la fundación de los municipios, por ejemplo Abasolo, celebra el 5 de abril el aniversario de su fundación.</mensaje>
+
+<mensaje id="en" num="42">PERIPHERAL REGION CENTER Municipalities: Abasolo, Cadereyta Jiménez, the Carmen, Ciénega de Flores, Gral. Zuazua, Hidalgo, Pesquería, Marín. Location: Center of the state. Climate: semiwarm subhumid with rains in summer Important data: In this region we found typical meals like cuajitos (in Cadereyta), chicales, jerked, tortillas of wheat and flour, thin sauce, meat saraza, crushed with egg, cabrito to the shepherd, fritada, Semitic, molletes, polkas, empanadas of small box of pumpkin, cortadillo mess orderly with rice, lamb to the furnace or in sauce, joints, curdle and mass of seed with pig meat. Traditional regional music, is the accordion and under sixth or guitar reigning in excess and the rancheras songs. The regional celebrations must to the religious celebrations mainly, nevertheless also are made celebrations in commemoration of the foundation of the municipalities, for example Abasolo, celebrates the 5 of April the anniversary of its foundation. </mensaje>
+
+<mensaje id="pr" num="42">Municipalidades PERIFÉRICAS do CENTRO da REGIÃO: Abasolo, Cadereyta Jiménez, motoristas de caminhoneta, Ciénega de Flores, Gral. Zuazua, fidalgo, Pesquería, Marín. Posição: Centro do Estado. Clima: subhumid do semiwarm com chuvas em dados importantes do verão: Nesta região nós encontramos refeições típicas como os cuajitos (em Cadereyta), chicales, empurrados, tortillas do trigo e a farinha, sauce fino, saraza da carne, esmagado com ovo, cabrito ao shepherd, fritada, Semitic, molletes, polkas, empanadas da caixa pequena da abóbora, assistente hospitalar do mess do cortadillo com arroz, cordeiro à fornalha ou no sauce, junções, curdle e massa da semente com carne do porco. A música regional tradicional, é o acordeão e sob o sixth ou a guitarra que reinam no excesso e nas canções dos rancheras. Os celebrations regionais devem aos celebrations religiosos principalmente, não obstante são feitos também a celebrations no commemoration da fundação das municipalidades, por exemplo Abasolo, comemora o 5 de abril o anniversary de sua fundação. </mensaje>
+
+<mensaje id="es" num="43">REGIÓN NORESTE
+Municipios: Agualeguas, Cerralvo, Dr. Coss, Gral. Treviño, Gral. Bravo, China, Los Aldamas, Los Herreras, Los Ramones, Melchor Ocampo, Higueras, Dr. González.
+Localización: abarca la región noreste del Estado.
+Clima: semiseco, semicálido con inviernos frescos y lluvias en verano e invierno.
+Datos importantes: En esta región los platillos típicos son cortadillo de pozo, (tipo barbacoa), mezquitanal, cabrito asado, en fritada o en salsa, machacado con huevo, carnes asadas, guisado de res, el turco o pieza de pan de polvo elaborado con manteca de puerco y vegetal y el picadillo de carne de puerco. Además hay dulces típicos elaborados a base de leche, pasas, nuez y piloncillo, conservas de naranja e higo, dulce elaborado con leche y fríjol; de calabaza y piloncillo.
+Las fiestas regionales generalmente se realizan de acuerdo a las fiestas religiosas, por ejemplo en Los Herreras en junio se realiza una fiesta en honor del Sagrado Corazón de Jesús.</mensaje>
+
+<mensaje id="en" num="43">NORTHEAST REGION Municipalities: Agualeguas, Cerralvo, Dr Coss, Gral. Treviño, Brave Gral., Chinese, the Aldamas, the Herreras, the Ramons, Melchor Ocampo, Fig trees, Dr González. Location: it includes the northeast region of the state. Climate: semidry, semiwarm with invier fresh and rains in summer and winter to us. Important data: In this region the typical subjects of gossip are cortadillo of well, (type barbecue), mezquitanal, roasted cabrito, in fritada or sauce, crushed with egg, roasted meats, stewed of head of cattle, the Turk or piece of dust bread elaborated with butter of pig and vegetable and picadillo of pig meat. In addition there are typical candies elaborated with milk, raisins, nut and piloncillo, conserves of orange and higo, candy elaborated with milk and fríjol; of pumpkin and piloncillo. The regional celebrations are made generally according to the religious celebrations, for example in the Herreras in June a celebration in honor of the Sacred Heart of Jesus is made.</mensaje>
+
+<mensaje id="pr" num="43">Municipalidades DO NORDESTE da REGIÃO: Agualeguas, Cerralvo, Dr. Coss, Gral. Treviño, Gral bravo., chinês, o Aldamas, o Herreras, o Ramons, Melchor Ocampo, árvores, Dr. González. Posição: inclui a região do nordeste do Estado. Clima: semidry, semiwarm com fresco mais invier e chuvas no verão e no inverno a nós. Dados importantes: Nesta região os assuntos típicos da bisbolhetice são cortadillo de bem, (tipo barbecue), o mezquitanal, cabrito roasted, no fritada ou o sauce, esmagado com ovo, as carnes roasted, stewed da cabeça do gado, o Turk ou a parte de pão da poeira elaboraram com manteiga do porco e do vegetal e picadillo da carne do porco. Além há doces típicos elaborou com leite, raisins, porca e piloncillo, conserva da laranja e o higo, doce elaborou com leite e fríjol; da abóbora e do piloncillo. Os celebrations regionais são feitos geralmente de acordo com os celebrations religiosos, por exemplo no Herreras em junho um celebration na honra do coração Sacred de Jesus é feito. </mensaje>
+
+
+
+
+<mensaje id="es" num="44">REGIÓN NOROESTE
+Municipios: Anáhuac, Bustamante, Lampazos de Naranjo, Parás, Sabinas Hidalgo, Vallecillo, Villaldama, Mina, Salinas Victoria.
+Localización: al noroeste del Estado.
+Clima: presenta un clima semiseco, semicálido con inviernos frescos y lluvias durante el verano.
+Datos importantes: En esta región encontramos artesanías elaboradas a base de carrizo y prendas bordadas a mano; el lugar cuenta con una gastronomía muy variada con alimentos como el cabrito (lonches de cabrito, fritada de cabrito, cabrito en salsa), el machacado, sopa de arroz con pasas de uva, tamales, cortadillo, barbacoa, el panzate de pozo, carnes asadas y carne de venado en temporada de caza; además panes como el de huevo, de maíz en acero, el volcán, la empanada de levadura con cajeta de calabaza, las hojarascas, los panecillos de masa con queso, los panes de elote mejor conocidos como panochas de elote. Entre las bebidas encontramos el té de zacate de limón, de anís, canela, hojas de aguacate, salvia y el atole de pinole.
+Algunos de los dulces típicos que se elaboran en esta región son el famoso dulce de frijol, los cubiertos de calabaza, biznaga, camote y charamusca. 
+Las fiestas que se celebran en esta región, se realizan de acuerdo a las fiestas patronales de cada uno de los municipios, por ejemplo la fiesta Patronal de San Juan Bautista (24 de junio) en Lampazos de Naranjo.</mensaje>
+
+<mensaje id="en" num="44">REGION THE NORTHWEST Municipalities: Anáhuac, Bustamante, Mops of Naranjo, Parás, Sabinas Hidalgo, Vallecillo, Villaldama, Mine, Salt mines Victory. Location: to the northwest of the state. Climate: it presents/displays a semidry, semiwarm climate with invier fresh and rains to us during the summer. Important data: In this region we by hand found crafts elaborated with reed and embroidered articles; the place counts on a gastronomy very varied with foods like the cabrito (lonches of cabrito, fritada of cabrito, cabrito in sauce), the crushed one, soup of rice with you happen of grape, tamales, cortadillo, barbecue, panzate of well, roasted meats and meat of deer in season of hunting; in addition breads like the one to egg, maize in steel, the volcano, the empanada one of leavening with small box of pumpkin, hojarascas, rolls of mass with cheese, breads of elote better known like panochas elote. Between drinks we found the tea of lemon marijuana, of anise, cinnamon, leaves of avocado, salvia and the cornflour drink of pinole. Some of the typical candies that are elaborated in this region are the famous candy of frijol, the places setting of pumpkin, bishop's weed, sweet potato and charamusca. The celebrations that are celebrated in this region, are made according to the supervisory celebrations of each one of the municipalities, for example the Supervisory celebration of San Juan Baptist (24 of June) in Mops of Naranjo. </mensaje>
+
+<mensaje id="pr" num="44">REGIÃO as municipalidades NOROESTES: Anáhuac, Bustamante, Mops de Naranjo, Parás, fidalgo de Sabinas, Vallecillo, Villaldama, mina, vitória das minas de sal. Posição: ao noroeste do Estado. Clima: apresenta-nos/indica- um clima semidry, do semiwarm com fresco mais invier e chuvas durante o verão. Dados importantes: Nesta região que nós encontramos à mão ofícios elaborou com lingüeta e bordou artigos; as contagens do lugar em um gastronomy muito variado com alimentos gostam do cabrito (lonches do cabrito, do fritada do cabrito, do cabrito no sauce), esmagado, sopa do arroz com você acontecem da uva, dos tamales, do cortadillo, do barbecue, do panzate de bem, de carnes e da carne roasted dos cervos na estação da caça; além os pães gostam de esse ao ovo, maize no aço, o vulcão, o empanada um de leavening com a caixa pequena da abóbora, hojarascas, rolos da massa com queijo, pães do elote sabidos mais melhor como o elote dos panochas. Entre bebidas nós encontramos o chá do marijuana da limão, do anis, da canela, das folhas do abacate, do salvia e da bebida do cornflour do pinole. Alguns dos doces típicos que são elaborados nesta região são o doce famoso do frijol, o ajuste dos lugares da abóbora, erva daninha do bishop, batata doce e charamusca. Os celebrations que são comemorados nesta região, são feitos de acordo com os celebrations supervisórios de cada das municipalidades, por exemplo o celebration supervisório do Baptist do San Juan (24 de junho) nos Mops de Naranjo. </mensaje>
+
+
+
+
+<mensaje id="es" num="45"></mensaje>
+
+<mensaje id="en" num="45"></mensaje>
+
+<mensaje id="pr" num="45"></mensaje>
+
+
+
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+<mensaje id="es" num="52">Estados Unidos de América</mensaje>
+<mensaje id="en" num="52">United States of America </mensaje>
+<mensaje id="pr" num="52">Estados Unidos da América </mensaje>
+
+
+<mensaje id="es" num="94">Caña de azúcar</mensaje>
+<mensaje id="en" num="94">Sugar cane</mensaje>
+<mensaje id="pr" num="94">Bastão de açúcar</mensaje>
+
+<mensaje id="es" num="95">Ganadería</mensaje>
+<mensaje id="en" num="95">Cattle ranch</mensaje>
+<mensaje id="pr" num="95">Rancho do gado</mensaje>
+
+<mensaje id="es" num="96">Maíz</mensaje>
+<mensaje id="en" num="96">Maize</mensaje>
+<mensaje id="pr" num="96">Maize</mensaje>
+
+<mensaje id="es" num="97">Petróleo</mensaje>
+<mensaje id="en" num="97">Petroleum</mensaje>
+<mensaje id="pr" num="97">Petróleo</mensaje>
+
+<mensaje id="es" num="98">Camarón</mensaje>
+<mensaje id="en" num="98">Shrimp</mensaje>
+<mensaje id="pr" num="98">Camaron</mensaje>
+
+<mensaje id="es" num="99">Pesca</mensaje>
+<mensaje id="en" num="99">Fishing</mensaje>
+<mensaje id="pr" num="99">Pesca</mensaje>
+
+<mensaje id="es" num="100">Naranja</mensaje>
+<mensaje id="en" num="100">Orange</mensaje>
+<mensaje id="pr" num="100">Alaranjado</mensaje>
+
+<mensaje id="es" num="101">Café</mensaje>
+<mensaje id="en" num="101">Coffee</mensaje>
+<mensaje id="pr" num="101">Café</mensaje>
+
+<mensaje id="es" num="102">Recursos forestales</mensaje>
+<mensaje id="en" num="102">Forest resources</mensaje>
+<mensaje id="pr" num="102">Recursos da floresta</mensaje>
+
+<mensaje id="es" num="103">Chile</mensaje>
+<mensaje id="en" num="103">Chile</mensaje>
+<mensaje id="pr" num="103">O Chile</mensaje>
+
+<mensaje id="es" num="104">Plátano</mensaje>
+<mensaje id="en" num="104">Banana</mensaje>
+<mensaje id="pr" num="104">Banana </mensaje>
+
+<mensaje id="es" num="105">Trigo</mensaje>
+<mensaje id="en" num="105">Wheat</mensaje>
+<mensaje id="pr" num="105">Trigo</mensaje>
+
+<mensaje id="es" num="106">Papa</mensaje>
+<mensaje id="en" num="106">Pope</mensaje>
+<mensaje id="pr" num="106">Papa</mensaje>
+
+<mensaje id="es" num="107">Flores</mensaje>
+<mensaje id="en" num="107">Flowers</mensaje>
+<mensaje id="pr" num="107">Flores</mensaje>
+
+<mensaje id="es" num="108">Mango</mensaje>
+<mensaje id="en" num="108">Handle</mensaje>
+<mensaje id="pr" num="108">Punho</mensaje>
+
+<mensaje id="es" num="109">Arroz</mensaje>
+<mensaje id="en" num="109">Rice</mensaje>
+<mensaje id="pr" num="109">Arroz</mensaje>
+
+<mensaje id="es" num="110">Limón</mensaje>
+<mensaje id="en" num="110">Lemon</mensaje>
+<mensaje id="pr" num="110">Limão</mensaje>
+
+<mensaje id="es" num="111">Aguacate</mensaje>
+<mensaje id="en" num="111">Avocado</mensaje>
+<mensaje id="pr" num="111">Abacate</mensaje>
+
+<mensaje id="es" num="112">Industria</mensaje>
+<mensaje id="en" num="112">Industry</mensaje>
+<mensaje id="pr" num="112">Indústria</mensaje>
+
+<mensaje id="es" num="113">Frijol</mensaje>
+<mensaje id="en" num="113">Bean</mensaje>
+<mensaje id="pr" num="113">Feijão</mensaje>
+
+<mensaje id="es" num="114">Correcaminos</mensaje>
+<mensaje id="en" num="114">Roadrunner</mensaje>
+<mensaje id="pr" num="114"></mensaje>
+
+<mensaje id="es" num="115">Pato de collar</mensaje>
+<mensaje id="en" num="115">Duck of necklace</mensaje>
+<mensaje id="pr" num="115">Pato do necklace </mensaje>
+
+
+<mensaje id="es" num="117">Chachalaca</mensaje>
+<mensaje id="en" num="117">Chachalaca</mensaje>
+<mensaje id="pr" num="117">Chachalaca</mensaje>
+
+
+<mensaje id='es' num='118'>Gato montés</mensaje>
+<mensaje id='en' num='118'>Wildcat</mensaje>
+<mensaje id='pr' num='118'>Lince</mensaje>
+
+<mensaje id='es' num='119'>Venado de cola blanca</mensaje>
+<mensaje id='en' num='119'>Deer of white tail</mensaje>
+<mensaje id='pr' num='119'>Cervos da cauda branca</mensaje>
+
+<mensaje id='es' num='120'>Coyote</mensaje>
+<mensaje id='en' num='120'>Coyote</mensaje>
+<mensaje id='pr' num='120'>Coyote</mensaje>
+
+<mensaje id='es' num='121'>Oyamel</mensaje>
+<mensaje id='en' num='121'>Oyamel</mensaje>
+<mensaje id='pr' num='121'>Oyamel</mensaje>
+
+<mensaje id='es' num='122'>Pato Real</mensaje>
+<mensaje id='en' num='122'>Real duck</mensaje>
+<mensaje id='pr' num='122'>Pato real</mensaje>
+
+<mensaje id='es' num='123'>Tlalcoyote</mensaje>
+<mensaje id='en' num='123'>Tlalcoyote</mensaje>
+<mensaje id='pr' num='123'>Tlalcoyote</mensaje>
+
+<mensaje id='es' num='124'>Huilota</mensaje>
+<mensaje id='en' num='124'>Huilota</mensaje>
+<mensaje id='pr' num='124'>Huilota</mensaje>
+
+<mensaje id='es' num='125'>Agricultura</mensaje>
+<mensaje id='en' num='125'>Agriculture</mensaje>
+<mensaje id='pr' num='125'>Agricultura</mensaje>
+
+<mensaje id='es' num='126'>Zacatonales</mensaje>
+<mensaje id='en' num='126'>Zacatonales</mensaje>
+<mensaje id='pr' num='126'>Zacatonales</mensaje>
+
+<mensaje id='es' num='127'>Encino</mensaje>
+<mensaje id='en' num='127'>Encino</mensaje>
+<mensaje id='pr' num='127'>Encino</mensaje>
+
+<mensaje id='es' num='128'>Zorrillo</mensaje>
+<mensaje id='en' num='128'>Zorrillo</mensaje>
+<mensaje id='pr' num='128'>Zorrillo</mensaje>
+
+<mensaje id='es' num='129'>Paloma</mensaje>
+<mensaje id='en' num='129'>Dove</mensaje>
+<mensaje id='pr' num='129'>Pomba</mensaje>
+
+<mensaje id='es' num='130'>Liebre</mensaje>
+<mensaje id='en' num='130'>Hare</mensaje>
+<mensaje id='pr' num='130'>Liebre</mensaje>
+
+<mensaje id='es' num='131'>Pino</mensaje>
+<mensaje id='en' num='131'>Pine</mensaje>
+<mensaje id='pr' num='131'>Pinho</mensaje>
+
+<mensaje id='es' num='132'>Cedro</mensaje>
+<mensaje id='en' num='132'>Cedar</mensaje>
+<mensaje id='pr' num='132'>Cedro</mensaje>
+
+<mensaje id='es' num='133'>Plantas de adorno y medicinales</mensaje>
+<mensaje id='en' num='133'>Plants of adornment and medicinal</mensaje>
+<mensaje id='pr' num='133'>Plantas do adornment e do varrão</mensaje>
+
+<mensaje id='es' num='134'>Jabalí</mensaje>
+<mensaje id='en' num='134'>Wild boar</mensaje>
+<mensaje id='pr' num='134'>Jabali</mensaje>
+
+<mensaje id='es' num='135'>Agave</mensaje>
+<mensaje id='en' num='135'>Agave</mensaje>
+<mensaje id='pr' num='135'>Agave</mensaje>
+
+<mensaje id='es' num='136'>Onix, yeso y marmol</mensaje>
+<mensaje id='en' num='136'>Onyx, plaster and marble </mensaje>
+<mensaje id='pr' num='136'>Onyx, emplastro e mármore </mensaje>
+
+
+<mensaje id='es' num='200'>Río Bravo</mensaje>
+<mensaje id='en' num='200'>Bravo river</mensaje>
+<mensaje id='pr' num='200'>Rio do Bravo</mensaje>
+<mensaje id='es' num='201'>Río Salado</mensaje>
+<mensaje id='en' num='201'>Salado river</mensaje>
+<mensaje id='pr' num='201'>Rio do Salado</mensaje>
+<mensaje id='es' num='202'>Río Sabinas</mensaje>
+<mensaje id='en' num='202'>Sabinas river</mensaje>
+<mensaje id='pr' num='202'>Rio do Sabinas</mensaje>
+<mensaje id='es' num='203'>Río Sosa</mensaje>
+<mensaje id='en' num='203'>Sosa river</mensaje>
+<mensaje id='pr' num='203'>Rio do Sosa</mensaje>
+<mensaje id='es' num='204'>Río San Juan</mensaje>
+<mensaje id='en' num='204'>San Juan river</mensaje>
+<mensaje id='pr' num='204'>Rio do San Juan</mensaje>
+<mensaje id='es' num='205'>Río Pesquería</mensaje>
+<mensaje id='en' num='205'>Pesquería river</mensaje>
+<mensaje id='pr' num='205'>Rio do Pesquería</mensaje>
+<mensaje id='es' num='206'>Río Salinas</mensaje>
+<mensaje id='en' num='206'>Salinas river</mensaje>
+<mensaje id='pr' num='206'>Rio do Salinas</mensaje>
+<mensaje id='es' num='207'>Río Santa Catarina</mensaje>
+<mensaje id='en' num='207'>Santa Catarina river</mensaje>
+<mensaje id='pr' num='207'>Rio do Santa Catarina</mensaje>
+<mensaje id='es' num='208'>Río La Silla</mensaje>
+<mensaje id='en' num='208'>La Silla river</mensaje>
+<mensaje id='pr' num='208'>Rio do La Silla</mensaje>
+<mensaje id='es' num='209'>Río Ramos</mensaje>
+<mensaje id='en' num='209'>Ramos river</mensaje>
+<mensaje id='pr' num='209'>Rio do Ramos</mensaje>
+<mensaje id='es' num='210'>Río Pilón</mensaje>
+<mensaje id='en' num='210'>Pilón river</mensaje>
+<mensaje id='pr' num='210'>Rio do Pilón</mensaje>
+<mensaje id='es' num='211'>Río Potosí</mensaje>
+<mensaje id='en' num='211'>Potosí river</mensaje>
+<mensaje id='pr' num='211'>Rio do Potosí</mensaje>
+<mensaje id='es' num='212'>Río Conchos</mensaje>
+<mensaje id='en' num='212'>Conchos river</mensaje>
+<mensaje id='pr' num='212'>Rio do Conchos</mensaje>
+<mensaje id='es' num='213'>Río Pablillo</mensaje>
+<mensaje id='en' num='213'>Pablillo river</mensaje>
+<mensaje id='pr' num='213'>Rio do Pablillo</mensaje>
+<mensaje id='es' num='214'>Río Álamo</mensaje>
+<mensaje id='en' num='214'>Álamo river</mensaje>
+<mensaje id='pr' num='214'>Rio do Álamo</mensaje>
+<mensaje id='es' num='216'>Río Camacho</mensaje>
+<mensaje id='en' num='216'>Camacho river</mensaje>
+<mensaje id='pr' num='216'>Rio do Camacho</mensaje>
+<mensaje id='es' num='218'>Río Candela</mensaje>
+<mensaje id='en' num='218'>Candela river</mensaje>
+<mensaje id='pr' num='218'>Rio do Candela</mensaje>
+<mensaje id='es' num='220'>Arroyo San Miguel</mensaje>
+<mensaje id='en' num='220'>San Miguel stream</mensaje>
+<mensaje id='pr' num='220'>Córrego San Miguel</mensaje>
+<mensaje id='es' num='215'>Río Blanco</mensaje>
+<mensaje id='en' num='215'>Blanco river</mensaje>
+<mensaje id='pr' num='215'>Rio do Blanco</mensaje>
+<mensaje id='es' num='217'>Río Camarones</mensaje>
+<mensaje id='en' num='217'>Camarones river</mensaje>
+<mensaje id='pr' num='217'>Rio do Camarones</mensaje>
+<mensaje id='es' num='219'>Río San Lorenzo</mensaje>
+<mensaje id='en' num='219'>San Lorenzo river</mensaje>
+<mensaje id='pr' num='219'>Rio do San Lorenzo</mensaje>
+
+<mensaje id='es' num='300'>La Sierrita</mensaje>
+<mensaje id='en' num='300'>La Sierrita</mensaje>
+<mensaje id='pr' num='300'>La Sierrita</mensaje>
+<mensaje id='es' num='301'>Sierras y llanuras Coahuilenses</mensaje>
+<mensaje id='en' num='301'>Mountain ranges and plains Coahuilenses</mensaje>
+<mensaje id='pr' num='301'>Sierras y llanuras Coahuilenses</mensaje>
+<mensaje id='es' num='302'>Pliegues Saltillo Parras</mensaje>
+<mensaje id='en' num='302'>Pliegues Parras Forecastle</mensaje>
+<mensaje id='pr' num='302'>Pliegues Saltillo Parras</mensaje>
+<mensaje id='es' num='303'>Cerro del Fraile</mensaje>
+<mensaje id='en' num='303'>Hill of the Friar</mensaje>
+<mensaje id='pr' num='303'>Cerro del Fraile</mensaje>
+<mensaje id='es' num='304'>Gran Sierra Plegada</mensaje>
+<mensaje id='en' num='304'>Gran Sierra Plegada</mensaje>
+<mensaje id='pr' num='304'>Gran Sierra Plegada</mensaje>
+<mensaje id='es' num='305'>Sierras y Llanuras Occidentales</mensaje>
+<mensaje id='en' num='305'>Great Folded Mountain range</mensaje>
+<mensaje id='pr' num='305'>Sierras y Llanuras Occidentales</mensaje>
+<mensaje id='es' num='306'>Sierras transversales</mensaje>
+<mensaje id='en' num='306'>cross-sectional Mountain ranges</mensaje>
+<mensaje id='pr' num='306'>Sierras transversales</mensaje>
+<mensaje id='es' num='307'>El Potosí</mensaje>
+<mensaje id='en' num='307'>El Potosí</mensaje>
+<mensaje id='pr' num='307'>El Potosí</mensaje>
+<mensaje id='es' num='308'>Pinal Alto</mensaje>
+<mensaje id='en' num='308'>Pinal Alto</mensaje>
+<mensaje id='pr' num='308'>Pinal Alto</mensaje>
+<mensaje id='es' num='309'>San Miguel</mensaje>
+<mensaje id='en' num='309'>San Miguel</mensaje>
+<mensaje id='pr' num='309'>San Miguel</mensaje>
+<mensaje id='es' num='310'>Las Mitras</mensaje>
+<mensaje id='en' num='310'>Las Mitras</mensaje>
+<mensaje id='pr' num='310'>Las Mitras</mensaje>
+<mensaje id='es' num='311'>Cerro de la Silla</mensaje>
+<mensaje id='en' num='311'>Cerro de la Silla</mensaje>
+<mensaje id='pr' num='311'>Cerro de la Silla</mensaje>
+<mensaje id='es' num='312'>Picachos</mensaje>
+<mensaje id='en' num='312'>Picachos</mensaje>
+<mensaje id='pr' num='312'>Picachos</mensaje>
+<mensaje id='es' num='313'>Milpillas</mensaje>
+<mensaje id='en' num='313'>Milpillas</mensaje>
+<mensaje id='pr' num='313'>Milpillas</mensaje>
+<mensaje id='es' num='314'>Lampazos</mensaje>
+<mensaje id='en' num='314'>Lampazos</mensaje>
+<mensaje id='pr' num='314'>Lampazos</mensaje>
+
+<mensaje id='es' num='400'>Sabinas Hidalgo</mensaje>
+<mensaje id='en' num='400'>Sabinas Hidalgo</mensaje>
+<mensaje id='pr' num='400'>Sabinas Hidalgo</mensaje>
+<mensaje id='es' num='401'>Monterrey</mensaje>
+<mensaje id='en' num='401'>Monterrey</mensaje>
+<mensaje id='pr' num='401'>Monterrey</mensaje>
+<mensaje id='es' num='402'>Cadereyta Jiménez</mensaje>
+<mensaje id='en' num='402'>Cadereyta Jiménez</mensaje>
+<mensaje id='pr' num='402'>Cadereyta Jiménez</mensaje>
+<mensaje id='es' num='403'>Galeana</mensaje>
+<mensaje id='en' num='403'>Galeana</mensaje>
+<mensaje id='pr' num='403'>Galeana</mensaje>
+<mensaje id='es' num='404'>Montemorelos</mensaje>
+<mensaje id='en' num='404'>Montemorelos</mensaje>
+<mensaje id='pr' num='404'>Montemorelos</mensaje>
+<mensaje id='es' num='405'>China</mensaje>
+<mensaje id='en' num='405'>China</mensaje>
+<mensaje id='pr' num='405'>China</mensaje>
+
+<mensaje id='es' num='500'>Grutas de Bustamante</mensaje>
+<mensaje id='en' num='500'>Grottos of Bustamante</mensaje>
+<mensaje id='pr' num='500'>Grottos de Bustamante</mensaje>
+<mensaje id='es' num='501'>Boca de Potrerillos</mensaje>
+<mensaje id='en' num='501'>Boca de Potrerillos</mensaje>
+<mensaje id='pr' num='501'>Boca de Potrerillos</mensaje>
+<mensaje id='es' num='502'>Cañón de Potrero chico</mensaje>
+<mensaje id='en' num='502'>Cañón de Potrero chico</mensaje>
+<mensaje id='pr' num='502'>Cañón de Potrero chico</mensaje>
+<mensaje id='es' num='503'>Grutas de García</mensaje>
+<mensaje id='en' num='503'>Grottos of García</mensaje>
+<mensaje id='pr' num='503'>Grottos de García</mensaje>
+<mensaje id='es' num='504'>Faro de comercio</mensaje>
+<mensaje id='en' num='504'>Light of commerce</mensaje>
+<mensaje id='pr' num='504'>Luz do comércio</mensaje>
+<mensaje id='es' num='505'>Fuente de la Vida</mensaje>
+<mensaje id='en' num='505'>Source of Vida </mensaje>
+<mensaje id='pr' num='505'>Fonte de Vida</mensaje>
+<mensaje id='es' num='506'>Casino de Monterrey</mensaje>
+<mensaje id='en' num='506'>Casino of Monterrey</mensaje>
+<mensaje id='pr' num='506'>Casino de Monterrey</mensaje>
+<mensaje id='es' num='507'>Palacio de gobierno</mensaje>
+<mensaje id='en' num='507'>Palace of government</mensaje>
+<mensaje id='pr' num='507'>Palácio do governo</mensaje>
+<mensaje id='es' num='508'>Gran plaza</mensaje>
+<mensaje id='en' num='508'>Gran plaza</mensaje>
+<mensaje id='pr' num='508'>Gran plaza</mensaje>
+<mensaje id='es' num='509'>Cañón de la Huasteca</mensaje>
+<mensaje id='en' num='509'>Cañón de la Huasteca</mensaje>
+<mensaje id='pr' num='509'>Cañón de la Huasteca</mensaje>
+<mensaje id='es' num='510'>Catedral</mensaje>
+<mensaje id='en' num='510'>Cathedral</mensaje>
+<mensaje id='pr' num='510'>Catedral</mensaje>
+<mensaje id='es' num='511'>Matacanes</mensaje>
+<mensaje id='en' num='511'>Matacanes</mensaje>
+<mensaje id='pr' num='511'>Matacanes</mensaje>
+<mensaje id='es' num='512'>Santiago</mensaje>
+<mensaje id='en' num='512'>Santiago</mensaje>
+<mensaje id='pr' num='512'>Santiago</mensaje>
+<mensaje id='es' num='513'>Cascada Cola de caballo</mensaje>
+<mensaje id='en' num='513'>Cascada Cola de caballo</mensaje>
+<mensaje id='pr' num='513'>Cascada Cola de caballo</mensaje>
+<mensaje id='es' num='514'>Laguna de Sánchez</mensaje>
+<mensaje id='en' num='514'>Laguna de Sánchez</mensaje>
+<mensaje id='pr' num='514'>Laguna de Sánchez</mensaje>
+<mensaje id='es' num='515'>Pozo del Gavilán</mensaje>
+<mensaje id='en' num='515'>Pozo del Gavilán</mensaje>
+<mensaje id='pr' num='515'>Pozo del Gavilán</mensaje>
+<mensaje id='es' num='516'>Pico El Potosí</mensaje>
+<mensaje id='en' num='516'>Pico El Potosí</mensaje>
+<mensaje id='pr' num='516'>Pico El Potosí</mensaje>
+<mensaje id='es' num='517'>Cumbres de Monterrey</mensaje>
+<mensaje id='en' num='517'>Cumbres de Monterrey</mensaje>
+<mensaje id='pr' num='517'>Cumbres de Monterrey</mensaje>
+<mensaje id='es' num='518'>Cerro del Fraile</mensaje>
+<mensaje id='en' num='518'>Cerro del Fraile</mensaje>
+<mensaje id='pr' num='518'>Cerro del Fraile</mensaje>
+<mensaje id='es' num='519'>El Sabinal</mensaje>
+<mensaje id='en' num='519'>El Sabinal</mensaje>
+<mensaje id='pr' num='519'>El Sabinal</mensaje>
+
+<mensaje id='es' num='600'>REGION SUR</mensaje>
+<mensaje id='en' num='600'>REGION SUR</mensaje>
+<mensaje id='pr' num='600'>REGION SUR</mensaje>
+<mensaje id='es' num='601'>REGIÓN VALLE DEL PILÓN</mensaje>
+<mensaje id='en' num='601'>REGIÓN VALLE DEL PILÓN</mensaje>
+<mensaje id='pr' num='601'>REGIÓN VALLE DEL PILÓN</mensaje>
+<mensaje id='es' num='602'>REGIÓN METROPOLITANA</mensaje>
+<mensaje id='en' num='602'>REGIÓN METROPOLITANA</mensaje>
+<mensaje id='pr' num='602'>REGIÓN METROPOLITANA</mensaje>
+<mensaje id='es' num='603'>REGIÓN CENTRO PERIFÉRICA</mensaje>
+<mensaje id='en' num='603'>REGIÓN CENTRO PERIFÉRICA</mensaje>
+<mensaje id='pr' num='603'>REGIÓN CENTRO PERIFÉRICA</mensaje>
+<mensaje id='es' num='604'>REGIÓN NORESTE</mensaje>
+<mensaje id='en' num='604'>REGIÓN NORESTE</mensaje>
+<mensaje id='pr' num='604'>REGIÓN NORESTE</mensaje>
+<mensaje id='es' num='605'>REGIÓN NOROESTE</mensaje>
+<mensaje id='en' num='605'>REGIÓN NOROESTE</mensaje>
+<mensaje id='pr' num='605'>REGIÓN NOROESTE</mensaje>
+
+</mensajes>

@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">Xochicalco es uno de los sitios arqueológicos más importante de México, fue reconocido por la UNESCO en 1999, como Patrimonio Mundial.</mensaje>
+<mensaje id="en" num="1">Xochicalco es uno de los sitios arqueológicos más importante de México, fue reconocido por la UNESCO en 1999, como Patrimonio Mundial.</mensaje>
+<mensaje id="pr" num="1">Xochicalco es uno de los sitios arqueológicos más importante de México, fue reconocido por la UNESCO en 1999, como Patrimonio Mundial.</mensaje>
+
+<mensaje id="es" num="2">Por sus manantiales y bellos paisajes, Cuautla es conocida como “la ciudad de los balnearios”.</mensaje>
+<mensaje id="en" num="2">Por sus manantiales y bellos paisajes, Cuautla es conocida como “la ciudad de los balnearios”.</mensaje>
+<mensaje id="pr" num="2">Por sus manantiales y bellos paisajes, Cuautla es conocida como “la ciudad de los balnearios”.</mensaje>
+
+<mensaje id="es" num="3">Emiliano Zapata nació en Anenecuilco, Morelos en 1879.</mensaje>
+<mensaje id="en" num="3">Emiliano Zapata nació en Anenecuilco, Morelos en 1879.</mensaje>
+<mensaje id="pr" num="3">Emiliano Zapata nació en Anenecuilco, Morelos en 1879.</mensaje>
+
+<mensaje id="es" num="4">La pirámide del Tepozteco en Tepoztlán, fue construida por los tlahuicas. </mensaje>
+<mensaje id="en" num="4">La pirámide del Tepozteco en Tepoztlán, fue construida por los tlahuicas. </mensaje>
+<mensaje id="pr" num="4">La pirámide del Tepozteco en Tepoztlán, fue construida por los tlahuicas. </mensaje>
+
+<mensaje id="es" num="5">Los franciscanos, agustinos, dominicos, dieguinos e hipólitos, fueron las órdenes religiosas que llegaron a Morelos.</mensaje>
+<mensaje id="en" num="5">Los franciscanos, agustinos, dominicos, dieguinos e hipólitos, fueron las órdenes religiosas que llegaron a Morelos.</mensaje>
+<mensaje id="pr" num="5">Los franciscanos, agustinos, dominicos, dieguinos e hipólitos, fueron las órdenes religiosas que llegaron a Morelos.</mensaje>
+
+<mensaje id="es" num="6">Los franciscanos erigieron la catedral de Cuernavaca.</mensaje>
+<mensaje id="en" num="6">Los franciscanos erigieron la catedral de Cuernavaca.</mensaje>
+<mensaje id="pr" num="6">Los franciscanos erigieron la catedral de Cuernavaca.</mensaje>
+
+<mensaje id="es" num="7">El actual territorio de Morelos, perteneció al marquesado que los reyes de España concedieron a Hernán Cortés.</mensaje>
+<mensaje id="en" num="7">El actual territorio de Morelos, perteneció al marquesado que los reyes de España concedieron a Hernán Cortés.</mensaje>
+<mensaje id="pr" num="7">El actual territorio de Morelos, perteneció al marquesado que los reyes de España concedieron a Hernán Cortés.</mensaje>
+
+<mensaje id="es" num="8">El Estado de Morelos lleva ese nombre en honor al héroe José María Morelos y Pavón.</mensaje>
+<mensaje id="en" num="8">El Estado de Morelos lleva ese nombre en honor al héroe José María Morelos y Pavón.</mensaje>
+<mensaje id="pr" num="8">El Estado de Morelos lleva ese nombre en honor al héroe José María Morelos y Pavón.</mensaje>
+
+<mensaje id="es" num="9">Francisco Leyva fue el primer gobernador constitucional de Morelos.</mensaje>
+<mensaje id="en" num="9">Francisco Leyva fue el primer gobernador constitucional de Morelos.</mensaje>
+<mensaje id="pr" num="9">Francisco Leyva fue el primer gobernador constitucional de Morelos.</mensaje>
+
+<mensaje id="es" num="10">Cuernavaca fue fundada entre los siglos XII y XIII, su nombre proviene del náhuatl Cuauhnáhuac,  que significa "en la orilla del bosque".</mensaje>
+<mensaje id="en" num="10">Cuernavaca fue fundada entre los siglos XII y XIII, su nombre proviene del náhuatl Cuauhnáhuac,  que significa "en la orilla del bosque".</mensaje>
+<mensaje id="pr" num="10">Cuernavaca fue fundada entre los siglos XII y XIII, su nombre proviene del náhuatl Cuauhnáhuac,  que significa "en la orilla del bosque".</mensaje>
+
+<mensaje id="es" num="11">Golfo de México</mensaje>
+<mensaje id="en" num="11">Gulf of Mexico</mensaje>
+<mensaje id="pr" num="11">Golfo de México</mensaje>
+
+<mensaje id="es" num="12">Estado de México</mensaje>
+<mensaje id="en" num="12">State of Mexico </mensaje>
+<mensaje id="pr" num="12">Estado de México </mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id="es" num="39">REGIÓN SIERRA ALTA
+Municipios: Huitzilac, Tepoztlán, Tlalnepantla y Tetela del Volcán.	
+Localización: norte del Estado.
+Clima: semifrío.
+Datos importantes: esta región es la más elevada del Estado de Morelos y está formada por una cadena de montañas que va desde el cerro del Ajusco hasta la cima del Popocatépetl. Aquí se elaboran diferentes artesanías típicas, por ejemplo los muebles de madera tallados a mano de Huitzilac o la cerámica y casitas de pochote de Tepoztlán. Además de las artesanías, en esta región encontramos comida típica como el mole rojo de guajolote, la barbacoa de borrego, mole verde de pepita (pipián), tamales de frijol, tamales de salsa verde y roja, quesadillas, tlacoyos de haba y de frijol, cecina de res o enchilada de cerdo con crema y queso, arroz, mixiotes de pollo y diversos platillos con nopales, también bebidas como el pulque de sabores, curado de tuna, atole, aguardientes, agua de nopal, tepache (que es pulque de maguey hervido con chile guajillo).
+Las festividades realizadas en la región son generalmente religiosas, por ejemplo el 24 de junio se llevan a cabo las festividades religiosas en honor al Santo Patrono San Juan Bautista en Huitzilac y en mayo la de Pentecostés en Tlalnepantla; sin embargo, también hay otras festividades por ejemplo en septiembre se celebra en Tepoztlán la Fiesta del Tepozteco y la de El Pericón (el primer corte de elotes). Otro aspecto digno de nombrar es la música de viento y la de los “Chinelos”, típica de la región. 
+Algunos de los lugares más representativos de la región son las Lagunas de Zempoala en Huitzilac, la pirámide del Tepozteco en Tepoztlán y el Ex-Convento de San Juan Bautista en Tetela del Volcán.</mensaje>
+<mensaje id="en" num="39">REGIÓN SIERRA ALTA
+Municipios: Huitzilac, Tepoztlán, Tlalnepantla y Tetela del Volcán.	
+Localización: norte del Estado.
+Clima: semifrío.
+Datos importantes: esta región es la más elevada del Estado de Morelos y está formada por una cadena de montañas que va desde el cerro del Ajusco hasta la cima del Popocatépetl. Aquí se elaboran diferentes artesanías típicas, por ejemplo los muebles de madera tallados a mano de Huitzilac o la cerámica y casitas de pochote de Tepoztlán. Además de las artesanías, en esta región encontramos comida típica como el mole rojo de guajolote, la barbacoa de borrego, mole verde de pepita (pipián), tamales de frijol, tamales de salsa verde y roja, quesadillas, tlacoyos de haba y de frijol, cecina de res o enchilada de cerdo con crema y queso, arroz, mixiotes de pollo y diversos platillos con nopales, también bebidas como el pulque de sabores, curado de tuna, atole, aguardientes, agua de nopal, tepache (que es pulque de maguey hervido con chile guajillo).
+Las festividades realizadas en la región son generalmente religiosas, por ejemplo el 24 de junio se llevan a cabo las festividades religiosas en honor al Santo Patrono San Juan Bautista en Huitzilac y en mayo la de Pentecostés en Tlalnepantla; sin embargo, también hay otras festividades por ejemplo en septiembre se celebra en Tepoztlán la Fiesta del Tepozteco y la de El Pericón (el primer corte de elotes). Otro aspecto digno de nombrar es la música de viento y la de los “Chinelos”, típica de la región. 
+Algunos de los lugares más representativos de la región son las Lagunas de Zempoala en Huitzilac, la pirámide del Tepozteco en Tepoztlán y el Ex-Convento de San Juan Bautista en Tetela del Volcán.</mensaje>
+<mensaje id="pr" num="39">REGIÓN SIERRA ALTA
+Municipios: Huitzilac, Tepoztlán, Tlalnepantla y Tetela del Volcán.	
+Localización: norte del Estado.
+Clima: semifrío.
+Datos importantes: esta región es la más elevada del Estado de Morelos y está formada por una cadena de montañas que va desde el cerro del Ajusco hasta la cima del Popocatépetl. Aquí se elaboran diferentes artesanías típicas, por ejemplo los muebles de madera tallados a mano de Huitzilac o la cerámica y casitas de pochote de Tepoztlán. Además de las artesanías, en esta región encontramos comida típica como el mole rojo de guajolote, la barbacoa de borrego, mole verde de pepita (pipián), tamales de frijol, tamales de salsa verde y roja, quesadillas, tlacoyos de haba y de frijol, cecina de res o enchilada de cerdo con crema y queso, arroz, mixiotes de pollo y diversos platillos con nopales, también bebidas como el pulque de sabores, curado de tuna, atole, aguardientes, agua de nopal, tepache (que es pulque de maguey hervido con chile guajillo).
+Las festividades realizadas en la región son generalmente religiosas, por ejemplo el 24 de junio se llevan a cabo las festividades religiosas en honor al Santo Patrono San Juan Bautista en Huitzilac y en mayo la de Pentecostés en Tlalnepantla; sin embargo, también hay otras festividades por ejemplo en septiembre se celebra en Tepoztlán la Fiesta del Tepozteco y la de El Pericón (el primer corte de elotes). Otro aspecto digno de nombrar es la música de viento y la de los “Chinelos”, típica de la región. 
+Algunos de los lugares más representativos de la región son las Lagunas de Zempoala en Huitzilac, la pirámide del Tepozteco en Tepoztlán y el Ex-Convento de San Juan Bautista en Tetela del Volcán.</mensaje>
+
+<mensaje id="es" num="40"> REGIÓN DE PIEDEMONTE (Altos de Morelos)
+Municipios: Tlayacapan, Atlatlauhcan y Totolapan.
+Localización: entre la Sierra Alta y los Valles.
+Clima: al norte es templado y al sur semicálido.
+Datos importantes: en esta región se trabaja el barro principalmente para la elaboración de artesanías típicas, algunos ejemplos son macetas, alcancías, figuras, ollas de todos tamaños, comales, jarros, cazuelas y vajillas completas de barro vidriado y con tintes de gran colorido; además en Tlayacapan se trabaja la alfarería. Los platillos típicos que aquí se elaboran son entre otros, el mole verde de pepita (pipían) con tamales de ceniza, charales y frijoles blancos, mole estilo Tlayacapan, tamales de ceniza y fríjol quebrado, mole de guajolote, tlacoyos de haba, fríjol molido crudo y hervido, el guaxmole, preparado con salsa de jitomate, gorditas de manteca, chalupas, tlaxcales con elote recio, cecina de res con crema y queso, así como cecina enchilada de puerco. 
+Algunas de las fiestas más importantes son el Carnaval (inicio de la cuaresma) en Tlayacapan, donde el atractivo principal es el brinco del “Chinelo”; la celebración del Cristo Aparecido en Atlatlauhcan, donde los habitantes del municipio acostumbran asistir al lugar llamado “la cuevita”; y el 29 de septiembre en Totolapan, se realizan funciones religiosas en honor a la Divina Providencia.
+Esta región cuenta con diversos atractivos turísticos, entre los que destacan el Ex-Convento de San Juan Bautista en Tlayacapan, el convento de San Mateo en Atlatlauhcan y el Convento de San Guillermo en Totolapan.</mensaje>
+<mensaje id="en" num="40"> REGIÓN DE PIEDEMONTE (Altos de Morelos)
+Municipios: Tlayacapan, Atlatlauhcan y Totolapan.
+Localización: entre la Sierra Alta y los Valles.
+Clima: al norte es templado y al sur semicálido.
+Datos importantes: en esta región se trabaja el barro principalmente para la elaboración de artesanías típicas, algunos ejemplos son macetas, alcancías, figuras, ollas de todos tamaños, comales, jarros, cazuelas y vajillas completas de barro vidriado y con tintes de gran colorido; además en Tlayacapan se trabaja la alfarería. Los platillos típicos que aquí se elaboran son entre otros, el mole verde de pepita (pipían) con tamales de ceniza, charales y frijoles blancos, mole estilo Tlayacapan, tamales de ceniza y fríjol quebrado, mole de guajolote, tlacoyos de haba, fríjol molido crudo y hervido, el guaxmole, preparado con salsa de jitomate, gorditas de manteca, chalupas, tlaxcales con elote recio, cecina de res con crema y queso, así como cecina enchilada de puerco. 
+Algunas de las fiestas más importantes son el Carnaval (inicio de la cuaresma) en Tlayacapan, donde el atractivo principal es el brinco del “Chinelo”; la celebración del Cristo Aparecido en Atlatlauhcan, donde los habitantes del municipio acostumbran asistir al lugar llamado “la cuevita”; y el 29 de septiembre en Totolapan, se realizan funciones religiosas en honor a la Divina Providencia.
+Esta región cuenta con diversos atractivos turísticos, entre los que destacan el Ex-Convento de San Juan Bautista en Tlayacapan, el convento de San Mateo en Atlatlauhcan y el Convento de San Guillermo en Totolapan.</mensaje>
+<mensaje id="pr" num="40"> REGIÓN DE PIEDEMONTE (Altos de Morelos)
+Municipios: Tlayacapan, Atlatlauhcan y Totolapan.
+Localización: entre la Sierra Alta y los Valles.
+Clima: al norte es templado y al sur semicálido.
+Datos importantes: en esta región se trabaja el barro principalmente para la elaboración de artesanías típicas, algunos ejemplos son macetas, alcancías, figuras, ollas de todos tamaños, comales, jarros, cazuelas y vajillas completas de barro vidriado y con tintes de gran colorido; además en Tlayacapan se trabaja la alfarería. Los platillos típicos que aquí se elaboran son entre otros, el mole verde de pepita (pipían) con tamales de ceniza, charales y frijoles blancos, mole estilo Tlayacapan, tamales de ceniza y fríjol quebrado, mole de guajolote, tlacoyos de haba, fríjol molido crudo y hervido, el guaxmole, preparado con salsa de jitomate, gorditas de manteca, chalupas, tlaxcales con elote recio, cecina de res con crema y queso, así como cecina enchilada de puerco. 
+Algunas de las fiestas más importantes son el Carnaval (inicio de la cuaresma) en Tlayacapan, donde el atractivo principal es el brinco del “Chinelo”; la celebración del Cristo Aparecido en Atlatlauhcan, donde los habitantes del municipio acostumbran asistir al lugar llamado “la cuevita”; y el 29 de septiembre en Totolapan, se realizan funciones religiosas en honor a la Divina Providencia.
+Esta región cuenta con diversos atractivos turísticos, entre los que destacan el Ex-Convento de San Juan Bautista en Tlayacapan, el convento de San Mateo en Atlatlauhcan y el Convento de San Guillermo en Totolapan.</mensaje>
+
+<mensaje id="es" num="41">REGIÓN DE LOS VALLES
+Municipios: Amacuzac, Axochiapan, Ayala, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Jantetelco, Jiutepec, Jojutla, Jonacatepec, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tetecala, Tlaltizapán, Tlalquitenango, Xochitepec, Yautepec, Yecapixtla, Zacatepec y Zacualpan.
+Localización: planicies Plan de Amilpas (este del Estado) y Valle de Cuernavaca (oeste del Estado).
+Clima: templado con lluvias en verano y hacia el sur húmedo y cálido.
+Datos importantes: En esta región existe una enorme variedad de artesanías, entre las que encontramos paneras y servilleteros trabajados con encajes; artículos de talabartería, huaraches, cinturones y monturas de piel; artículos de cerámica y barro; figuras de papel, bolsas y canastas de palma tejidas, cestos de carrizo, collares de cuentas y piedras raras; máscaras y figuras de madera laqueadas, bordados en prendas de vestir y accesorios domésticos.
+Algunos platillos típicos del lugar son los molotes de huitlacoche, la sopa de calabaza con flor, huevo con salsa de guaje, guasmole criollo, mole verde de pipían, cacahuate morelense con pollo y guasmole rojo, tortitas de flor de Tzompantli, cecina de Yecapixtla con queso, crema, barbacoa de carnero y cabrito, pescado en mixiotes, tamales de pescado, clemole sazonado con ciruelas silvestre, enchiladas estilo Cuernavaca, pozole blanco, rojo y verde, arroz Jojutla, pitos de Tzompantli (flores de colorín); entre las bebidas encontramos el agua de coco, de frutas, el mezcal y pulque, además algunos dulces típicos como los cristalizados, de leche y cacahuate, el coco seco con azúcar y los dulces secos con azúcar o miel.
+Una de las tradiciones de la región son las fiestas, entre las cuales encontramos la “Feria del segundo viernes de cuaresma” en Cuautla y la “Feria de la Flor” en Cuernavaca, la cual comienza el 2 de mayo y termina el día 12.
+Algunos de los principales lugares de interés de esta región son el Jardín Borda en Cuernavaca, la Laguna de Tequesquitengo en Jojutla, Museo Casa de Morelos en Cuautla, el Ex-Convento de San Juan Bautista en Yecapixtla y Xochicalco en Miacatlán.</mensaje>
+<mensaje id="en" num="41">REGIÓN DE LOS VALLES
+Municipios: Amacuzac, Axochiapan, Ayala, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Jantetelco, Jiutepec, Jojutla, Jonacatepec, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tetecala, Tlaltizapán, Tlalquitenango, Xochitepec, Yautepec, Yecapixtla, Zacatepec y Zacualpan.
+Localización: planicies Plan de Amilpas (este del Estado) y Valle de Cuernavaca (oeste del Estado).
+Clima: templado con lluvias en verano y hacia el sur húmedo y cálido.
+Datos importantes: En esta región existe una enorme variedad de artesanías, entre las que encontramos paneras y servilleteros trabajados con encajes; artículos de talabartería, huaraches, cinturones y monturas de piel; artículos de cerámica y barro; figuras de papel, bolsas y canastas de palma tejidas, cestos de carrizo, collares de cuentas y piedras raras; máscaras y figuras de madera laqueadas, bordados en prendas de vestir y accesorios domésticos.
+Algunos platillos típicos del lugar son los molotes de huitlacoche, la sopa de calabaza con flor, huevo con salsa de guaje, guasmole criollo, mole verde de pipían, cacahuate morelense con pollo y guasmole rojo, tortitas de flor de Tzompantli, cecina de Yecapixtla con queso, crema, barbacoa de carnero y cabrito, pescado en mixiotes, tamales de pescado, clemole sazonado con ciruelas silvestre, enchiladas estilo Cuernavaca, pozole blanco, rojo y verde, arroz Jojutla, pitos de Tzompantli (flores de colorín); entre las bebidas encontramos el agua de coco, de frutas, el mezcal y pulque, además algunos dulces típicos como los cristalizados, de leche y cacahuate, el coco seco con azúcar y los dulces secos con azúcar o miel.
+Una de las tradiciones de la región son las fiestas, entre las cuales encontramos la “Feria del segundo viernes de cuaresma” en Cuautla y la “Feria de la Flor” en Cuernavaca, la cual comienza el 2 de mayo y termina el día 12.
+Algunos de los principales lugares de interés de esta región son el Jardín Borda en Cuernavaca, la Laguna de Tequesquitengo en Jojutla, Museo Casa de Morelos en Cuautla, el Ex-Convento de San Juan Bautista en Yecapixtla y Xochicalco en Miacatlán.</mensaje>
+<mensaje id="pr" num="41">REGIÓN DE LOS VALLES
+Municipios: Amacuzac, Axochiapan, Ayala, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Jantetelco, Jiutepec, Jojutla, Jonacatepec, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tetecala, Tlaltizapán, Tlalquitenango, Xochitepec, Yautepec, Yecapixtla, Zacatepec y Zacualpan.
+Localización: planicies Plan de Amilpas (este del Estado) y Valle de Cuernavaca (oeste del Estado).
+Clima: templado con lluvias en verano y hacia el sur húmedo y cálido.
+Datos importantes: En esta región existe una enorme variedad de artesanías, entre las que encontramos paneras y servilleteros trabajados con encajes; artículos de talabartería, huaraches, cinturones y monturas de piel; artículos de cerámica y barro; figuras de papel, bolsas y canastas de palma tejidas, cestos de carrizo, collares de cuentas y piedras raras; máscaras y figuras de madera laqueadas, bordados en prendas de vestir y accesorios domésticos.
+Algunos platillos típicos del lugar son los molotes de huitlacoche, la sopa de calabaza con flor, huevo con salsa de guaje, guasmole criollo, mole verde de pipían, cacahuate morelense con pollo y guasmole rojo, tortitas de flor de Tzompantli, cecina de Yecapixtla con queso, crema, barbacoa de carnero y cabrito, pescado en mixiotes, tamales de pescado, clemole sazonado con ciruelas silvestre, enchiladas estilo Cuernavaca, pozole blanco, rojo y verde, arroz Jojutla, pitos de Tzompantli (flores de colorín); entre las bebidas encontramos el agua de coco, de frutas, el mezcal y pulque, además algunos dulces típicos como los cristalizados, de leche y cacahuate, el coco seco con azúcar y los dulces secos con azúcar o miel.
+Una de las tradiciones de la región son las fiestas, entre las cuales encontramos la “Feria del segundo viernes de cuaresma” en Cuautla y la “Feria de la Flor” en Cuernavaca, la cual comienza el 2 de mayo y termina el día 12.
+Algunos de los principales lugares de interés de esta región son el Jardín Borda en Cuernavaca, la Laguna de Tequesquitengo en Jojutla, Museo Casa de Morelos en Cuautla, el Ex-Convento de San Juan Bautista en Yecapixtla y Xochicalco en Miacatlán.</mensaje>
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+<mensaje id='es' num='94'>Caña de azúcar</mensaje>
+<mensaje id='en' num='94'>Caña de azúcar</mensaje>
+<mensaje id='pr' num='94'>Caña de azúcar</mensaje>
+<mensaje id='es' num='95'>Ganadería</mensaje>
+<mensaje id='en' num='95'>Ganadería</mensaje>
+<mensaje id='pr' num='95'>Ganadería</mensaje>
+<mensaje id='es' num='96'>Maíz</mensaje>
+<mensaje id='en' num='96'>Maíz</mensaje>
+<mensaje id='pr' num='96'>Maíz</mensaje>
+<mensaje id='es' num='103'>Chile</mensaje>
+<mensaje id='en' num='103'>Chile</mensaje>
+<mensaje id='pr' num='103'>Chile</mensaje>
+<mensaje id='es' num='111'>Aguacate</mensaje>
+<mensaje id='en' num='111'>Aguacate</mensaje>
+<mensaje id='pr' num='111'>Aguacate</mensaje>
+<mensaje id='es' num='113'>Frijol</mensaje>
+<mensaje id='en' num='113'>Frijol</mensaje>
+<mensaje id='pr' num='113'>Frijol</mensaje>
+<mensaje id='es' num='116'>Avena</mensaje>
+<mensaje id='en' num='116'>Avena</mensaje>
+<mensaje id='pr' num='116'>Avena</mensaje>
+<mensaje id='es' num='120'>Coyote</mensaje>
+<mensaje id='en' num='120'>Coyote</mensaje>
+<mensaje id='pr' num='120'>Coyote</mensaje>
+<mensaje id='es' num='136'>Jitomate</mensaje>
+<mensaje id='en' num='136'>Jitomate</mensaje>
+<mensaje id='pr' num='136'>Jitomate</mensaje>
+<mensaje id='es' num='137'>Bosques (pino,oyamel,encino)</mensaje>
+<mensaje id='en' num='137'>Bosques (pino,oyamel,encino)</mensaje>
+<mensaje id='pr' num='137'>Bosques (pino,oyamel,encino)</mensaje>
+<mensaje id='es' num='138'>Aves</mensaje>
+<mensaje id='en' num='138'>Aves</mensaje>
+<mensaje id='pr' num='138'>Aves</mensaje>
+<mensaje id='es' num='139'>Durazno</mensaje>
+<mensaje id='en' num='139'>Durazno</mensaje>
+<mensaje id='pr' num='139'>Durazno</mensaje>
+<mensaje id='es' num='140'>Artesanias</mensaje>
+<mensaje id='en' num='140'>Artesanias</mensaje>
+<mensaje id='pr' num='140'>Artesanias</mensaje>
+<mensaje id='es' num='141'>Nopal</mensaje>
+<mensaje id='en' num='141'>Nopal</mensaje>
+<mensaje id='pr' num='141'>Nopal</mensaje>
+<mensaje id='es' num='142'>Víbora de Cascabel</mensaje>
+<mensaje id='en' num='142'>Víbora de Cascabel</mensaje>
+<mensaje id='pr' num='142'>Víbora de Cascabel</mensaje>
+<mensaje id='es' num='143'>Zorra</mensaje>
+<mensaje id='en' num='143'>Zorra</mensaje>
+<mensaje id='pr' num='143'>Zorra</mensaje>
+<mensaje id='es' num='144'>Calabaza</mensaje>
+<mensaje id='en' num='144'>Calabaza</mensaje>
+<mensaje id='pr' num='144'>Calabaza</mensaje>
+<mensaje id='es' num='145'>Paloma de ala blanca</mensaje>
+<mensaje id='en' num='145'>Paloma de ala blanca</mensaje>
+<mensaje id='pr' num='145'>Paloma de ala blanca</mensaje>
+<mensaje id='es' num='146'>Pato trigueño</mensaje>
+<mensaje id='en' num='146'>Pato trigueño</mensaje>
+<mensaje id='pr' num='146'>Pato trigueño</mensaje>
+<mensaje id='es' num='147'>Higo</mensaje>
+<mensaje id='en' num='147'>Higo</mensaje>
+<mensaje id='pr' num='147'>Higo</mensaje>
+<mensaje id='es' num='148'>Cebolla</mensaje>
+<mensaje id='en' num='148'>Cebolla</mensaje>
+<mensaje id='pr' num='148'>Cebolla</mensaje>
+<mensaje id='es' num='149'>Minería - plata y plomo</mensaje>
+<mensaje id='en' num='149'>Minería - plata y plomo</mensaje>
+<mensaje id='pr' num='149'>Minería - plata y plomo</mensaje>
+
+<mensaje id='es' num='200'>Río Colotepec-Apatlalco</mensaje>
+<mensaje id='en' num='200'>Río Colotepec-Apatlalco</mensaje>
+<mensaje id='pr' num='200'>Río Colotepec-Apatlalco</mensaje>
+<mensaje id='es' num='201'>Río Tembembe</mensaje>
+<mensaje id='en' num='201'>Río Tembembe</mensaje>
+<mensaje id='pr' num='201'>Río Tembembe</mensaje>
+<mensaje id='es' num='202'>Río Chalma</mensaje>
+<mensaje id='en' num='202'>Río Chalma</mensaje>
+<mensaje id='pr' num='202'>Río Chalma</mensaje>
+<mensaje id='es' num='203'>Río Amacuzac</mensaje>
+<mensaje id='en' num='203'>Río Amacuzac</mensaje>
+<mensaje id='pr' num='203'>Río Amacuzac</mensaje>
+<mensaje id='es' num='204'>Río Yautepec</mensaje>
+<mensaje id='en' num='204'>Río Yautepec</mensaje>
+<mensaje id='pr' num='204'>Río Yautepec</mensaje>
+<mensaje id='es' num='205'>Río Cuautla</mensaje>
+<mensaje id='en' num='205'>Río Cuautla</mensaje>
+<mensaje id='pr' num='205'>Río Cuautla</mensaje>
+<mensaje id='es' num='206'>Río Grande</mensaje>
+<mensaje id='en' num='206'>Río Grande</mensaje>
+<mensaje id='pr' num='206'>Río Grande</mensaje>
+<mensaje id='es' num='207'>Río Tepalcingo</mensaje>
+<mensaje id='en' num='207'>Río Tepalcingo</mensaje>
+<mensaje id='pr' num='207'>Río Tepalcingo</mensaje>
+<mensaje id='es' num='208'>Río Cuilamula</mensaje>
+<mensaje id='en' num='208'>Río Cuilamula</mensaje>
+<mensaje id='pr' num='208'>Río Cuilamula</mensaje>
+<mensaje id='es' num='209'>Río Xochitepec</mensaje>
+<mensaje id='en' num='209'>Río Xochitepec</mensaje>
+<mensaje id='pr' num='209'>Río Xochitepec</mensaje>
+<mensaje id='es' num='210'>Río Itzamatitlán</mensaje>
+<mensaje id='en' num='210'>Río Itzamatitlán</mensaje>
+<mensaje id='pr' num='210'>Río Itzamatitlán</mensaje>
+<mensaje id='es' num='211'>Laguna El Rodeo</mensaje>
+<mensaje id='en' num='211'>Laguna El Rodeo</mensaje>
+<mensaje id='pr' num='211'>Laguna El Rodeo</mensaje>
+<mensaje id='es' num='212'>Laguna Coatetelco</mensaje>
+<mensaje id='en' num='212'>Laguna Coatetelco</mensaje>
+<mensaje id='pr' num='212'>Laguna Coatetelco</mensaje>
+<mensaje id='es' num='213'>Laguna de Tequesquitengo</mensaje>
+<mensaje id='en' num='213'>Laguna de Tequesquitengo</mensaje>
+<mensaje id='pr' num='213'>Laguna de Tequesquitengo</mensaje>
+
+<mensaje id='es' num='300'>Eje Neovolcánico</mensaje>
+<mensaje id='en' num='300'>Eje Neovolcánico</mensaje>
+<mensaje id='pr' num='300'>Eje Neovolcánico</mensaje>
+<mensaje id='es' num='301'>Tres Cumbres</mensaje>
+<mensaje id='en' num='301'>Tres Cumbres</mensaje>
+<mensaje id='pr' num='301'>Tres Cumbres</mensaje>
+<mensaje id='es' num='302'>El Palomito</mensaje>
+<mensaje id='en' num='302'>El Palomito</mensaje>
+<mensaje id='pr' num='302'>El Palomito</mensaje>
+<mensaje id='es' num='303'>El Tezoyo</mensaje>
+<mensaje id='en' num='303'>El Tezoyo</mensaje>
+<mensaje id='pr' num='303'>El Tezoyo</mensaje>
+<mensaje id='es' num='304'>La Corona</mensaje>
+<mensaje id='en' num='304'>La Corona</mensaje>
+<mensaje id='pr' num='304'>La Corona</mensaje>
+<mensaje id='es' num='305'>Yateco</mensaje>
+<mensaje id='en' num='305'>Yateco</mensaje>
+<mensaje id='pr' num='305'>Yateco</mensaje>
+<mensaje id='es' num='306'>Tlaxcantapayola</mensaje>
+<mensaje id='en' num='306'>Tlaxcantapayola</mensaje>
+<mensaje id='pr' num='306'>Tlaxcantapayola</mensaje>
+<mensaje id='es' num='307'>Tetela</mensaje>
+<mensaje id='en' num='307'>Tetela</mensaje>
+<mensaje id='pr' num='307'>Tetela</mensaje>
+<mensaje id='es' num='308'>Coatepec</mensaje>
+<mensaje id='en' num='308'>Coatepec</mensaje>
+<mensaje id='pr' num='308'>Coatepec</mensaje>
+<mensaje id='es' num='309'>Popocatépetl</mensaje>
+<mensaje id='en' num='309'>Popocatépetl</mensaje>
+<mensaje id='pr' num='309'>Popocatépetl</mensaje>
+<mensaje id='es' num='310'>Las Tetillas</mensaje>
+<mensaje id='en' num='310'>Las Tetillas</mensaje>
+<mensaje id='pr' num='310'>Las Tetillas</mensaje>
+<mensaje id='es' num='311'>Las Iguanas</mensaje>
+<mensaje id='en' num='311'>Las Iguanas</mensaje>
+<mensaje id='pr' num='311'>Las Iguanas</mensaje>
+<mensaje id='es' num='312'>Negro</mensaje>
+<mensaje id='en' num='312'>Negro</mensaje>
+<mensaje id='pr' num='312'>Negro</mensaje>
+<mensaje id='es' num='313'>Temimilcingo</mensaje>
+<mensaje id='en' num='313'>Temimilcingo</mensaje>
+<mensaje id='pr' num='313'>Temimilcingo</mensaje>
+<mensaje id='es' num='314'>Jojutla</mensaje>
+<mensaje id='en' num='314'>Jojutla</mensaje>
+<mensaje id='pr' num='314'>Jojutla</mensaje>
+<mensaje id='es' num='315'>Zempoala</mensaje>
+<mensaje id='en' num='315'>Zempoala</mensaje>
+<mensaje id='pr' num='315'>Zempoala</mensaje>
+<mensaje id='es' num='316'>Tres Marías</mensaje>
+<mensaje id='en' num='316'>Tres Marías</mensaje>
+<mensaje id='pr' num='316'>Tres Marías</mensaje>
+<mensaje id='es' num='317'>Huitzilac</mensaje>
+<mensaje id='en' num='317'>Huitzilac</mensaje>
+<mensaje id='pr' num='317'>Huitzilac</mensaje>
+<mensaje id='es' num='318'>Palpan</mensaje>
+<mensaje id='en' num='318'>Palpan</mensaje>
+<mensaje id='pr' num='318'>Palpan</mensaje>
+<mensaje id='es' num='319'>Miacatlán</mensaje>
+<mensaje id='en' num='319'>Miacatlán</mensaje>
+<mensaje id='pr' num='319'>Miacatlán</mensaje>
+<mensaje id='es' num='320'>Tepoztlán</mensaje>
+<mensaje id='en' num='320'>Tepoztlán</mensaje>
+<mensaje id='pr' num='320'>Tepoztlán</mensaje>
+<mensaje id='es' num='321'>Tlalnepantla</mensaje>
+<mensaje id='en' num='321'>Tlalnepantla</mensaje>
+<mensaje id='pr' num='321'>Tlalnepantla</mensaje>
+<mensaje id='es' num='322'>Tlayacapan</mensaje>
+<mensaje id='en' num='322'>Tlayacapan</mensaje>
+<mensaje id='pr' num='322'>Tlayacapan</mensaje>
+<mensaje id='es' num='323'>Sierra Madre del Sur</mensaje>
+<mensaje id='en' num='323'>Sierra Madre del Sur</mensaje>
+<mensaje id='pr' num='323'>Sierra Madre del Sur</mensaje>
+
+<mensaje id='es' num='400'>Zacualpan</mensaje>
+<mensaje id='en' num='400'>Zacualpan</mensaje>
+<mensaje id='pr' num='400'>Zacualpan</mensaje>
+<mensaje id='es' num='401'>Amacuzac</mensaje>
+<mensaje id='en' num='401'>Amacuzac</mensaje>
+<mensaje id='pr' num='401'>Amacuzac</mensaje>
+<mensaje id='es' num='402'>Atlatlahucan</mensaje>
+<mensaje id='en' num='402'>Atlatlahucan</mensaje>
+<mensaje id='pr' num='402'>Atlatlahucan</mensaje>
+<mensaje id='es' num='403'>Axochiapan</mensaje>
+<mensaje id='en' num='403'>Axochiapan</mensaje>
+<mensaje id='pr' num='403'>Axochiapan</mensaje>
+<mensaje id='es' num='404'>Ayala</mensaje>
+<mensaje id='en' num='404'>Ayala</mensaje>
+<mensaje id='pr' num='404'>Ayala</mensaje>
+<mensaje id='es' num='405'>Coatlán del Río</mensaje>
+<mensaje id='en' num='405'>Coatlán del Río</mensaje>
+<mensaje id='pr' num='405'>Coatlán del Río</mensaje>
+<mensaje id='es' num='406'>Cuautla</mensaje>
+<mensaje id='en' num='406'>Cuautla</mensaje>
+<mensaje id='pr' num='406'>Cuautla</mensaje>
+<mensaje id='es' num='407'>Cuernavaca</mensaje>
+<mensaje id='en' num='407'>Cuernavaca</mensaje>
+<mensaje id='pr' num='407'>Cuernavaca</mensaje>
+<mensaje id='es' num='408'>Emiliano Zapata</mensaje>
+<mensaje id='en' num='408'>Emiliano Zapata</mensaje>
+<mensaje id='pr' num='408'>Emiliano Zapata</mensaje>
+<mensaje id='es' num='409'>Huitzilac</mensaje>
+<mensaje id='en' num='409'>Huitzilac</mensaje>
+<mensaje id='pr' num='409'>Huitzilac</mensaje>
+<mensaje id='es' num='410'>Jantetelco</mensaje>
+<mensaje id='en' num='410'>Jantetelco</mensaje>
+<mensaje id='pr' num='410'>Jantetelco</mensaje>
+<mensaje id='es' num='411'>Jiutepec</mensaje>
+<mensaje id='en' num='411'>Jiutepec</mensaje>
+<mensaje id='pr' num='411'>Jiutepec</mensaje>
+<mensaje id='es' num='412'>Jojutla</mensaje>
+<mensaje id='en' num='412'>Jojutla</mensaje>
+<mensaje id='pr' num='412'>Jojutla</mensaje>
+<mensaje id='es' num='413'>Jonacatepec</mensaje>
+<mensaje id='en' num='413'>Jonacatepec</mensaje>
+<mensaje id='pr' num='413'>Jonacatepec</mensaje>
+<mensaje id='es' num='414'>Mazatepec</mensaje>
+<mensaje id='en' num='414'>Mazatepec</mensaje>
+<mensaje id='pr' num='414'>Mazatepec</mensaje>
+<mensaje id='es' num='415'>Miacatlán</mensaje>
+<mensaje id='en' num='415'>Miacatlán</mensaje>
+<mensaje id='pr' num='415'>Miacatlán</mensaje>
+<mensaje id='es' num='416'>Ocuituco</mensaje>
+<mensaje id='en' num='416'>Ocuituco</mensaje>
+<mensaje id='pr' num='416'>Ocuituco</mensaje>
+<mensaje id='es' num='417'>Puente de Ixtla</mensaje>
+<mensaje id='en' num='417'>Puente de Ixtla</mensaje>
+<mensaje id='pr' num='417'>Puente de Ixtla</mensaje>
+<mensaje id='es' num='418'>Temixco</mensaje>
+<mensaje id='en' num='418'>Temixco</mensaje>
+<mensaje id='pr' num='418'>Temixco</mensaje>
+<mensaje id='es' num='419'>Temoac</mensaje>
+<mensaje id='en' num='419'>Temoac</mensaje>
+<mensaje id='pr' num='419'>Temoac</mensaje>
+<mensaje id='es' num='420'>Tepalcingo</mensaje>
+<mensaje id='en' num='420'>Tepalcingo</mensaje>
+<mensaje id='pr' num='420'>Tepalcingo</mensaje>
+<mensaje id='es' num='421'>Tepoztlán</mensaje>
+<mensaje id='en' num='421'>Tepoztlán</mensaje>
+<mensaje id='pr' num='421'>Tepoztlán</mensaje>
+<mensaje id='es' num='422'>Tetecala</mensaje>
+<mensaje id='en' num='422'>Tetecala</mensaje>
+<mensaje id='pr' num='422'>Tetecala</mensaje>
+<mensaje id='es' num='423'>Tetela del Volcán</mensaje>
+<mensaje id='en' num='423'>Tetela del Volcán</mensaje>
+<mensaje id='pr' num='423'>Tetela del Volcán</mensaje>
+<mensaje id='es' num='424'>Tlalnepantla</mensaje>
+<mensaje id='en' num='424'>Tlalnepantla</mensaje>
+<mensaje id='pr' num='424'>Tlalnepantla</mensaje>
+<mensaje id='es' num='425'>Tlaltizapán</mensaje>
+<mensaje id='en' num='425'>Tlaltizapán</mensaje>
+<mensaje id='pr' num='425'>Tlaltizapán</mensaje>
+<mensaje id='es' num='426'>Tlaquiltenango</mensaje>
+<mensaje id='en' num='426'>Tlaquiltenango</mensaje>
+<mensaje id='pr' num='426'>Tlaquiltenango</mensaje>
+<mensaje id='es' num='427'>Tlayacapan</mensaje>
+<mensaje id='en' num='427'>Tlayacapan</mensaje>
+<mensaje id='pr' num='427'>Tlayacapan</mensaje>
+<mensaje id='es' num='428'>Totolapan</mensaje>
+<mensaje id='en' num='428'>Totolapan</mensaje>
+<mensaje id='pr' num='428'>Totolapan</mensaje>
+<mensaje id='es' num='429'>Xochitepec</mensaje>
+<mensaje id='en' num='429'>Xochitepec</mensaje>
+<mensaje id='pr' num='429'>Xochitepec</mensaje>
+<mensaje id='es' num='430'>Yautepec</mensaje>
+<mensaje id='en' num='430'>Yautepec</mensaje>
+<mensaje id='pr' num='430'>Yautepec</mensaje>
+<mensaje id='es' num='431'>Yecapixtla</mensaje>
+<mensaje id='en' num='431'>Yecapixtla</mensaje>
+<mensaje id='pr' num='431'>Yecapixtla</mensaje>
+<mensaje id='es' num='432'>Zacatepec</mensaje>
+<mensaje id='en' num='432'>Zacatepec</mensaje>
+<mensaje id='pr' num='432'>Zacatepec</mensaje>
+
+<mensaje id='es' num='500'>REGIÓN SIERRA ALTA</mensaje>
+<mensaje id='en' num='500'>REGIÓN SIERRA ALTA</mensaje>
+<mensaje id='pr' num='500'>REGIÓN SIERRA ALTA</mensaje>
+<mensaje id='es' num='501'>REGIÓN DE PIEDEMONTE</mensaje>
+<mensaje id='en' num='501'>REGIÓN DE PIEDEMONTE</mensaje>
+<mensaje id='pr' num='501'>REGIÓN DE PIEDEMONTE</mensaje>
+<mensaje id='es' num='502'>REGIÓN DE LOS VALLES</mensaje>
+<mensaje id='en' num='502'>REGIÓN DE LOS VALLES</mensaje>
+<mensaje id='pr' num='502'>REGIÓN DE LOS VALLES</mensaje>
+
+
+<mensaje id='es' num='600'>Parque Nacional Lagunas de Zempoala</mensaje>
+<mensaje id='es' num='600'>Parque Nacional Lagunas de Zempoala</mensaje>
+<mensaje id='es' num='600'>Parque Nacional Lagunas de Zempoala</mensaje>
+<mensaje id='es' num='601'>El Tepozteco</mensaje>
+<mensaje id='es' num='601'>El Tepozteco</mensaje>
+<mensaje id='es' num='601'>El Tepozteco</mensaje>
+<mensaje id='es' num='602'>El Chapitel del Calvario</mensaje>
+<mensaje id='es' num='602'>El Chapitel del Calvario</mensaje>
+<mensaje id='es' num='602'>El Chapitel del Calvario</mensaje>
+<mensaje id='es' num='603'>Jardín Borda</mensaje>
+<mensaje id='es' num='603'>Jardín Borda</mensaje>
+<mensaje id='es' num='603'>Jardín Borda</mensaje>
+<mensaje id='es' num='604'>Catedral Convento Franciscano de la Asunción</mensaje>
+<mensaje id='es' num='604'>Catedral Convento Franciscano de la Asunción</mensaje>
+<mensaje id='es' num='604'>Catedral Convento Franciscano de la Asunción</mensaje>
+<mensaje id='es' num='605'>Salto de San Antón</mensaje>
+<mensaje id='es' num='605'>Salto de San Antón</mensaje>
+<mensaje id='es' num='605'>Salto de San Antón</mensaje>
+<mensaje id='es' num='606'>Museo Regional Cuauhnáhuac Palacio de Cortés</mensaje>
+<mensaje id='es' num='606'>Museo Regional Cuauhnáhuac Palacio de Cortés</mensaje>
+<mensaje id='es' num='606'>Museo Regional Cuauhnáhuac Palacio de Cortés</mensaje>
+<mensaje id='es' num='607'>Barrancas de Amanalco</mensaje>
+<mensaje id='es' num='607'>Barrancas de Amanalco</mensaje>
+<mensaje id='es' num='607'>Barrancas de Amanalco</mensaje>
+<mensaje id='es' num='608'>Ex-Convento de la Natividad</mensaje>
+<mensaje id='es' num='608'>Ex-Convento de la Natividad</mensaje>
+<mensaje id='es' num='608'>Ex-Convento de la Natividad</mensaje>
+<mensaje id='es' num='609'>Museo Regional de Tlayacapan</mensaje>
+<mensaje id='es' num='609'>Museo Regional de Tlayacapan</mensaje>
+<mensaje id='es' num='609'>Museo Regional de Tlayacapan</mensaje>
+<mensaje id='es' num='610'>Casa Museo de Robert Brady</mensaje>
+<mensaje id='es' num='610'>Casa Museo de Robert Brady</mensaje>
+<mensaje id='es' num='610'>Casa Museo de Robert Brady</mensaje>
+<mensaje id='es' num='611'>El Castillito</mensaje>
+<mensaje id='es' num='611'>El Castillito</mensaje>
+<mensaje id='es' num='611'>El Castillito</mensaje>
+<mensaje id='es' num='612'>Zona arqueológica Gualupita</mensaje>
+<mensaje id='es' num='612'>Zona arqueológica Gualupita</mensaje>
+<mensaje id='es' num='612'>Zona arqueológica Gualupita</mensaje>
+<mensaje id='es' num='613'>Catedral</mensaje>
+<mensaje id='es' num='613'>Catedral</mensaje>
+<mensaje id='es' num='613'>Catedral</mensaje>
+<mensaje id='es' num='614'>Zona arqueológica Teopanzolco</mensaje>
+<mensaje id='es' num='614'>Zona arqueológica Teopanzolco</mensaje>
+<mensaje id='es' num='614'>Zona arqueológica Teopanzolco</mensaje>
+<mensaje id='es' num='615'>Museo Etnobotánico</mensaje>
+<mensaje id='es' num='615'>Museo Etnobotánico</mensaje>
+<mensaje id='es' num='615'>Museo Etnobotánico</mensaje>
+<mensaje id='es' num='616'>Parque Jungla Mágica Chapultepec</mensaje>
+<mensaje id='es' num='616'>Parque Jungla Mágica Chapultepec</mensaje>
+<mensaje id='es' num='616'>Parque Jungla Mágica Chapultepec</mensaje>
+<mensaje id='es' num='617'>Zona arqueológica Yautepec</mensaje>
+<mensaje id='es' num='617'>Zona arqueológica Yautepec</mensaje>
+<mensaje id='es' num='617'>Zona arqueológica Yautepec</mensaje>
+<mensaje id='es' num='618'>Oaxtepec</mensaje>
+<mensaje id='es' num='618'>Oaxtepec</mensaje>
+<mensaje id='es' num='618'>Oaxtepec</mensaje>
+<mensaje id='es' num='619'>Zona arqueológica Atlihuayan</mensaje>
+<mensaje id='es' num='619'>Zona arqueológica Atlihuayan</mensaje>
+<mensaje id='es' num='619'>Zona arqueológica Atlihuayan</mensaje>
+<mensaje id='es' num='620'>Hacienda Calderón</mensaje>
+<mensaje id='es' num='620'>Hacienda Calderón</mensaje>
+<mensaje id='es' num='620'>Hacienda Calderón</mensaje>
+<mensaje id='es' num='621'>Xochimilcatzingo</mensaje>
+<mensaje id='es' num='621'>Xochimilcatzingo</mensaje>
+<mensaje id='es' num='621'>Xochimilcatzingo</mensaje>
+<mensaje id='es' num='622'>Ex-Convento de San Juan Bautista</mensaje>
+<mensaje id='es' num='622'>Ex-Convento de San Juan Bautista</mensaje>
+<mensaje id='es' num='622'>Ex-Convento de San Juan Bautista</mensaje>
+<mensaje id='es' num='623'>Ex-Convento de Santo Domingo</mensaje>
+<mensaje id='es' num='623'>Ex-Convento de Santo Domingo</mensaje>
+<mensaje id='es' num='623'>Ex-Convento de Santo Domingo</mensaje>
+<mensaje id='es' num='624'>Museo Casa de Morelos</mensaje>
+<mensaje id='es' num='624'>Museo Casa de Morelos</mensaje>
+<mensaje id='es' num='624'>Museo Casa de Morelos</mensaje>
+<mensaje id='es' num='625'>Ex-Convento de San Diego</mensaje>
+<mensaje id='es' num='625'>Ex-Convento de San Diego</mensaje>
+<mensaje id='es' num='625'>Ex-Convento de San Diego</mensaje>
+<mensaje id='es' num='626'>Zona arqueológica Xochicalco</mensaje>
+<mensaje id='es' num='626'>Zona arqueológica Xochicalco</mensaje>
+<mensaje id='es' num='626'>Zona arqueológica Xochicalco</mensaje>
+<mensaje id='es' num='627'>Museo La lucha por la Tierra</mensaje>
+<mensaje id='es' num='627'>Museo La lucha por la Tierra</mensaje>
+<mensaje id='es' num='627'>Museo La lucha por la Tierra</mensaje>
+<mensaje id='es' num='628'>Jonacatepec o Las Pilas</mensaje>
+<mensaje id='es' num='628'>Jonacatepec o Las Pilas</mensaje>
+<mensaje id='es' num='628'>Jonacatepec o Las Pilas</mensaje>
+<mensaje id='es' num='629'>Museo de la Revolución del Sur</mensaje>
+<mensaje id='es' num='629'>Museo de la Revolución del Sur</mensaje>
+<mensaje id='es' num='629'>Museo de la Revolución del Sur</mensaje>
+<mensaje id='es' num='630'>Zona arqueológica Coatetelco</mensaje>
+<mensaje id='es' num='630'>Zona arqueológica Coatetelco</mensaje>
+<mensaje id='es' num='630'>Zona arqueológica Coatetelco</mensaje>
+<mensaje id='es' num='631'>Capilla de Tlatenchi</mensaje>
+<mensaje id='es' num='631'>Capilla de Tlatenchi</mensaje>
+<mensaje id='es' num='631'>Capilla de Tlatenchi</mensaje>
+<mensaje id='es' num='632'>Laguna de Tequesquitengo</mensaje>
+<mensaje id='es' num='632'>Laguna de Tequesquitengo</mensaje>
+<mensaje id='es' num='632'>Laguna de Tequesquitengo</mensaje>
+<mensaje id='es' num='633'>Chimalacatlán</mensaje>
+<mensaje id='es' num='633'>Chimalacatlán</mensaje>
+<mensaje id='es' num='633'>Chimalacatlán</mensaje>
+<mensaje id='es' num='634'>Reserva ecológica de Huautla</mensaje>
+<mensaje id='es' num='634'>Reserva ecológica de Huautla</mensaje>
+<mensaje id='es' num='634'>Reserva ecológica de Huautla</mensaje>
+<mensaje id='es' num='635'>Teopanzolco</mensaje>
+<mensaje id='es' num='635'>Teopanzolco</mensaje>
+<mensaje id='es' num='635'>Teopanzolco</mensaje>
+
+<mensaje id='es' num='636'>Ex-Convento de Santiago Apostol</mensaje>
+<mensaje id='es' num='636'>Ex-Convento de Santiago Apostol</mensaje>
+<mensaje id='es' num='636'>Ex-Convento de Santiago Apostol</mensaje>
+
+</mensajes>

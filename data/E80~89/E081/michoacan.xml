@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">La palabra Michoacán procede de la voz náhuatl ‘michihuacán’, que significa ‘lugar de pescadores’. </mensaje>
+<mensaje id="en" num="1">The Michoacán word comes from the voice Nahuatl `michihuacán', that means `place of fishermen'.</mensaje>
+<mensaje id="pr" num="1">A palavra de Michoacán vem do Nahuatl “michihuacán” da voz, esse significa o “lugar dos pescadores”.</mensaje>
+
+<mensaje id="es" num="2">El significado náhuatl de la palabra Michoacán se atribuye al hecho de que las primeras poblaciones prehispánicas se construyeron en torno a los lagos Pátzcuaro, Zacapu, Cuitzeo y Zirahuén.</mensaje>
+<mensaje id="en" num="2">The Nahuatl meaning of the Michoacán word is attributed to the fact that the first preHispanic populations they constructed around the lakes Pátzcuaro, Zacapu, Cuitzeo and Zirahuén.</mensaje>
+<mensaje id="pr" num="2">O meaning do Nahuatl da palavra de Michoacán é atribuído ao fato que o primeiro populações que preHispanic construíram em torno dos lagos Pátzcuaro, Zacapu, Cuitzeo e Zirahuén.</mensaje>
+
+<mensaje id="es" num="3">El Nombre completo del Estado  es Michoacán de Ocampo, en honor a Melchor Ocampo.</mensaje>
+<mensaje id="en" num="3">The complete Name of the state is Michoacán de Ocampo, in honor to Melchor Ocampo.</mensaje>
+<mensaje id="pr" num="3">O nome completo do Estado é Michoacán de Ocampo, na honra a Melchor Ocampo.</mensaje>
+
+<mensaje id="es" num="4">El 5 de febrero de 1918 se promulgó la Constitución  Política del Estado de Michoacán.</mensaje>
+<mensaje id="en" num="4">The 5 of February of 1918 the Political Constitution of the state of Michoacán was promulgated.</mensaje>
+<mensaje id="pr" num="4">O 5 de fevereiro de 1918 o Constitution político do Estado de Michoacán foram promulgados.</mensaje>
+
+<mensaje id="es" num="5">Lázaro Cárdenas del Río fue gobernador de Michoacán en el periodo de 1928 a 1932.</mensaje>
+<mensaje id="en" num="5">Lazaro Cardinal red of the River was governor of Michoacán in the period from 1928 to 1932.</mensaje>
+<mensaje id="pr" num="5">O vermelho cardinal de Lazaro do rio era regulador de Michoacán no período de 1928 a 1932.</mensaje>
+
+<mensaje id="es" num="6">Michoacán ocupa el primer lugar a nivel nacional en la producción de aguacate.</mensaje>
+<mensaje id="en" num="6">Michoacán occupies the first place at national level in the avocado production.</mensaje>
+<mensaje id="pr" num="6">Michoacán ocupa o primeiro lugar no nível nacional na produção do abacate.</mensaje>
+
+<mensaje id="es" num="7">La celebración de día de muertos  en Pátzcuaro es un espectáculo único que principia desde el embarcadero hasta el cementerio de la isla para trasladar las ofrendas en canoas, las cuales iluminan el camino con velas.</mensaje>
+<mensaje id="en" num="7">The celebration by day of died in Pátzcuaro is a unique spectacle that it begins from the wharf to the cemetery of the island to transfer the offerings in canoes, which illuminate the way with candles.</mensaje>
+<mensaje id="pr" num="7">O celebration pelo dia do morrido em Pátzcuaro é um espetáculo original a que comece do cais ao cemetery do console transferir os offerings nos canoes, que iluminar a maneira com velas.</mensaje>
+
+<mensaje id="es" num="8">Morelia, capital del Estado de Michoacán recibió ese nombre en honor  al héroe de la independencia José María Morelos y Pavón.</mensaje>
+<mensaje id="en" num="8">Morelia, State Capital of Michoacán received that name in honor to the hero of independence Jose Maria Morelos and Pavón.</mensaje>
+<mensaje id="pr" num="8">Morelia, capital de Estado de Michoacán recebeu esse nome na honra ao herói da independência Jose Maria Morelos e Pavón.</mensaje>
+
+<mensaje id="es" num="9">Playa Azul es una de las playas más hermosas y concurridas de toda la costa michoacana.</mensaje>
+<mensaje id="en" num="9">Blue beach is one of the most beautiful and concurred beaches of all the michoacana coast.</mensaje>
+<mensaje id="pr" num="9">A praia azul é uma das praias as mais bonitas e concurred de toda a costa do michoacana.</mensaje>
+
+<mensaje id="es" num="10">En el año de 1989 el gobierno de Estado de Michoacán  y el Instituto michoacano de Cultura editaron la obra “Historia general de Michoacán”, escrita en cuatro volúmenes que permiten conocer el pasado de la entidad.</mensaje>
+<mensaje id="en" num="10">In the year of 1989 the government of state of Michoacán and the michoacano Institute of Culture “general History of Michoacán” published the work, written in four volumes that allow to know the organization the past.</mensaje>
+<mensaje id="pr" num="10">No ano de 1989 o governo do Estado de Michoacán e do instituto do michoacano da cultura “história geral de Michoacán” publicou o trabalho, escrito em quatro volumes que reservam para saber a organização o passado.</mensaje>
+
+<mensaje id="es" num="11">Océano Pacífico</mensaje>
+<mensaje id="en" num="11">Ocean Pacific</mensaje>
+<mensaje id="pr" num="11">Oceano o Pacífico</mensaje>
+
+<mensaje id="es" num="12">Estado de México</mensaje>
+<mensaje id="en" num="12">State of Mexico </mensaje>
+<mensaje id="pr" num="12">Estado de México </mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id="es" num="39">REGIÓN CENTRO 
+La región Centro recibe este nombre debido a que en ella se encuentra la ciudad de Morelia, capital del Estado.
+Los municipios que la integran son: José Sixto Verduzco, Angamacutiro, Puruándiro, Panindícuaro, Jiménez, Zacapu, Cherán, Nahuatzen, Coeneo, Morelos, Huaniqueo, Huandacareo, Cuitzeo, Santa Ana Maya, Zinapécuaro, Queréndaro, Tzitzio, Indaparapeo, Charo, Madero, Morelia, Acuitzio, Tacámbaro, Ario, Salvador Escalante, Pátzcuaro, Huiramba, Lagunillas, Tzintzuntzan, Quiroga, Erongarícuaro,  Álvaro Obregón, Tarímbaro, Copándaro y Chucándiro. 
+Además de las actividades agrícolas, ganaderas y forestales, los habitantes se dedican a la pesca y a la producción de artesanías. Por ejemplo, en Tzintzuntzan, sus habitantes son agricultores que dependen de la temporada de lluvias. El resto del tiempo lo dedican a la producción de artesanías. Puruándiro, Quiroga, Zinapécuaro, Pátzcuaro, Erongarícuaro, Santa Clara del Cobre, Cherán, Nahuatzen, Cuitzeo, Tarímbaro y Morelia producen gran cantidad de artesanías que son llevadas a muchos lugares de México y del mundo por los turistas que visitan tierras michoacanas.
+La industria se desarrolla básicamente en la ciudad de Morelia, donde se  producen alimentos, prendas de vestir, productos de madera, corcho, hule, papel, plástico y metal.</mensaje>
+
+<mensaje id="en" num="39">THE REGIÓN CENTRO
+The region Center receives east name because in her is the city of Morelia, State Capital. The municipalities that integrate it are: Jose Sixto Verduzco, Angamacutiro, Puruándiro, Panindícuaro, Jiménez, Zacapu, Cherán, Nahuatzen, Coeneo, Morelos, Huaniqueo, Huandacareo, Cuitzeo, Santa Ana Maya, Zinapécuaro, Queréndaro, Tzitzio, Indaparapeo, Charo, Log, Morelia, Acuitzio, Tacámbaro, Aryan, Salvador Escalante, Pátzcuaro, Huiramba, Lagunillas, Tzintzuntzan, Quiroga, Erongarícuaro, Alvaro Obregón, Tarímbaro, Copándaro and Chucándiro. In addition to the agricultural activities, cattle and forest, the inhabitants dedicate themselves to the fishing and the production of crafts. For example, in Tzintzuntzan, their inhabitants are agriculturists who depend on season of rains. The rest of the time dedicates it to the production of crafts. Puruándiro, Quiroga, Zinapécuaro, Pátzcuaro, Erongarícuaro, Santa Clara of Cobre, Cherán, Nahuatzen, Cuitzeo, Tarímbaro and Morelia produce great amount of crafts that are taken to many places of Mexico and of the world by the tourists who visit michoacanas earth. The industry is developed basically in the city of Morelia, where foods, articles to dress, wood products, cork, rubber, paper, plastic and metal take place.</mensaje>
+
+<mensaje id="pr" num="39">O REGIÓN CENTRO 
+O centro da região recebe o nome do leste porque nela está a cidade de Morelia, Capital de Estado. As municipalidades isso integrá-lo são: Jose Sixto Verduzco, Angamacutiro, Puruándiro, Panindícuaro, Jiménez, Zacapu, Cherán, Nahuatzen, Coeneo, Morelos, Huaniqueo, Huandacareo, Cuitzeo, Maya de Santa Ana, Zinapécuaro, Queréndaro, Tzitzio, Indaparapeo, Charo, registro, Morelia, Acuitzio, Tacámbaro, Aryan, Salvador Escalante, Pátzcuaro, Huiramba, Lagunillas, Tzintzuntzan, Quiroga, Erongarícuaro, Alvaro Obregón, Tarímbaro, Copándaro e Chucándiro. Além às atividades agriculturais, gado e floresta, os habitantes dedicam-se ao pescar e a produção dos ofícios. Por exemplo, em Tzintzuntzan, seus habitantes são os agricultores que dependem da estação das chuvas. O descanso do tempo dedica-a à produção dos ofícios. Puruándiro, Quiroga, Zinapécuaro, Pátzcuaro, Erongarícuaro, Santa Clara de Cobre, Cherán, Nahuatzen, Cuitzeo, Tarímbaro e Morelia produzem uma quantidade grande de ofícios que são feitos exame a muitos lugares de México e do mundo pelos turistas que visitam terra dos michoacanas. A indústria é tornado bàsicamente na cidade de Morelia, onde alimentos, artigos para se vestir, madeira os produtos, a cortiça, a borracha, o papel, o plástico e o metal ocorrem.</mensaje>
+
+
+
+<mensaje id="es" num="40">REGIÓN CIENEGA
+En esta región se localiza el antiguo Valle de Tziróndaro, palabra de la lengua purépecha que significa lugar de ciénegas o lagos desecados.
+Los municipios que la integran son los siguientes: Marcos Castellanos, Cojumatlán de Régules, Venustiano Carranza, Briseñas, Vista Hermosa, Tanhuato, Yurécuaro, La Piedad, Numarán, Penjamillo, Purépero, Chilchota, Charapan, Los Reyes, Peribán, Tocumbo, Cotija, Jiquilpan, Sahuayo, Villamar, Pajacuarán, Ixtlán, Ecuandureo, Churintzio, Zináparo, Tlazazalca, Tangancícuaro, Tingüindín, Tangamandapio, Jacona, Zamora y Chavinda. 
+En esta región se han localizado restos de los habitantes más antiguos de Michoacán. Cerca de Zamora se localiza el Opeño, sitio arqueológico donde se han encontrado restos de sus antiguos pobladores.
+Debido a la presencia del lago de Chapala y las ciénegas, esta región se ha convertido en un lugar más adecuado para la agricultura. Se produce trigo, sorgo, maíz, cebolla, papa, jitomate, fresa y aguacate.
+El clima que predomina en esta región es el templado con lluvias en verano.
+Además de los animales domésticos, los habitantes de los municipios que forman la región Ciénega hacen uso del producto de la cacería. Los animales que conforman la fauna del lugar son la paloma, codorniz, tordo, urraca, coyote, tlacuache, zorra, tejón, mapache, zorrillo, venado, conejo, pato, armadillo, ardilla, liebre, lince y cacomixtle. La pesca permite obtener carpa, charal y trucha.
+Con respecto a la flora, se puede decir que predominan los bosques mixtos con encino, pino y fresno. También se encuentran nopales, huizaches y mezquites. Con menos frecuencia se puede obtener madera de cedro, ceiba y parota.
+La principal industria es la producción de alimentos, entre los que destacan los dulces. Los chongos zamoranos y las fresas son conocidos y consumidos en todo México.</mensaje>
+
+<mensaje id="en" num="40"> THE REGIÓN CIENEGA 
+In this region the old Valley of Tziróndaro is located, word of the language purépecha that means place of ciénegas or dried lakes. The municipalities that integrate it are following: Castilian marks, Cojumatlán de Régules, Venustiano Carranza, Briseñas, Vista Hermosa, Tanhuato, Yurécuaro, Mercy, Numarán, Penjamillo, Purépero, Chilchota, Charapan, the Kings, Peribán, Tocumbo, Cotija, Jiquilpan, Sahuayo, Villamar, Pajacuarán, Ixtlán, Ecuandureo, Churintzio, Zináparo, Tlazazalca, Tangancícuaro, Tingüindín, Tangamandapio, Jacona, Zamora and Chavinda. In this region rest of the oldest inhabitants of Michoacán have been located. Near Zamora the Opeño is located, archaeological site where have been rest of their old settlers. Due to the presence of the lake of Chapala and ciénegas, this region has become an suitable place more for agriculture. One takes place wheat, sorghum, maize, onion, Pope, tomato, mills and avocado. The climate that predominates in this region is the tempering with rains in summer. In addition to the domestic animals, the inhabitants of the municipalities that form the Ciénega region make use of the product of the hunting. The animals that conform fauna of the place is the dove, quail, tordo, magpie, coyote, tlacuache, vixen, tejón, raccoon, zorrillo, deer, rabbit, duck, armadillo, squirrel, hare, lynx and cacomixtle. The fishing allows to obtain carp, charal and trout. With respect to the flora, it is possible to be said that the mixed forests with encino, pine and ash predominate. Also they are nopales, huizaches and mezquites. With less frequency wood can be obtained of cedar, ceiba and parota. The main industry is the food production, between which they emphasize candies. The zamoranos chongos and the strawberries are known and consumed in all Mexico.</mensaje>
+
+<mensaje id="pr" num="40">A REGIÓN CIENEGA 
+Nesta região o vale velho de Tziróndaro é ficado situado, palavra do purépecha da língua que significa o lugar dos ciénegas ou secado lagos. As municipalidades que o integram são seguintes: Marcas Castilian, Cojumatlán de Régules, Venustiano Carranza, Briseñas, Vista Hermosa, Tanhuato, Yurécuaro, mercê, Numarán, Penjamillo, Purépero, Chilchota, Charapan, reis, Peribán, Tocumbo, Cotija, Jiquilpan, Sahuayo, Villamar, Pajacuarán, Ixtlán, Ecuandureo, Churintzio, Zináparo, Tlazazalca, Tangancícuaro, Tingüindín, Tangamandapio, Jacona, Zamora e Chavinda. Neste descanso da região dos habitantes os mais velhos de Michoacán foram ficados situado. Perto de Zamora o Opeño é ficado situado, o local archaeological onde estêve o descanso de seus settlers velhos. Devido à presença do lago de Chapala e de ciénegas, este a região transformou-se um lugar apropriado mais para a agricultura. Um ocorre trigo, sorghum, maize, cebola, papa, tomate, moinhos e abacate. O clima que predominates nesta região é moderar com chuvas no verão. Além ao domestic animais, habitantes do as municipalidades que dão forma à região de Ciénega empregam o produto da caça. Os animais que se conformam fauna do lugar são a pomba, codorniz, tordo, magpie, chacal, o tlacuache, vixen, tejón, raccoon, zorrillo, cervos, coelho, pato, armadillo, esquilo, hare, lynx e cacomixtle. A pesca reserva para obter a carpa, charal e a truta. Com respeito ao flora, é possível ser dito que as florestas misturadas com o encino, o pinho e a cinza predominate. Também são nopales, huizaches e mezquites. Com menos freqüência a madeira pode ser obtida de cedro, ceiba e parota. A indústria principal é a produção do alimento, entre que emfatizam doces. Os chongos dos zamoranos e os strawberries são sabidos e consumidos em todo o México.</mensaje>
+
+
+<mensaje id="es" num="41">REGIÓN OCCIDENTE
+Los municipios que integran esta región son: Paracho, Uruapan, Tingambato, Nuevo Parangaricutiro, Ziracuaretiro, Taretan, Tancítaro, Nuevo Trecho, La Huacana, Múgica, Gabriel Zamora, Parácuaro, Apatzingán, Aguililla, Tepalcatepec y Buenavista.
+Los climas que predominan en esta zona son el cálido y el templado, con lluvias en verano. La flora más abundante es el bosque de pino y encino, aunque también se encuentran árboles de parota, ceiba, tepehuaje y mango. 
+La fauna está representada por la ardilla, armadillo, cacomixtle, zorrillo, tlacuache, venado y tejón. En los ríos del Marqués y Tepalcatepec se obtiene mojarra y carpa.
+Los árboles de las sierras  de Tancítaro y Paracho permiten la realización de artesanías de madera como juguetes, rosarios, collares, pulseras, muebles, guitarras, maracas y otros instrumentos musicales. En el mes de agosto se celebra la Feria Nacional de la Guitarra en Paracho.
+Otros sitios importantes de la región son la zona arqueológica de Tingambato y el Parque Nacional de Uruapan.
+</mensaje>
+
+<mensaje id="en" num="41"> THE REGIÓN OCCIDENTE
+The municipalities that integrate this region are: Paracho, Uruapan, Tingambato, New Parangaricutiro, Ziracuaretiro, Taretan, Tancítaro, New Stretch, the Huacana, Múgica, Gabriel Zamora, Parácuaro, Apatzingán, Aguililla, Tepalcatepec and Buenavista. The climates that predominate in this zone are warm and the tempering, with rains in summer. The most abundant flora is the forest of pine and encino, although also they find trees of parota, ceiba, tepehuaje and handle. The fauna is represented by the squirrel, armadillo, cacomixtle, zorrillo, tlacuache, deer and tejón. In rivers of Marquess and Tepalcatepec one obtains mojarra and carp. The trees of the mountain ranges of Tancítaro and Paracho allow the accomplishment of wood crafts like toys, rosaries, necklaces, bracelets, furniture, musical guitars, maracas and other instruments. In the month of August the National Fair of the Guitar is celebrated in Paracho. Other important sites of the region are the archaeological zone of Tingambato and the National Park of Uruapan.</mensaje>
+
+<mensaje id="pr" num="41">A REGIÓN OCCIDENTE 
+As municipalidades que integram esta a região é: Paracho, Uruapan, Tingambato, Parangaricutiro novo, Ziracuaretiro, Taretan, Tancítaro, estiramento novo, Huacana, Múgica, Gabriel Zamora, Parácuaro, Apatzingán, Aguililla, Tepalcatepec e Buenavista. Os climas que predominate nesta zona estão mornos e moderar, com chuvas no verão. O mais abundante o flora é a floresta do pinho e do encino, embora também encontrem árvores do parota, do ceiba, do tepehuaje e do punho. O fauna é representado pelo esquilo, armadillo, cacomixtle, zorrillo, tlacuache, cervos e tejón. Nos rios do Marquess e Tepalcatepec um obtem o mojarra e a carpa. As árvores das escalas da montanha de Tancítaro e Paracho permitem a realização dos ofícios de madeira gosta de brinquedos, de rosários, de necklaces, de bracelets, de furniture, de guitarras musicais, de maracas e de outros instrumentos. No mês de agosto A feira nacional da guitarra é comemorada em Paracho. Outros locais importantes da região são a zona archaeological de Tingambato e o parque nacional de Uruapan.</mensaje>
+
+
+<mensaje id="es" num="42">REGIÓN ORIENTE
+La región Oriente de Michoacán está limitada por los Estados de Guanajuato, Querétaro y México, así como por las regiones Centro y Tierra Caliente de Michoacán.
+Los municipios que integran esta región son: Epitacio Huerta, Contepec, Maravatío, Hidalgo, Irimbo, Senguio, Tlalpujahua, Áporo, Angangueo, Tuxpan, Ocampo, Jungapeo, Zitácuaro, Juárez, Tuzantla y Susupuato.
+Los climas que se presentan en esta zona, son el templado con lluvias en verano, el templado con lluvias todo el año y el cálido con lluvias en verano.
+La flora regional está representada por pino, oyamel, encino, cedro, aile, ziranda, ceiba, cirián, guaje y mango. En cuanto a la fauna que predomina la región, está formada por conejo, ardilla, comadreja, cacomixtle, zorrillo, tejón, pato, liebre, coyote, gato montés y armadillo. En los meses de noviembre y diciembre llega la mariposa Monarca desde Canadá y permanecen hasta el mes de marzo en la reserva ecológica que recibe el nombre de Santuario de la Mariposa Monarca. Ésta se ubica en los municipios de Ocampo, Angangueo, Zitácuaro y Contepec, y fue creada para evitar que las mariposas Monarca desaparezcan de los paisajes michoacanos.
+Los principales productos agrícolas  de la región Oriente son maíz, trigo, cebada, frijol, haba, tomate, ajonjolí, manzana, durazno, maguey, pera, fresa, capulín, tejocote y aguacate. El río Lerma ayuda para que se desarrolle la labor de los agricultores.
+En los municipios de Angangueo y Tlalpujahua se lleva a cabo la minería, ya que hay yacimientos de oro, plata y cobre. Estos yacimientos han sido explotados desde hace muchos años.
+La producción de borregos permite que su lana se utilice en la fabricación  de artesanías como gabanes y otras prendas de vestir. Además se producen muebles coloniales, sillas de montar, productos de vidrio soplado y alfarería.
+La producción de huaraches y zapatos comienza a ser una actividad  que permite que algunos habitantes de la región adquieran un empelo permanente. Los huaraches y los zapatos  que se producen en esta región son usados en muchos  Estados de la República Mexicana.</mensaje>
+
+<mensaje id="en" num="42"> THE REGIÓN ORIENTE
+The region East of Michoacán is limited by the states of Guanajuato, Querétaro and Mexico, as well as by the regions Center and Hot Land of Michoacán. The municipalities that integrate this region are: Epitacio Orchard, Contepec, Maravatío, Hidalgo, Irimbo, Senguio, Tlalpujahua, Áporo, Angangueo, Tuxpan, Ocampo, Jungapeo, Zitácuaro, Juárez, Tuzantla and Susupuato. The climates that appear in this zone, are the tempering with rains in summer, the tempering with rains all the year and warm with rains in summer. The regional flora is represented by pine, oyamel, encino, cedar, aile, ziranda, ceiba, cirián, guaje and handle. As far as the fauna that predominates the region, it is formed by rabbit, squirrel, weasel, cacomixtle, zorrillo, tejón, duck, hare, coyote, wild cat and armadillo. In the months of November and December the butterfly arrives Monarch from Canada and remain to the month of March in the reserve ecological that receives the name of Sanctuary of the Butterfly Monarch. This one is located in the municipalities of Ocampo, Angangueo, Zitácuaro and Contepec, and were created to avoid that the butterflies Monarch disappear of the michoacanos landscapes. The main agricultural products of the region East are maize, wheat, barley, frijol, haba, tomato, sesame, apple, peach tree, maguey, pear, mills, capulín, tejocote and avocado. The Lerma river helps so that the work is developed of agriculturists. In the municipalities of Angangueo and Tlalpujahua is carried out the mining, since there are gold deposits, silver and receives. These deposits have been operated for many years. The production of lambs allows that its wool is used in the manufacture of crafts as gabanes and other articles to dress. In addition furniture takes place colonial, chairs to mount, blown glass products and pottery. The production of huaraches and shoes it begins to be an activity that allows that some inhabitants of the region acquire empelo permanent. huaraches and the shoes that take place in this region are used in many states of the Mexican Republic.</mensaje>
+
+<mensaje id="pr" num="42">A REGIÓN ORIENTE 
+A região leste de Michoacán é limitada pelos Estados de Guanajuato, de Querétaro e de México, assim como pelo centro das regiões e pela terra quente de Michoacán. as municipalidades que integram esta região são: Pomar de Epitacio, Contepec, Maravatío, fidalgo, Irimbo, Senguio, Tlalpujahua, Áporo, Angangueo, Tuxpan, Ocampo, Jungapeo, Zitácuaro, Juárez, Tuzantla e Susupuato. Os climas que parecem nesta zona, são moderar com chuvas no verão, moderar com chuvas todo o ano e se aquecem com chuvas no verão. O flora regional é representado pelo pinho, pelo oyamel, pelo encino, pelo cedro, por aile, ziranda, ceiba, cirián, guaje e punho. Até o fauna isso predominates a região, ele é dada forma pelo coelho, esquilo, doninhas, cacomixtle, zorrillo, tejón, pato, hare, chacal, gato selvagem e armadillo. Nos meses de Novembro e dezembro a borboleta chega Monarch de Canadá e remanesce ao mês de março na reserva ecological que recebe o nome do Sanctuary do Monarch da borboleta. Este é ficado situado nas municipalidades de Ocampo, de Angangueo, de Zitácuaro e de Contepec, e foi criado para evitar que o Monarch das borboletas desaparecer das paisagens dos michoacanos. Os produtos agriculturais principais do o leste da região é maize, trigo, cevada, frijol, haba, tomate, sesame, maçã, árvore de pêssego, maguey, pera, moinhos, capulín, tejocote e abacate. O rio de Lerma ajuda de modo que o trabalho seja desenvolvido de agricultores. Nas municipalidades de Angangueo e de Tlalpujahua é realizado a mineração, desde que há uns depósitos do ouro, prateia e recebe. Estes depósitos foram operados por muitos anos. a produção dos cordeiros concede que sua lã está usada na manufatura dos ofícios como gabanes e outros artigos a vestir-se. Além o furniture ocorre colonial, cadeiras para montar, produtos e cerâmica de vidro fundidos. A produção dos huaraches e das sapatas que começa a ser uma atividade isso concede que alguns habitantes da região adquirem o permanent do empelo. os huaraches e as sapatas que ocorrem nesta região são usados em muitos Estados do mexicano República.</mensaje>
+
+
+<mensaje id="es" num="43">REGIÓN TIERRA CALIENTE
+Los municipios que integran esta región son: Churumuco, Turicato, Nocupétaro, Carácuaro, Tiquicheo de Nicolás Romero, Huetamo y San Lucas.
+El nombre de la región se debe a los tipos de clima que en ella predominan: clima cálido con lluvias en los meses de junio a septiembre y clima cálido con lluvias escasas durante el año. La temperatura más común es de 25 grados en el invierno y de 32 grados en el verano.
+La flora está representada por parota, tepeguaje, cuerazo, ceiba, huizache, teteche, cactus y tepemezquite. En algunos lugares hay encino.
+La fauna es variada, se encuentra venado, coyote, conejo, zorro, zorrillo, armadillo, tejón, huilota, calandria, cuervo, águila, gavilán, codorniz, perico, urraca, boa, carpa, mojarra  y pez bagre. 
+Los productos agrícolas que se obtienen en esta región son maíz, ajonjolí, cacahuate, frijol, ciruela, guayaba, mango, plátano, papaya, tamarindo, melón, sandía y mamey. 
+Cuenta con ricos yacimientos de cobre, fierro, oro, plata, zinc y plomo. Huetamo es una población en la que se producen obras de arte en filigrana, oro y plata.</mensaje>
+
+<mensaje id="en" num="43"> THE REGIÓN HOT EARTH
+The municipalities that integrate this region are: Churumuco, Turicato, Nocupétaro, Carácuaro, Tiquicheo de Nicholas Romero, Huetamo and San Lucas. The name of the region must to the types of climate that in her predominate: climate warm with rains in the months of June to September and warm climate with rains little during the year. The temperature commonest is of 25 degrees in the winter and 32 degrees in the summer. The flora is represented by parota, tepeguaje, cuerazo, ceiba, huizache, teteche, cactus and tepemezquite. In some places there is encino. The fauna is varied, is deer, coyote, rabbit, fox, zorrillo, armadillo, tejón, huilota, calandria, crow, eagle, sparrowhawk, quail, perico, magpie, boa, carp, mojarra and fish catfish. The agricultural products that are obtained in this region are maize, sesame, peanut, frijol, plum, guayaba, handle, banana, papaya, tamarind, melon, watermelon and mamey. Account with rich copper deposits, iron, gold, silver, zinc and lead. Huetamo is a population in which they take place works of art in filigree, gold and silver.</mensaje>
+
+<mensaje id="pr" num="43">A REGIÓN TERRA QUENTE
+As municipalidades que integram esta região são: Churumuco, Turicato, Nocupétaro, Carácuaro, Tiquicheo de Nicholas Romero, Huetamo e San Lucas. O nome da região deve aos tipos de clima que nela predominate: clima morno com chuvas nos meses de junho a setembro e clima morno com chuvas pouco durante o ano. A temperatura a mais comum é de 25 graus no inverno e de 32 graus no verão. O flora é representado pelo parota, tepeguaje, cuerazo, ceiba, huizache, teteche, cacto e tepemezquite. Em alguns lugares há encino. O fauna é variado, é cervo, peixe-gato do chacal, do coelho, da raposa, do zorrillo, do armadillo, do tejón, do huilota, do calandria, do corvo, da águia, do sparrowhawk, das codornizes, do perico, do magpie, da boa, da carpa, do mojarra e dos peixes. os produtos agriculturais que são obtidos nesta região são maize, sesame, amendoim, frijol, ameixa, guayaba, punho, banana, papaya, tamarind, melon, melancia e mamey. Cliente com depósitos, ferro, ouro, prata, zinco e ligação ricos do cobre. Huetamo é uma população em que ocorrem trabalhos de arte em filigree, ouro e prata.</mensaje>
+
+
+<mensaje id="es" num="44">REGIÓN COSTA
+Esta región está conformada por los municipios de Coahuayana, Chinicuila, Aquila, Coalcomán, Tumbiscatío, Arteaga y  Lázaro Cárdenas.   
+El relieve está determinado por las planicies  en los límites con el Océano Pacífico y por la Sierra Madre del Sur. En éstas se encuentran los cerros de Maquilí, Cachán, Parota, Bufa, Tejocote, Cascarón y Situtitlán.
+El agua está presente con el Océano Pacífico y los ríos denominados Coahuayana, Coalcomán o Cachán, Balsas, Tumbiscatío, Nexpa y Tepalcatepec. Se han  construido las presas El Infiernillo y José María Morelos. 
+En la costa de Michoacán hay playas bañadas  por las aguas del Océano Pacífico. Playa azul es uno de los principales lugares de recreación para los michoacanos y visitantes de otros lugares. Las Peñas, Caleta de Campos, Maruata, Faro de Bucerías, Las Brisas, San Juan de Alima y Boca de Apiza son otras playas que comienzan a ser visitadas por los turistas.
+La fauna marina constituye una de las principales fuentes de ingreso para los habitantes de la región. Se obtiene caguama, tiburón, tonina, pez volador, pez vela, lisa, guachinango, mojarra, robalo, mero, langosta, ostión y camarón.
+Zorrillo, mapache, cacomixtle, conejo, armadillo, tlacuache, nutria, coyote, pato, faisán, huilota y torcaza integran la fauna terrestre.
+Cuerazo, parota, ceiba, pino, encino, sabino, fresno, sauce, palma, chirimoya, guanábana y zapote conforman  la flora regional. 
+El clima que predomina es el cálido con lluvias en verano, en algunos lugares, se presenta el clima cálido con lluvias escasas.</mensaje>
+
+<mensaje id="en" num="44"> THE REGIÓN COSTA
+This region is conformed by municipalities of Coahuayana, Chinicuila, Cardinal red Aquila, Coalcomán, Tumbiscatío, Arteaga and Lazaro. The relief is determined by plains in the limits with the Pacific Ocean and by the Mountain range Mother of the South. In these are the hills of Maquilí, Cachán, Parota, Joke, Tejocote, Cascarón and Situtitlán. The water is present with the Ocean Pacific and the denominated rivers Coahuayana, Coalcomán or Cachán, Rafts, Tmbiscatío, Nexpa and Tepalcatepec. They have been constructed the prey the Infiernillo and Jose Maria Morelos. In the coast of Michoacán there are beaches bathed by waters of the Pacific Ocean. Blue beach is one of the main places of recreation for the michoacanos and visitors of other places. The Rocks, Creek of Fields, Maruata, Light of Bucerías, the Breezes, San Juan de Alima and Boca de Apiza is other beaches that they begin to be visited by the tourists. The marine fauna constitutes one of main sources of entrance for inhabitants of the region. He obtains himself caguama, shark, tonina, flying fish, fish guard, smooth, guachinango, mojarra, robalo, mere, lobster, ostión and shrimp. Zorrillo, raccoon, cacomixtle, rabbit, armadillo, tlacuache, otter, coyote, duck, pheasant, huilota and torcaza integrate the terrestrial fauna. Cuerazo, parota, ceiba, pine, encino, sabino, ash, willow, palm, chirimoya, guanábana and zapote conform the flora regional. The climate that predominates is the warm one with rains in summer, in some places, the warm climate with rains appears little.</mensaje>
+
+
+<mensaje id="pr" num="44">A REGIÓN COSTA
+Esta região é conformada por municipalidades de Coahuayana, Chinicuila, vermelho cardinal Aquila, Coalcomán, Tumbiscatío, Arteaga e Lazaro. O relevo é determinado por planícies nos limites com o océano pacífico e pela mãe da escala da montanha do sul. Nestes estão os montes de Maquilí, Cachán, Parota, gracejo, Tejocote, Cascarón e Situtitlán. A água está atual com o océano pacífico e os rios denominated Coahuayana, Coalcomán ou Cachán, jangadas, Tmbiscatío, Nexpa e Tepalcatepec. Foram construídos a rapina Infiernillo e Jose Maria Morelos. Na costa de Michoacán há praias banhadas por águas do océano pacífico. A praia azul é um dos lugares principais da recreação para os michoacanos e os visitantes de outro lugares. As rochas, Creek dos campos, Maruata, luz de Bucerías, as brisas, de San Juan de Alima e de Boca de Apiza é outras praias que começam a ser visitados pelos turistas. O fauna marinho constitui uma de fontes principais da entrada para habitantes da região. Obtem-se himself caguama, tubarão, tonina, voando pescar, peixes guardam, liso, guachinango, mojarra, robalo, mero, lagosta, ostión e shrimp. Zorrillo, raccoon, cacomixtle, coelho, armadillo, tlacuache, lontra, o chacal, o pato, o faisão, o huilota e o torcaza integram o fauna terrestrial. Cuerazo, parota, ceiba, pinho, encino, sabino, cinza, salgueiro, palma, chirimoya, guanábana e o zapote conforma-se o flora regional. o clima que predominates é morno com chuvas no verão, em alguns lugares, o clima morno com chuvas parece pequeno.</mensaje>
+
+
+
+
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+
+
+
+<mensaje id="es" num="200">Lago de Chapala</mensaje>
+<mensaje id="en" num="200">Lago de Chapala</mensaje>
+<mensaje id="pr" num="200">Lago de Chapala</mensaje>
+
+<mensaje id="es" num="201">Río Lerma</mensaje>
+<mensaje id="en" num="201">Río Lerma</mensaje>
+<mensaje id="pr" num="201">Río Lerma</mensaje>
+
+<mensaje id="es" num="202">Río Duero</mensaje>
+<mensaje id="en" num="202">Río Duero</mensaje>
+<mensaje id="pr" num="202">Río Duero</mensaje>
+
+<mensaje id="es" num="203">Río Angulo</mensaje>
+<mensaje id="en" num="203">Río Angulo</mensaje>
+<mensaje id="pr" num="203">Río Angulo</mensaje>
+
+<mensaje id="es" num="204">Lago Cuitzeo</mensaje>
+<mensaje id="en" num="204">Lago Cuitzeo</mensaje>
+<mensaje id="pr" num="204">Lago Cuitzeo</mensaje>
+
+<mensaje id="es" num="205">Río Tlalpujahua</mensaje>
+<mensaje id="en" num="205">Río Tlalpujahua</mensaje>
+<mensaje id="pr" num="205">Río Tlalpujahua</mensaje>
+
+<mensaje id="es" num="206">Presa Tepuxtepec</mensaje>
+<mensaje id="en" num="206">Presa Tepuxtepec</mensaje>
+<mensaje id="pr" num="206">Presa Tepuxtepec</mensaje>
+
+<mensaje id="es" num="207">Laguna de los azufres</mensaje>
+<mensaje id="en" num="207">Laguna de los azufres</mensaje>
+<mensaje id="pr" num="207">Laguna de los azufres</mensaje>
+
+<mensaje id="es" num="208">Río grande de Morelia</mensaje>
+<mensaje id="en" num="208">Río grande de Morelia</mensaje>
+<mensaje id="pr" num="208">Río grande de Morelia</mensaje>
+
+<mensaje id="es" num="209">Lago Pátzcuaro</mensaje>
+<mensaje id="en" num="209">Lago Pátzcuaro</mensaje>
+<mensaje id="pr" num="209">Lago Pátzcuaro</mensaje>
+
+<mensaje id="es" num="210">Lago Zirahuén</mensaje>
+<mensaje id="en" num="210">Lago Zirahuén</mensaje>
+<mensaje id="pr" num="210">Lago Zirahuén</mensaje>
+
+<mensaje id="es" num="211">Río Tepalcatepec</mensaje>
+<mensaje id="en" num="211">Río Tepalcatepec</mensaje>
+<mensaje id="pr" num="211">Río Tepalcatepec</mensaje>
+
+<mensaje id="es" num="212">Río del Marqués</mensaje>
+<mensaje id="en" num="212">Río del Marqués</mensaje>
+<mensaje id="pr" num="212">Río del Marqués</mensaje>
+
+<mensaje id="es" num="213">Río Tacamb</mensaje>
+<mensaje id="en" num="213">Río Tacamb</mensaje>
+<mensaje id="pr" num="213">Río Tacamb</mensaje>
+
+<mensaje id="es" num="214">Río Zitácuaro</mensaje>
+<mensaje id="en" num="214">Río Zitácuaro</mensaje>
+<mensaje id="pr" num="214">Río Zitácuaro</mensaje>
+
+<mensaje id="es" num="215">Río Pungarancho</mensaje>
+<mensaje id="en" num="215">Río Pungarancho</mensaje>
+<mensaje id="pr" num="215">Río Pungarancho</mensaje>
+
+<mensaje id="es" num="216">Río Cutzamala</mensaje>
+<mensaje id="en" num="216">Río Cutzamala</mensaje>
+<mensaje id="pr" num="216">Río Cutzamala</mensaje>
+
+<mensaje id="es" num="217">Presa el Infiernillo</mensaje>
+<mensaje id="en" num="217">Presa el Infiernillo</mensaje>
+<mensaje id="pr" num="217">Presa el Infiernillo</mensaje>
+
+<mensaje id="es" num="218">Río Balsas</mensaje>
+<mensaje id="en" num="218">Río Balsas</mensaje>
+<mensaje id="pr" num="218">Río Balsas</mensaje>
+
+<mensaje id="es" num="219">Río Coahuayana</mensaje>
+<mensaje id="en" num="219">Río Coahuayana</mensaje>
+<mensaje id="pr" num="219">Río Coahuayana</mensaje>
+
+<mensaje id="es" num="220">Río Aquila</mensaje>
+<mensaje id="en" num="220">Río Aquila</mensaje>
+<mensaje id="pr" num="220">Río Aquila</mensaje>
+
+<mensaje id="es" num="221">Río Maruata</mensaje>
+<mensaje id="en" num="221">Río Maruata</mensaje>
+<mensaje id="pr" num="221">Río Maruata</mensaje>
+
+<mensaje id="es" num="222">Río Coalcomán</mensaje>
+<mensaje id="en" num="222">Río Coalcomán</mensaje>
+<mensaje id="pr" num="222">Río Coalcomán</mensaje>
+
+<mensaje id="es" num="223">Río Nexpa</mensaje>
+<mensaje id="en" num="223">Río Nexpa</mensaje>
+<mensaje id="pr" num="223">Río Nexpa</mensaje>
+
+<mensaje id="es" num="300">Turismo</mensaje>
+<mensaje id="en" num="300">Turismo</mensaje>
+<mensaje id="pr" num="300">Turismo</mensaje>
+
+<mensaje id="es" num="301">Recursos Forestales</mensaje>
+<mensaje id="en" num="301">Recursos Forestales</mensaje>
+<mensaje id="pr" num="301">Recursos Forestales</mensaje>
+
+<mensaje id="es" num="302">Industria</mensaje>
+<mensaje id="en" num="302">Industria</mensaje>
+<mensaje id="pr" num="302">Industria</mensaje>
+
+<mensaje id="es" num="303">Portuaria</mensaje>
+<mensaje id="en" num="303">Portuaria</mensaje>
+<mensaje id="pr" num="303">Portuaria</mensaje>
+
+<mensaje id="es" num="304">Dulces y Alimentos</mensaje>
+<mensaje id="en" num="304">Dulces y Alimentos</mensaje>
+<mensaje id="pr" num="304">Dulces y Alimentos</mensaje>
+
+<mensaje id="es" num="305">Pesca</mensaje>
+<mensaje id="en" num="305">Pesca</mensaje>
+<mensaje id="pr" num="305">Pesca</mensaje>
+
+<mensaje id="es" num="306">Artesania</mensaje>
+<mensaje id="en" num="306">Artesania</mensaje>
+<mensaje id="pr" num="306">Artesania</mensaje>
+
+<mensaje id="es" num="307">Agricultura</mensaje>
+<mensaje id="en" num="307">Agricultura</mensaje>
+<mensaje id="pr" num="307">Agricultura</mensaje>
+
+<mensaje id="es" num="308">Ganadería</mensaje>
+<mensaje id="en" num="308">Ganadería</mensaje>
+<mensaje id="pr" num="308">Ganadería</mensaje>
+
+<mensaje id="es" num="309">Minería</mensaje>
+<mensaje id="en" num="309">Minería</mensaje>
+<mensaje id="pr" num="309">Minería</mensaje>
+
+<mensaje id="es" num="400">Paracho</mensaje>
+<mensaje id="en" num="400">Paracho</mensaje>
+<mensaje id="pr" num="400">Paracho</mensaje>
+
+<mensaje id="es" num="401">Lago de Pátzcuaro</mensaje>
+<mensaje id="en" num="401">Lago de Pátzcuaro</mensaje>
+<mensaje id="pr" num="401">Lago de Pátzcuaro</mensaje>
+
+<mensaje id="es" num="402">Centro historico de la ciudad de morelia</mensaje>
+<mensaje id="en" num="402">Centro historico de la ciudad de morelia</mensaje>
+<mensaje id="pr" num="402">Centro historico de la ciudad de morelia</mensaje>
+
+<mensaje id="es" num="403">Manantiales de los azufres</mensaje>
+<mensaje id="en" num="403">Manantiales de los azufres</mensaje>
+<mensaje id="pr" num="403">Manantiales de los azufres</mensaje>
+
+<mensaje id="es" num="404">Santuatio de la mariposa monarca</mensaje>
+<mensaje id="en" num="404">Santuatio de la mariposa monarca</mensaje>
+<mensaje id="pr" num="404">Santuatio de la mariposa monarca</mensaje>
+
+<mensaje id="es" num="405">Volcan Paricutín</mensaje>
+<mensaje id="en" num="405">Volcan Paricutín</mensaje>
+<mensaje id="pr" num="405">Volcan Paricutín</mensaje>
+
+<mensaje id="es" num="406">Parque nacional de Uruapan</mensaje>
+<mensaje id="en" num="406">Parque nacional de Uruapan</mensaje>
+<mensaje id="pr" num="406">Parque nacional de Uruapan</mensaje>
+
+<mensaje id="es" num="407">Isla de Janitzio</mensaje>
+<mensaje id="en" num="407">Isla de Janitzio</mensaje>
+<mensaje id="pr" num="407">Isla de Janitzio</mensaje>
+
+<mensaje id="es" num="408">Acueducto de Morelia</mensaje>
+<mensaje id="en" num="408">Acueducto de Morelia</mensaje>
+<mensaje id="pr" num="408">Acueducto de Morelia</mensaje>
+
+<mensaje id="es" num="409">Santuatio de la mariposa monarca</mensaje>
+<mensaje id="en" num="409">Santuatio de la mariposa monarca</mensaje>
+<mensaje id="pr" num="409">Santuatio de la mariposa monarca</mensaje>
+
+<mensaje id="es" num="410">La Tzararacua</mensaje>
+<mensaje id="en" num="410">La Tzararacua</mensaje>
+<mensaje id="pr" num="410">La Tzararacua</mensaje>
+
+<mensaje id="es" num="411">Santuatio de la mariposa monarca</mensaje>
+<mensaje id="en" num="411">Santuatio de la mariposa monarca</mensaje>
+<mensaje id="pr" num="411">Santuatio de la mariposa monarca</mensaje>
+
+<mensaje id="es" num="412">Puerto Lazaro Cardenas</mensaje>
+<mensaje id="en" num="412">Puerto Lazaro Cardenas</mensaje>
+<mensaje id="pr" num="412">Puerto Lazaro Cardenas</mensaje>
+
+<mensaje id="es" num="413">Zona arqueológica de Tingambato</mensaje>
+<mensaje id="en" num="413">Zona arqueológica de Tingambato</mensaje>
+<mensaje id="pr" num="413">Zona arqueológica de Tingambato</mensaje>
+
+<mensaje id="es" num="414">Yácatas de Tzintzuntzan</mensaje>
+<mensaje id="en" num="414">Yácatas de Tzintzuntzan</mensaje>
+<mensaje id="pr" num="414">Yácatas de Tzintzuntzan</mensaje>
+
+<mensaje id="es" num="500">Sierra del Centro</mensaje>
+<mensaje id="en" num="500">Sierra del Centro</mensaje>
+<mensaje id="pr" num="500">Sierra del Centro</mensaje>
+
+<mensaje id="es" num="501">Sierra Madre del Sur</mensaje>
+<mensaje id="en" num="501">Sierra Madre del Sur</mensaje>
+<mensaje id="pr" num="501">Sierra Madre del Sur</mensaje>
+
+<mensaje id="es" num="502">Volcan de Jojullo</mensaje>
+<mensaje id="en" num="502">Volcan de Jojullo</mensaje>
+<mensaje id="pr" num="502">Volcan de Jojullo</mensaje>
+
+<mensaje id="es" num="503">Pico de Tancítaro</mensaje>
+<mensaje id="en" num="503">Pico de Tancítaro</mensaje>
+<mensaje id="pr" num="503">Pico de Tancítaro</mensaje>
+
+<mensaje id="es" num="504">Volcan Paricutín</mensaje>
+<mensaje id="en" num="504">Volcan Paricutín</mensaje>
+<mensaje id="pr" num="504">Volcan Paricutín</mensaje>
+
+<mensaje id="es" num="505">Cerro de San Andres</mensaje>
+<mensaje id="en" num="505">Cerro de San Andres</mensaje>
+<mensaje id="pr" num="505">Cerro de San Andres</mensaje>
+
+<mensaje id="es" num="600">La Piedad Cabadas</mensaje>
+<mensaje id="en" num="600">La Piedad Cabadas</mensaje>
+<mensaje id="pr" num="600">La Piedad Cabadas</mensaje>
+
+<mensaje id="es" num="601">Sahuayo de Morelos</mensaje>
+<mensaje id="en" num="601">Sahuayo de Morelos</mensaje>
+<mensaje id="pr" num="601">Sahuayo de Morelos</mensaje>
+
+<mensaje id="es" num="602">Zamora de Hidalgo</mensaje>
+<mensaje id="en" num="602">Zamora de Hidalgo</mensaje>
+<mensaje id="pr" num="602">Zamora de Hidalgo</mensaje>
+
+<mensaje id="es" num="603">Jiquilpan de Juárez</mensaje>
+<mensaje id="en" num="603">Jiquilpan de Juárez</mensaje>
+<mensaje id="pr" num="603">Jiquilpan de Juárez</mensaje>
+
+<mensaje id="es" num="604">Jacona de Plancarte</mensaje>
+<mensaje id="en" num="604">Jacona de Plancarte</mensaje>
+<mensaje id="pr" num="604">Jacona de Plancarte</mensaje>
+
+<mensaje id="es" num="605">Zacapu</mensaje>
+<mensaje id="en" num="605">Zacapu</mensaje>
+<mensaje id="pr" num="605">Zacapu</mensaje>
+
+<mensaje id="es" num="606">Morelia</mensaje>
+<mensaje id="en" num="606">Morelia</mensaje>
+<mensaje id="pr" num="606">morelia</mensaje>
+
+<mensaje id="es" num="607">Ciudad Hidalgo</mensaje>
+<mensaje id="en" num="607">Ciudad Hidalgo</mensaje>
+<mensaje id="pr" num="607">Ciudad Hidalgo</mensaje>
+
+<mensaje id="es" num="608">Heroica Zitácuaro</mensaje>
+<mensaje id="en" num="608">Heroica Zitácuaro</mensaje>
+<mensaje id="pr" num="608">Heroica Zitácuaro</mensaje>
+
+<mensaje id="es" num="609">Pátzcuaro</mensaje>
+<mensaje id="en" num="609">Pátzcuaro</mensaje>
+<mensaje id="pr" num="609">Pátzcuaro</mensaje>
+
+<mensaje id="es" num="610">Uruapan de Progreso</mensaje>
+<mensaje id="en" num="610">Uruapan de Progreso</mensaje>
+<mensaje id="pr" num="610">Uruapan de Progreso</mensaje>
+
+<mensaje id="es" num="611">Apatzingan de la Constitución</mensaje>
+<mensaje id="en" num="611">Apatzingan de la Constitución</mensaje>
+<mensaje id="pr" num="611">Apatzingan de la Constitución</mensaje>
+
+<mensaje id="es" num="612">Ciudad Lazaro Cardenas</mensaje>
+<mensaje id="en" num="612">Ciudad Lazaro Cardenas</mensaje>
+<mensaje id="pr" num="612">Ciudad Lazaro Cardenas</mensaje>
+
+<mensaje id="es" num="700">REGIÓN CIÉNEGA</mensaje>
+<mensaje id="en" num="700">REGIÓN CIÉNEGA</mensaje>
+<mensaje id="pr" num="700">REGIÓN CIÉNEGA</mensaje>
+
+<mensaje id="es" num="701">REGIÓN CENTRO</mensaje>
+<mensaje id="en" num="701">REGIÓN CENTRO</mensaje>
+<mensaje id="pr" num="701">REGIÓN CENTRO</mensaje>
+
+<mensaje id="es" num="702">REGIÓN ORIENTE</mensaje>
+<mensaje id="en" num="702">REGIÓN ORIENTE</mensaje>
+<mensaje id="pr" num="702">REGIÓN ORIENTE</mensaje>
+
+<mensaje id="es" num="703">REGIÓN COSTA</mensaje>
+<mensaje id="en" num="703">REGIÓN COSTA</mensaje>
+<mensaje id="pr" num="703">REGIÓN COSTA</mensaje>
+
+<mensaje id="es" num="704">REGIÓN TIERRA CALIENTE</mensaje>
+<mensaje id="en" num="704">REGIÓN TIERRA CALIENTE</mensaje>
+<mensaje id="pr" num="704">REGIÓN TIERRA CALIENTE</mensaje>
+
+<mensaje id="es" num="705">REGIÓN OCCIDENTE</mensaje>
+<mensaje id="en" num="705">REGIÓN OCCIDENTE</mensaje>
+<mensaje id="pr" num="705">REGIÓN OCCIDENTE</mensaje>
+
+</mensajes>

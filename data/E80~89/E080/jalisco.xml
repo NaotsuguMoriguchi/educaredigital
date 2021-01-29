@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">En Jalisco se localiza una de las ciudades más importantes del país, Guadalajara, que junto con Tlaquepaque y Zapopan forman la zona metropolitana de la ciudad.</mensaje>
+<mensaje id="en" num="1">En Jalisco se localiza una de las ciudades más importantes del país, Guadalajara, que junto con Tlaquepaque y Zapopan forman la zona metropolitana de la ciudad.</mensaje>
+<mensaje id="pr" num="1">En Jalisco se localiza una de las ciudades más importantes del país, Guadalajara, que junto con Tlaquepaque y Zapopan forman la zona metropolitana de la ciudad.</mensaje>
+
+<mensaje id="es" num="2">El nombre de Jalisco significa 'sobre la superficie de arena' y se deriva del náhuatl 'xalli' (arena) y de 'ixco' (superficie o cara).</mensaje>
+<mensaje id="en" num="2">El nombre de Jalisco significa 'sobre la superficie de arena' y se deriva del náhuatl 'xalli' (arena) y de 'ixco' (superficie o cara).</mensaje>
+<mensaje id="pr" num="2">El nombre de Jalisco significa 'sobre la superficie de arena' y se deriva del náhuatl 'xalli' (arena) y de 'ixco' (superficie o cara).</mensaje>
+
+<mensaje id="es" num="3">El lago de Chapala es el más grande de México. Su nombre proviene de la lengua náhuatl y significa “gran cantidad de agua”.</mensaje>
+<mensaje id="en" num="3">El lago de Chapala es el más grande de México. Su nombre proviene de la lengua náhuatl y significa “gran cantidad de agua”.</mensaje>
+<mensaje id="pr" num="3">El lago de Chapala es el más grande de México. Su nombre proviene de la lengua náhuatl y significa “gran cantidad de agua”.</mensaje>
+
+<mensaje id="es" num="4">El volcán de Colima se localiza en los límites de los Estados de Jalisco y Colima. Es considerado uno de los más activos del país.</mensaje>
+<mensaje id="en" num="4">El volcán de Colima se localiza en los límites de los Estados de Jalisco y Colima. Es considerado uno de los más activos del país.</mensaje>
+<mensaje id="pr" num="4">El volcán de Colima se localiza en los límites de los Estados de Jalisco y Colima. Es considerado uno de los más activos del país.</mensaje>
+
+<mensaje id="es" num="5">Los huicholes son uno de los pueblos indígenas más antiguos de Jalisco y viven en territorios de difícil acceso  en la zona norte del Estado.</mensaje>
+<mensaje id="en" num="5">Los huicholes son uno de los pueblos indígenas más antiguos de Jalisco y viven en territorios de difícil acceso  en la zona norte del Estado.</mensaje>
+<mensaje id="pr" num="5">Los huicholes son uno de los pueblos indígenas más antiguos de Jalisco y viven en territorios de difícil acceso  en la zona norte del Estado.</mensaje>
+
+<mensaje id="es" num="6">La pitaya es un fruto de cactus típico de Jalisco que se da en los meses de mayor calor.</mensaje>
+<mensaje id="en" num="6">La pitaya es un fruto de cactus típico de Jalisco que se da en los meses de mayor calor.</mensaje>
+<mensaje id="pr" num="6">La pitaya es un fruto de cactus típico de Jalisco que se da en los meses de mayor calor.</mensaje>
+
+<mensaje id="es" num="7">La catedral de Guadalajara es una de las catedrales mexicanas fundadas en el siglo XVI y la única en el país que presenta en su interior bella arquitectura de estilo gótico.</mensaje>
+<mensaje id="en" num="7">La catedral de Guadalajara es una de las catedrales mexicanas fundadas en el siglo XVI y la única en el país que presenta en su interior bella arquitectura de estilo gótico.</mensaje>
+<mensaje id="pr" num="7">La catedral de Guadalajara es una de las catedrales mexicanas fundadas en el siglo XVI y la única en el país que presenta en su interior bella arquitectura de estilo gótico.</mensaje>
+
+<mensaje id="es" num="8">La cerámica de los municipios de Tlaquepaque y Tonalá es reconocida como una de las más hermosas del mundo.</mensaje>
+<mensaje id="en" num="8">La cerámica de los municipios de Tlaquepaque y Tonalá es reconocida como una de las más hermosas del mundo.</mensaje>
+<mensaje id="pr" num="8">La cerámica de los municipios de Tlaquepaque y Tonalá es reconocida como una de las más hermosas del mundo.</mensaje>
+
+<mensaje id="es" num="9">Entre la gastronomía de Jalisco destacan platillos como el pozole, la birria, el caldo michi, las tostadas y las tortas ahogadas.</mensaje>
+<mensaje id="en" num="9">Entre la gastronomía de Jalisco destacan platillos como el pozole, la birria, el caldo michi, las tostadas y las tortas ahogadas.</mensaje>
+<mensaje id="pr" num="9">Entre la gastronomía de Jalisco destacan platillos como el pozole, la birria, el caldo michi, las tostadas y las tortas ahogadas.</mensaje>
+
+<mensaje id="es" num="10">La charrería es una actividad de gran tradición en Jalisco y fomenta valores como el amor a la patria y la competencia leal.</mensaje>
+<mensaje id="en" num="10">La charrería es una actividad de gran tradición en Jalisco y fomenta valores como el amor a la patria y la competencia leal.</mensaje>
+<mensaje id="pr" num="10">La charrería es una actividad de gran tradición en Jalisco y fomenta valores como el amor a la patria y la competencia leal.</mensaje>
+
+
+<mensaje id="es" num="11">Océano Pacífico</mensaje>
+<mensaje id="en" num="11">Pacific Ocean</mensaje>
+<mensaje id="pr" num="11">Oceano Pacífico</mensaje>
+
+<mensaje id="es" num="12">Estado de México</mensaje>
+<mensaje id="en" num="12">State of Mexico </mensaje>
+<mensaje id="pr" num="12">Estado de México </mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id="es" num="39">REGIÓN NORTE
+Esta región se ubica como su nombre lo dice, en el norte de la entidad, donde el relieve está formado por diversas sierras como las de Pajaritos y Colotlán, entre otras. 
+Comprende los municipios de  Bolaños, Colotlán, Chimaltitán, Huejúcar, Huejuquilla el Alto, Mezquitic, San Martín de Bolaños, Santa María de los Ángeles, Totatiche y Villa Guerrero. En algunos de ellos se localizan las comunidades de los huicholes.
+Entre la flora, se desarrollan principalmente matorrales de xirixi, bosques de hucu-té, de tuaxá, de pino y de encino, así como de huizache, casahuate y nopales. Entre la fauna existen el lobo, coyote, gato montés, tejón, zorra,  venado, águila real, paloma y algunos tipos de serpientes.
+Por el relieve, su clima templado y el tipo de vegetación, en esta región una actividad económica importante es la explotación forestal, de la que se obtiene madera de especies como el pino y el encino; destacan por su producción los municipios de Mezquitic, Colotlán y Totatiche. La minería ha sido otra de las actividades sobresalientes por la producción de oro, plata, plomo y cobre, sobre todo en los municipios de Bolaños y San Martín de Bolaños. Actualmente la explotación  de estos metales ha disminuido. También se desarrolla la agricultura con productos como maíz, frijol, avena y sorgo; y la cría de ganado bovino, porcino, ovino y caprino y en menor cantidad de aves de corral y abejas.
+La elaboración de artesanías de piel combinada con fibra de pita, recibe el nombre de piteado; esta técnica sirve para adornar cintos, bolsas, carteras, sillas para montar, fundas para armas y otros objetos.
+</mensaje>
+
+<mensaje id="en" num="39">REGIÓN NORTE
+Esta región se ubica como su nombre lo dice, en el norte de la entidad, donde el relieve está formado por diversas sierras como las de Pajaritos y Colotlán, entre otras. 
+Comprende los municipios de  Bolaños, Colotlán, Chimaltitán, Huejúcar, Huejuquilla el Alto, Mezquitic, San Martín de Bolaños, Santa María de los Ángeles, Totatiche y Villa Guerrero. En algunos de ellos se localizan las comunidades de los huicholes.
+Entre la flora, se desarrollan principalmente matorrales de xirixi, bosques de hucu-té, de tuaxá, de pino y de encino, así como de huizache, casahuate y nopales. Entre la fauna existen el lobo, coyote, gato montés, tejón, zorra,  venado, águila real, paloma y algunos tipos de serpientes.
+Por el relieve, su clima templado y el tipo de vegetación, en esta región una actividad económica importante es la explotación forestal, de la que se obtiene madera de especies como el pino y el encino; destacan por su producción los municipios de Mezquitic, Colotlán y Totatiche. La minería ha sido otra de las actividades sobresalientes por la producción de oro, plata, plomo y cobre, sobre todo en los municipios de Bolaños y San Martín de Bolaños. Actualmente la explotación  de estos metales ha disminuido. También se desarrolla la agricultura con productos como maíz, frijol, avena y sorgo; y la cría de ganado bovino, porcino, ovino y caprino y en menor cantidad de aves de corral y abejas.
+La elaboración de artesanías de piel combinada con fibra de pita, recibe el nombre de piteado; esta técnica sirve para adornar cintos, bolsas, carteras, sillas para montar, fundas para armas y otros objetos.</mensaje>
+
+<mensaje id="pr" num="39">REGIÓN NORTE
+Esta región se ubica como su nombre lo dice, en el norte de la entidad, donde el relieve está formado por diversas sierras como las de Pajaritos y Colotlán, entre otras. 
+Comprende los municipios de  Bolaños, Colotlán, Chimaltitán, Huejúcar, Huejuquilla el Alto, Mezquitic, San Martín de Bolaños, Santa María de los Ángeles, Totatiche y Villa Guerrero. En algunos de ellos se localizan las comunidades de los huicholes.
+Entre la flora, se desarrollan principalmente matorrales de xirixi, bosques de hucu-té, de tuaxá, de pino y de encino, así como de huizache, casahuate y nopales. Entre la fauna existen el lobo, coyote, gato montés, tejón, zorra,  venado, águila real, paloma y algunos tipos de serpientes.
+Por el relieve, su clima templado y el tipo de vegetación, en esta región una actividad económica importante es la explotación forestal, de la que se obtiene madera de especies como el pino y el encino; destacan por su producción los municipios de Mezquitic, Colotlán y Totatiche. La minería ha sido otra de las actividades sobresalientes por la producción de oro, plata, plomo y cobre, sobre todo en los municipios de Bolaños y San Martín de Bolaños. Actualmente la explotación  de estos metales ha disminuido. También se desarrolla la agricultura con productos como maíz, frijol, avena y sorgo; y la cría de ganado bovino, porcino, ovino y caprino y en menor cantidad de aves de corral y abejas.
+La elaboración de artesanías de piel combinada con fibra de pita, recibe el nombre de piteado; esta técnica sirve para adornar cintos, bolsas, carteras, sillas para montar, fundas para armas y otros objetos.
+</mensaje>
+
+<mensaje id="es" num="40">REGIÓN ALTOS NORTE
+Rodeada por los vecinos Estados de Guanajuato, Aguascalientes y Zacatecas, hacia el noreste de la entidad se ubica la parte del territorio de Jalisco que se conoce como Los Altos. Se le llama así por ser una extensa meseta, es decir, llanos planos y elevados, en la que se encuentran también algunos lomeríos, pequeñas quebradas y serranías de poca elevación, como la de San Isidro.
+Su clima se caracteriza por la escasez de lluvia  durante la mayor parte del año, y por esa razón la flora más abundante de este lugar está compuesta de matorrales, pastizales, magueyes cenizos, huizaches, uñas de gato, nopales de tunas cardonas y biznagas, entre otros. En las partes altas de estas regiones se localizan algunos bosques de pino y encino. En tiempos de lluvias, los suelos se cubren de pasto que los alteños utilizan para alimentar el ganado.
+El agua, tanto de las lluvias como de los ríos, es escasa y por eso se almacena en presas y bordos, para que los alteños la aprovechen en dos de sus principales actividades: la agricultura y la ganadería. Se cultiva maíz, frijol, trigo, alfalfa, sorgo, avena, chile y agave; se cría ganado bovino, porcino, ovino y caprino, así como aves de corral y abejas.
+Aún cuando en Los Altos se tienen características geográficas, recursos económicos y actividades muy semejantes, se divide en dos regiones: Altos Norte y Altos Sur.
+Los Altos Norte, abarca los municipios de Ojuelos de Jalisco, Lagos de Moreno, Encarnación de Díaz, Villa Hidalgo, Teocaltiche, San Juan de los Lagos, Unión de San Antonio y San Diego de Alejandría.
+El clima predominante de esta región es el semiseco, aunque en las partes más altas  se presentan algunas heladas durante el invierno, como en el municipio de Ojuelos.
+En esta región se localizan fábricas de ropa, de prendas de vestir tejidas, de sarapes y gabanes finos, muebles, artículos metálicos, calzado, dulces y mermeladas, zapatos, tenis y otras más. Cuenta también con talleres de artesanías en los que se trabajan los vitrales emplomados, los muebles de madera con incrustaciones de hueso, los hilados y deshilados.
+</mensaje>
+
+<mensaje id="en" num="40">REGIÓN ALTOS NORTE
+Rodeada por los vecinos Estados de Guanajuato, Aguascalientes y Zacatecas, hacia el noreste de la entidad se ubica la parte del territorio de Jalisco que se conoce como Los Altos. Se le llama así por ser una extensa meseta, es decir, llanos planos y elevados, en la que se encuentran también algunos lomeríos, pequeñas quebradas y serranías de poca elevación, como la de San Isidro.
+Su clima se caracteriza por la escasez de lluvia  durante la mayor parte del año, y por esa razón la flora más abundante de este lugar está compuesta de matorrales, pastizales, magueyes cenizos, huizaches, uñas de gato, nopales de tunas cardonas y biznagas, entre otros. En las partes altas de estas regiones se localizan algunos bosques de pino y encino. En tiempos de lluvias, los suelos se cubren de pasto que los alteños utilizan para alimentar el ganado.
+El agua, tanto de las lluvias como de los ríos, es escasa y por eso se almacena en presas y bordos, para que los alteños la aprovechen en dos de sus principales actividades: la agricultura y la ganadería. Se cultiva maíz, frijol, trigo, alfalfa, sorgo, avena, chile y agave; se cría ganado bovino, porcino, ovino y caprino, así como aves de corral y abejas.
+Aún cuando en Los Altos se tienen características geográficas, recursos económicos y actividades muy semejantes, se divide en dos regiones: Altos Norte y Altos Sur.
+Los Altos Norte, abarca los municipios de Ojuelos de Jalisco, Lagos de Moreno, Encarnación de Díaz, Villa Hidalgo, Teocaltiche, San Juan de los Lagos, Unión de San Antonio y San Diego de Alejandría.
+El clima predominante de esta región es el semiseco, aunque en las partes más altas  se presentan algunas heladas durante el invierno, como en el municipio de Ojuelos.
+En esta región se localizan fábricas de ropa, de prendas de vestir tejidas, de sarapes y gabanes finos, muebles, artículos metálicos, calzado, dulces y mermeladas, zapatos, tenis y otras más. Cuenta también con talleres de artesanías en los que se trabajan los vitrales emplomados, los muebles de madera con incrustaciones de hueso, los hilados y deshilados.
+</mensaje>
+
+<mensaje id="pr" num="40">REGIÓN ALTOS NORTE
+Rodeada por los vecinos Estados de Guanajuato, Aguascalientes y Zacatecas, hacia el noreste de la entidad se ubica la parte del territorio de Jalisco que se conoce como Los Altos. Se le llama así por ser una extensa meseta, es decir, llanos planos y elevados, en la que se encuentran también algunos lomeríos, pequeñas quebradas y serranías de poca elevación, como la de San Isidro.
+Su clima se caracteriza por la escasez de lluvia  durante la mayor parte del año, y por esa razón la flora más abundante de este lugar está compuesta de matorrales, pastizales, magueyes cenizos, huizaches, uñas de gato, nopales de tunas cardonas y biznagas, entre otros. En las partes altas de estas regiones se localizan algunos bosques de pino y encino. En tiempos de lluvias, los suelos se cubren de pasto que los alteños utilizan para alimentar el ganado.
+El agua, tanto de las lluvias como de los ríos, es escasa y por eso se almacena en presas y bordos, para que los alteños la aprovechen en dos de sus principales actividades: la agricultura y la ganadería. Se cultiva maíz, frijol, trigo, alfalfa, sorgo, avena, chile y agave; se cría ganado bovino, porcino, ovino y caprino, así como aves de corral y abejas.
+Aún cuando en Los Altos se tienen características geográficas, recursos económicos y actividades muy semejantes, se divide en dos regiones: Altos Norte y Altos Sur.
+Los Altos Norte, abarca los municipios de Ojuelos de Jalisco, Lagos de Moreno, Encarnación de Díaz, Villa Hidalgo, Teocaltiche, San Juan de los Lagos, Unión de San Antonio y San Diego de Alejandría.
+El clima predominante de esta región es el semiseco, aunque en las partes más altas  se presentan algunas heladas durante el invierno, como en el municipio de Ojuelos.
+En esta región se localizan fábricas de ropa, de prendas de vestir tejidas, de sarapes y gabanes finos, muebles, artículos metálicos, calzado, dulces y mermeladas, zapatos, tenis y otras más. Cuenta también con talleres de artesanías en los que se trabajan los vitrales emplomados, los muebles de madera con incrustaciones de hueso, los hilados y deshilados.
+</mensaje>
+
+<mensaje id="es" num="41">REGIÓN ALTOS SUR
+En la región Altos Sur quedan comprendidos los municipios de Mexticacán, Jalostotitlán, San Julián, Yahualica de González Gallo, Cañadas de Obregón, Valle de Guadalupe, San Miguel el Alto, Arandas, Jesús María, Acatic y Tepatitlán de Morelos. Esta región se caracteriza por tener dos tipos de clima: el cálido y el templado.
+En los Altos Sur se desarrolla la industria del vestido; se elaboran prendas de vestir, bordados, deshilados y tejidos que hace muchos años se hacían a mano y ahora se producen en fábricas. También hay fábricas de tequila, calzado, muebles, empacadoras de alimentos, embotelladoras de refresco y algunos talleres de artesanías, como las de cerámica y las de madera con hueso incrustado.
+En Los Altos de Jalisco son muchos los ranchos, granjas y establos donde se cría ganado bovino, y se ha desarrollado una importante industria de la leche y productos derivados. Por su producción de ganado porcino y de aves de corral, Los Altos surten  de carne de puerco, pollo y huevo a otras entidades del país.
+</mensaje>
+
+<mensaje id="en" num="41">REGIÓN ALTOS SUR
+En la región Altos Sur quedan comprendidos los municipios de Mexticacán, Jalostotitlán, San Julián, Yahualica de González Gallo, Cañadas de Obregón, Valle de Guadalupe, San Miguel el Alto, Arandas, Jesús María, Acatic y Tepatitlán de Morelos. Esta región se caracteriza por tener dos tipos de clima: el cálido y el templado.
+En los Altos Sur se desarrolla la industria del vestido; se elaboran prendas de vestir, bordados, deshilados y tejidos que hace muchos años se hacían a mano y ahora se producen en fábricas. También hay fábricas de tequila, calzado, muebles, empacadoras de alimentos, embotelladoras de refresco y algunos talleres de artesanías, como las de cerámica y las de madera con hueso incrustado.
+En Los Altos de Jalisco son muchos los ranchos, granjas y establos donde se cría ganado bovino, y se ha desarrollado una importante industria de la leche y productos derivados. Por su producción de ganado porcino y de aves de corral, Los Altos surten  de carne de puerco, pollo y huevo a otras entidades del país.
+</mensaje>
+
+<mensaje id="pr" num="41">REGIÓN ALTOS SUR
+En la región Altos Sur quedan comprendidos los municipios de Mexticacán, Jalostotitlán, San Julián, Yahualica de González Gallo, Cañadas de Obregón, Valle de Guadalupe, San Miguel el Alto, Arandas, Jesús María, Acatic y Tepatitlán de Morelos. Esta región se caracteriza por tener dos tipos de clima: el cálido y el templado.
+En los Altos Sur se desarrolla la industria del vestido; se elaboran prendas de vestir, bordados, deshilados y tejidos que hace muchos años se hacían a mano y ahora se producen en fábricas. También hay fábricas de tequila, calzado, muebles, empacadoras de alimentos, embotelladoras de refresco y algunos talleres de artesanías, como las de cerámica y las de madera con hueso incrustado.
+En Los Altos de Jalisco son muchos los ranchos, granjas y establos donde se cría ganado bovino, y se ha desarrollado una importante industria de la leche y productos derivados. Por su producción de ganado porcino y de aves de corral, Los Altos surten  de carne de puerco, pollo y huevo a otras entidades del país.
+</mensaje>
+
+<mensaje id="es" num="42">REGIÓN CIÉNEGA	
+Localizada en la parte central del Estado, la región Ciénega se caracteriza por tener un clima cálido con lluvias durante el verano. Está formada principalmente por los municipios  que se localizan en las riberas del Lago de Chapala, como Tizapán el Alto, Ocotlán, Poncitlán, Jamay, Chapala, Jocotepec y Tuxcueca. Otros municipios de la región son La Barca, Degollado, Ayotlán, Tototlán, Atotonilco el Alto y Zapotlán del Rey.
+A esta región se le conoce como Ciénega porque antiguamente, al desbordarse las aguas del Lago de Chapala, se formaban extensas áreas lodosas o pantanosas que aumentaban la fertilidad de las tierras de cultivo. Hoy las cosas han cambiado, el Lago de Chapala ya no posee la misma cantidad de agua que hace algunas décadas y además el ambiente de este importante patrimonio natural de los mexicanos se ha seguido dañando. De la Ciénega sólo perdura su nombre.
+Las tierras de esta región son en su mayoría de buena calidad y favorecen el desarrollo de cultivos, como el maíz, el trigo, el sorgo, el garbanzo, diversas legumbres y el agave, que son la base de la producción agrícola de Ciénega; también existen grandes huertas en donde se cultivan duraznos, membrillos, aguacates, naranjos y limeros. Destaca además el cultivo de plantas de ornato y especies frutales en invernaderos, las cuales son luego vendidas en diferentes partes de México.
+En la ganadería sobresale la cría de ganado caprino, ovino y porcino. Además se crían aves de corral. El desarrollo de esta actividad ha favorecido el establecimiento de empacadoras de carnes frías e industrias para procesar la leche. También es importante la producción de miel.
+La pesca se mantiene como una actividad importante para los habitantes  de los municipios de las riberas del Lago de Chapala, aunque ha disminuido la cantidad de especies capturadas. Algunas de las principales variedades de peces que aún se obtienen son bagre, carpa, tilapia y charal blanco.
+En esta región se ha impulsado la actividad industrial, sobre todo en los municipios de Atotonilco el Alto, Tototlán, Poncitlán y Ocotlán, en los cuales existen fábricas de tequila, muebles, ropa, medicamentos, dulces, calzado, productos textiles, como hilos y telas, molinos de trigo y empacadoras de frambuesa y fresa. Entre  las artesanías se elaboran artículos de madera, cantera, barro y piel, así como tapetes y sarapes.
+La actividad turística se desarrolla principalmente en el Lago de Chapala, el cual es visitado por miles de personas tanto de nuestro país como del extranjero.
+</mensaje>
+
+<mensaje id="en" num="42">REGIÓN CIÉNEGA	
+Localizada en la parte central del Estado, la región Ciénega se caracteriza por tener un clima cálido con lluvias durante el verano. Está formada principalmente por los municipios  que se localizan en las riberas del Lago de Chapala, como Tizapán el Alto, Ocotlán, Poncitlán, Jamay, Chapala, Jocotepec y Tuxcueca. Otros municipios de la región son La Barca, Degollado, Ayotlán, Tototlán, Atotonilco el Alto y Zapotlán del Rey.
+A esta región se le conoce como Ciénega porque antiguamente, al desbordarse las aguas del Lago de Chapala, se formaban extensas áreas lodosas o pantanosas que aumentaban la fertilidad de las tierras de cultivo. Hoy las cosas han cambiado, el Lago de Chapala ya no posee la misma cantidad de agua que hace algunas décadas y además el ambiente de este importante patrimonio natural de los mexicanos se ha seguido dañando. De la Ciénega sólo perdura su nombre.
+Las tierras de esta región son en su mayoría de buena calidad y favorecen el desarrollo de cultivos, como el maíz, el trigo, el sorgo, el garbanzo, diversas legumbres y el agave, que son la base de la producción agrícola de Ciénega; también existen grandes huertas en donde se cultivan duraznos, membrillos, aguacates, naranjos y limeros. Destaca además el cultivo de plantas de ornato y especies frutales en invernaderos, las cuales son luego vendidas en diferentes partes de México.
+En la ganadería sobresale la cría de ganado caprino, ovino y porcino. Además se crían aves de corral. El desarrollo de esta actividad ha favorecido el establecimiento de empacadoras de carnes frías e industrias para procesar la leche. También es importante la producción de miel.
+La pesca se mantiene como una actividad importante para los habitantes  de los municipios de las riberas del Lago de Chapala, aunque ha disminuido la cantidad de especies capturadas. Algunas de las principales variedades de peces que aún se obtienen son bagre, carpa, tilapia y charal blanco.
+En esta región se ha impulsado la actividad industrial, sobre todo en los municipios de Atotonilco el Alto, Tototlán, Poncitlán y Ocotlán, en los cuales existen fábricas de tequila, muebles, ropa, medicamentos, dulces, calzado, productos textiles, como hilos y telas, molinos de trigo y empacadoras de frambuesa y fresa. Entre  las artesanías se elaboran artículos de madera, cantera, barro y piel, así como tapetes y sarapes.
+La actividad turística se desarrolla principalmente en el Lago de Chapala, el cual es visitado por miles de personas tanto de nuestro país como del extranjero.
+</mensaje>
+
+<mensaje id="pr" num="42">REGIÓN CIÉNEGA	
+Localizada en la parte central del Estado, la región Ciénega se caracteriza por tener un clima cálido con lluvias durante el verano. Está formada principalmente por los municipios  que se localizan en las riberas del Lago de Chapala, como Tizapán el Alto, Ocotlán, Poncitlán, Jamay, Chapala, Jocotepec y Tuxcueca. Otros municipios de la región son La Barca, Degollado, Ayotlán, Tototlán, Atotonilco el Alto y Zapotlán del Rey.
+A esta región se le conoce como Ciénega porque antiguamente, al desbordarse las aguas del Lago de Chapala, se formaban extensas áreas lodosas o pantanosas que aumentaban la fertilidad de las tierras de cultivo. Hoy las cosas han cambiado, el Lago de Chapala ya no posee la misma cantidad de agua que hace algunas décadas y además el ambiente de este importante patrimonio natural de los mexicanos se ha seguido dañando. De la Ciénega sólo perdura su nombre.
+Las tierras de esta región son en su mayoría de buena calidad y favorecen el desarrollo de cultivos, como el maíz, el trigo, el sorgo, el garbanzo, diversas legumbres y el agave, que son la base de la producción agrícola de Ciénega; también existen grandes huertas en donde se cultivan duraznos, membrillos, aguacates, naranjos y limeros. Destaca además el cultivo de plantas de ornato y especies frutales en invernaderos, las cuales son luego vendidas en diferentes partes de México.
+En la ganadería sobresale la cría de ganado caprino, ovino y porcino. Además se crían aves de corral. El desarrollo de esta actividad ha favorecido el establecimiento de empacadoras de carnes frías e industrias para procesar la leche. También es importante la producción de miel.
+La pesca se mantiene como una actividad importante para los habitantes  de los municipios de las riberas del Lago de Chapala, aunque ha disminuido la cantidad de especies capturadas. Algunas de las principales variedades de peces que aún se obtienen son bagre, carpa, tilapia y charal blanco.
+En esta región se ha impulsado la actividad industrial, sobre todo en los municipios de Atotonilco el Alto, Tototlán, Poncitlán y Ocotlán, en los cuales existen fábricas de tequila, muebles, ropa, medicamentos, dulces, calzado, productos textiles, como hilos y telas, molinos de trigo y empacadoras de frambuesa y fresa. Entre  las artesanías se elaboran artículos de madera, cantera, barro y piel, así como tapetes y sarapes.
+La actividad turística se desarrolla principalmente en el Lago de Chapala, el cual es visitado por miles de personas tanto de nuestro país como del extranjero.
+</mensaje>
+
+<mensaje id="es" num="43">REGIÓN SURESTE
+Como su nombre lo indica, esta región se localiza en el sureste de nuestra entidad, por lo que colinda con los Estados  de Colima y Michoacán. En general su relieve es montañoso, ya que existen sierras como El Tigre, Mazamitla y Pihuamo, aunque también hay amplias llanuras, extensas mesetas y algunas cañadas.
+Esta región comprende los municipios de  Concepción de Buenos Aires, La Manzanilla de la Paz, Temazula de Gordiano, Mazamitla, Valle de Juárez, Quitupan, Santa María del Oro, Jilotlán de los Dolores, Tecalitlán y Pihuamo.
+Los climas que se localizan son el cálido y el templado, con lluvias en verano que alimentan los ríos de Temazula de Gordiano, Los Otates, Tuxpan-Naranjo y Grande, los más importantes de la región.
+La flora está formada por pino, avellano, encino, laurel, abedul, ocote escobón, palo serrano y diversos helechos y plantas trepadoras. Se caracteriza por ser una región  con grandes recursos maderables y mineros. De sus bosques de pino se aprovecha la madera y la resina; ésta última se industrializa para fabricar diferentes sustancias, como el aceite de pino. En la minería se extrae mármol, cuarzo, barita y fierro.
+Otra de las actividades que se realiza es la agricultura, cuyos principales cultivos son: maíz, caña de azúcar, garbanzo, cebada y sorgo.
+En cuanto a la ganadería, hay ganado bovino y porcino, a pesar de que el relieve no favorece el crecimiento de los pastizales que sirven de alimento a las vacas.
+</mensaje>
+
+<mensaje id="en" num="43">REGIÓN SURESTE
+Como su nombre lo indica, esta región se localiza en el sureste de nuestra entidad, por lo que colinda con los Estados  de Colima y Michoacán. En general su relieve es montañoso, ya que existen sierras como El Tigre, Mazamitla y Pihuamo, aunque también hay amplias llanuras, extensas mesetas y algunas cañadas.
+Esta región comprende los municipios de  Concepción de Buenos Aires, La Manzanilla de la Paz, Temazula de Gordiano, Mazamitla, Valle de Juárez, Quitupan, Santa María del Oro, Jilotlán de los Dolores, Tecalitlán y Pihuamo.
+Los climas que se localizan son el cálido y el templado, con lluvias en verano que alimentan los ríos de Temazula de Gordiano, Los Otates, Tuxpan-Naranjo y Grande, los más importantes de la región.
+La flora está formada por pino, avellano, encino, laurel, abedul, ocote escobón, palo serrano y diversos helechos y plantas trepadoras. Se caracteriza por ser una región  con grandes recursos maderables y mineros. De sus bosques de pino se aprovecha la madera y la resina; ésta última se industrializa para fabricar diferentes sustancias, como el aceite de pino. En la minería se extrae mármol, cuarzo, barita y fierro.
+Otra de las actividades que se realiza es la agricultura, cuyos principales cultivos son: maíz, caña de azúcar, garbanzo, cebada y sorgo.
+En cuanto a la ganadería, hay ganado bovino y porcino, a pesar de que el relieve no favorece el crecimiento de los pastizales que sirven de alimento a las vacas.
+</mensaje>
+
+<mensaje id="pr" num="43">REGIÓN SURESTE
+Como su nombre lo indica, esta región se localiza en el sureste de nuestra entidad, por lo que colinda con los Estados  de Colima y Michoacán. En general su relieve es montañoso, ya que existen sierras como El Tigre, Mazamitla y Pihuamo, aunque también hay amplias llanuras, extensas mesetas y algunas cañadas.
+Esta región comprende los municipios de  Concepción de Buenos Aires, La Manzanilla de la Paz, Temazula de Gordiano, Mazamitla, Valle de Juárez, Quitupan, Santa María del Oro, Jilotlán de los Dolores, Tecalitlán y Pihuamo.
+Los climas que se localizan son el cálido y el templado, con lluvias en verano que alimentan los ríos de Temazula de Gordiano, Los Otates, Tuxpan-Naranjo y Grande, los más importantes de la región.
+La flora está formada por pino, avellano, encino, laurel, abedul, ocote escobón, palo serrano y diversos helechos y plantas trepadoras. Se caracteriza por ser una región  con grandes recursos maderables y mineros. De sus bosques de pino se aprovecha la madera y la resina; ésta última se industrializa para fabricar diferentes sustancias, como el aceite de pino. En la minería se extrae mármol, cuarzo, barita y fierro.
+Otra de las actividades que se realiza es la agricultura, cuyos principales cultivos son: maíz, caña de azúcar, garbanzo, cebada y sorgo.
+En cuanto a la ganadería, hay ganado bovino y porcino, a pesar de que el relieve no favorece el crecimiento de los pastizales que sirven de alimento a las vacas.
+</mensaje>
+
+<mensaje id="es" num="44">REGIÓN SUR
+La Región Sur limita con el Estado de Colima. Comprende los municipios de Amacueca, Atemajac de Brizuela, Atoyac, Gómez Farías, San Gabriel, Sayula, Tapalpa, Techaluta de Montenegro, Teocuitatlán de Corona, Tolimán, Tonila, Tuxpan, Zacoalco de Torres, Zapotiltic, Zapotlán el Grande y Zapotitlán de Vadillo.
+El relieve es variado  y se encuentran amplios valles, llanuras, el Nevado de Colima y el Volcán de Colima o de Fuego, en los límites entre Jalisco y Colima. En gran parte el Nevado de Colima está cubierto por bosques de pinos y constituye un sitio de atractivo turístico, pues sus paisajes son agradables para quienes practican el deporte del alpinismo.
+Entre la fauna de la región destacan: el jaguar, puma, tigrillo, gato montés, venado, conejo, liebre, perdiz, codorniz, aguililla y gavilán.
+En los valles de Sayula, Zacoalco, Zapotlán el Grande y Tuxpan, hay condiciones de relieve, clima y agua favorables para la agricultura. Los cultivos más importantes son: maíz, caña de azúcar, sorgo, alfalfa, frijol, jitomate, garbanzo y chile, entre otros.
+La ganadería es una actividad económica que beneficia a la población por su alta producción de ganado vacuno y la existencia de granjas porcícolas y avícolas.
+Las zonas boscosas de esta región abastecen de materia prima a las industrias madereras y del papel. Precisamente, en el municipio de Tuxpan, en la población de Atenquique, se localiza una gran fábrica de papel.
+En la minería se explotan los yacimientos de piedra caliza, principalmente en Zapotiltic, donde hay fábricas que producen cal y cemento, indispensables para la construcción de casas y edificios. Otros minerales de la Región Sur son el yeso, el mármol, el caolín y la magnesita.
+Las actividades comerciales e industriales se relacionan con la producción de madera, la industrialización de productos lácteos, pasteurizadoras de leche, destiladoras de tequila y mezcal, fábricas de harina de alfalfa, empacadoras de jitomate y de carnes frías, elaboración de dulces y conservas.
+Las artesanías gozan de fama  y aceptación, entre ellas los equipales de cuero, las figuras de cantera, los cuchillos con mango de hueso, los huaraches tejidos, petates y canastos de tule y carrizo, y desde luego los gustados  dulces elaborados con nuez  que se produce en varios lugares de la región Sur.
+</mensaje>
+
+<mensaje id="en" num="44">REGIÓN SUR
+La Región Sur limita con el Estado de Colima. Comprende los municipios de Amacueca, Atemajac de Brizuela, Atoyac, Gómez Farías, San Gabriel, Sayula, Tapalpa, Techaluta de Montenegro, Teocuitatlán de Corona, Tolimán, Tonila, Tuxpan, Zacoalco de Torres, Zapotiltic, Zapotlán el Grande y Zapotitlán de Vadillo.
+El relieve es variado  y se encuentran amplios valles, llanuras, el Nevado de Colima y el Volcán de Colima o de Fuego, en los límites entre Jalisco y Colima. En gran parte el Nevado de Colima está cubierto por bosques de pinos y constituye un sitio de atractivo turístico, pues sus paisajes son agradables para quienes practican el deporte del alpinismo.
+Entre la fauna de la región destacan: el jaguar, puma, tigrillo, gato montés, venado, conejo, liebre, perdiz, codorniz, aguililla y gavilán.
+En los valles de Sayula, Zacoalco, Zapotlán el Grande y Tuxpan, hay condiciones de relieve, clima y agua favorables para la agricultura. Los cultivos más importantes son: maíz, caña de azúcar, sorgo, alfalfa, frijol, jitomate, garbanzo y chile, entre otros.
+La ganadería es una actividad económica que beneficia a la población por su alta producción de ganado vacuno y la existencia de granjas porcícolas y avícolas.
+Las zonas boscosas de esta región abastecen de materia prima a las industrias madereras y del papel. Precisamente, en el municipio de Tuxpan, en la población de Atenquique, se localiza una gran fábrica de papel.
+En la minería se explotan los yacimientos de piedra caliza, principalmente en Zapotiltic, donde hay fábricas que producen cal y cemento, indispensables para la construcción de casas y edificios. Otros minerales de la Región Sur son el yeso, el mármol, el caolín y la magnesita.
+Las actividades comerciales e industriales se relacionan con la producción de madera, la industrialización de productos lácteos, pasteurizadoras de leche, destiladoras de tequila y mezcal, fábricas de harina de alfalfa, empacadoras de jitomate y de carnes frías, elaboración de dulces y conservas.
+Las artesanías gozan de fama  y aceptación, entre ellas los equipales de cuero, las figuras de cantera, los cuchillos con mango de hueso, los huaraches tejidos, petates y canastos de tule y carrizo, y desde luego los gustados  dulces elaborados con nuez  que se produce en varios lugares de la región Sur.
+</mensaje>
+
+<mensaje id="pr" num="44">REGIÓN SUR
+La Región Sur limita con el Estado de Colima. Comprende los municipios de Amacueca, Atemajac de Brizuela, Atoyac, Gómez Farías, San Gabriel, Sayula, Tapalpa, Techaluta de Montenegro, Teocuitatlán de Corona, Tolimán, Tonila, Tuxpan, Zacoalco de Torres, Zapotiltic, Zapotlán el Grande y Zapotitlán de Vadillo.
+El relieve es variado  y se encuentran amplios valles, llanuras, el Nevado de Colima y el Volcán de Colima o de Fuego, en los límites entre Jalisco y Colima. En gran parte el Nevado de Colima está cubierto por bosques de pinos y constituye un sitio de atractivo turístico, pues sus paisajes son agradables para quienes practican el deporte del alpinismo.
+Entre la fauna de la región destacan: el jaguar, puma, tigrillo, gato montés, venado, conejo, liebre, perdiz, codorniz, aguililla y gavilán.
+En los valles de Sayula, Zacoalco, Zapotlán el Grande y Tuxpan, hay condiciones de relieve, clima y agua favorables para la agricultura. Los cultivos más importantes son: maíz, caña de azúcar, sorgo, alfalfa, frijol, jitomate, garbanzo y chile, entre otros.
+La ganadería es una actividad económica que beneficia a la población por su alta producción de ganado vacuno y la existencia de granjas porcícolas y avícolas.
+Las zonas boscosas de esta región abastecen de materia prima a las industrias madereras y del papel. Precisamente, en el municipio de Tuxpan, en la población de Atenquique, se localiza una gran fábrica de papel.
+En la minería se explotan los yacimientos de piedra caliza, principalmente en Zapotiltic, donde hay fábricas que producen cal y cemento, indispensables para la construcción de casas y edificios. Otros minerales de la Región Sur son el yeso, el mármol, el caolín y la magnesita.
+Las actividades comerciales e industriales se relacionan con la producción de madera, la industrialización de productos lácteos, pasteurizadoras de leche, destiladoras de tequila y mezcal, fábricas de harina de alfalfa, empacadoras de jitomate y de carnes frías, elaboración de dulces y conservas.
+Las artesanías gozan de fama  y aceptación, entre ellas los equipales de cuero, las figuras de cantera, los cuchillos con mango de hueso, los huaraches tejidos, petates y canastos de tule y carrizo, y desde luego los gustados  dulces elaborados con nuez  que se produce en varios lugares de la región Sur.
+</mensaje>
+
+
+<mensaje id="es" num="45">REGIÓN SIERRA DE AMULA 
+Esta región comprende los municipios de Atengo, Chiquilistlán, El Grullo, El Limón, Tecolotlán, Tenamaxtlán, Unión de Tula, Ejutla, Juchitlán, Tonaya y Tuxcacuesco.  
+En el relieve predominan las zonas de sierra que pertenecen al Eje Volcánico Transversal que, en algunos sitios, recibe nombres locales  como Sierra de Quila, en el municipio de Tecolotlán, y Sierra de Tapalpa en una parte del municipio de Tonaya. Su clima es cálido con lluvias en verano.
+Su vegetación es muy variada, ya que abundan bosques con especies de encino, pino y oyamel; en las partes bajas de la sierra hay matorrales, huizaches, nopales, pitayos, nogales y pastizales. En cuanto a la fauna, en algunos lugares de la región habitan venados, jabalíes, pumas, coyotes, armadillos, ardillas, zorillos, liebres, conejos y aves como palomas, gavilanes, codornices y huilotas.
+Los principales cultivos agrícolas son: maíz, garbanzo, arroz, sorgo, frijol, alfalfa, chícharo y árboles frutales como membrillo, tejocote, perón y durazno. En la ganadería se cría ganado porcino y bovino. Las granjas agrícolas están dedicadas a la crianza y el aprovechamiento de aves domésticas. Además se cuidan colmenas para la producción de miel.
+Hay industrias relacionadas con la producción agrícola como las siguientes: fábricas de mezcal, de productos de cacahuate, empacadoras de hojas de maíz y melón, trapiches para producir piloncillo y miel de caña, además de fábricas de alimento para ganado y de productos lácteos. La producción maderera se realiza en aserraderos de Chiquilistlán y El Limón. En la minería se extrae barita, caliza y yeso. También se fabrican muebles, prendas de vestir, jabones, detergentes, zapatos, tenis, huaraches y ladrillos.
+</mensaje>
+<mensaje id="en" num="45">REGIÓN SIERRA DE AMULA 
+Esta región comprende los municipios de Atengo, Chiquilistlán, El Grullo, El Limón, Tecolotlán, Tenamaxtlán, Unión de Tula, Ejutla, Juchitlán, Tonaya y Tuxcacuesco.  
+En el relieve predominan las zonas de sierra que pertenecen al Eje Volcánico Transversal que, en algunos sitios, recibe nombres locales  como Sierra de Quila, en el municipio de Tecolotlán, y Sierra de Tapalpa en una parte del municipio de Tonaya. Su clima es cálido con lluvias en verano.
+Su vegetación es muy variada, ya que abundan bosques con especies de encino, pino y oyamel; en las partes bajas de la sierra hay matorrales, huizaches, nopales, pitayos, nogales y pastizales. En cuanto a la fauna, en algunos lugares de la región habitan venados, jabalíes, pumas, coyotes, armadillos, ardillas, zorillos, liebres, conejos y aves como palomas, gavilanes, codornices y huilotas.
+Los principales cultivos agrícolas son: maíz, garbanzo, arroz, sorgo, frijol, alfalfa, chícharo y árboles frutales como membrillo, tejocote, perón y durazno. En la ganadería se cría ganado porcino y bovino. Las granjas agrícolas están dedicadas a la crianza y el aprovechamiento de aves domésticas. Además se cuidan colmenas para la producción de miel.
+Hay industrias relacionadas con la producción agrícola como las siguientes: fábricas de mezcal, de productos de cacahuate, empacadoras de hojas de maíz y melón, trapiches para producir piloncillo y miel de caña, además de fábricas de alimento para ganado y de productos lácteos. La producción maderera se realiza en aserraderos de Chiquilistlán y El Limón. En la minería se extrae barita, caliza y yeso. También se fabrican muebles, prendas de vestir, jabones, detergentes, zapatos, tenis, huaraches y ladrillos.
+</mensaje>
+<mensaje id="pr" num="45">REGIÓN SIERRA DE AMULA 
+Esta región comprende los municipios de Atengo, Chiquilistlán, El Grullo, El Limón, Tecolotlán, Tenamaxtlán, Unión de Tula, Ejutla, Juchitlán, Tonaya y Tuxcacuesco.  
+En el relieve predominan las zonas de sierra que pertenecen al Eje Volcánico Transversal que, en algunos sitios, recibe nombres locales  como Sierra de Quila, en el municipio de Tecolotlán, y Sierra de Tapalpa en una parte del municipio de Tonaya. Su clima es cálido con lluvias en verano.
+Su vegetación es muy variada, ya que abundan bosques con especies de encino, pino y oyamel; en las partes bajas de la sierra hay matorrales, huizaches, nopales, pitayos, nogales y pastizales. En cuanto a la fauna, en algunos lugares de la región habitan venados, jabalíes, pumas, coyotes, armadillos, ardillas, zorillos, liebres, conejos y aves como palomas, gavilanes, codornices y huilotas.
+Los principales cultivos agrícolas son: maíz, garbanzo, arroz, sorgo, frijol, alfalfa, chícharo y árboles frutales como membrillo, tejocote, perón y durazno. En la ganadería se cría ganado porcino y bovino. Las granjas agrícolas están dedicadas a la crianza y el aprovechamiento de aves domésticas. Además se cuidan colmenas para la producción de miel.
+Hay industrias relacionadas con la producción agrícola como las siguientes: fábricas de mezcal, de productos de cacahuate, empacadoras de hojas de maíz y melón, trapiches para producir piloncillo y miel de caña, además de fábricas de alimento para ganado y de productos lácteos. La producción maderera se realiza en aserraderos de Chiquilistlán y El Limón. En la minería se extrae barita, caliza y yeso. También se fabrican muebles, prendas de vestir, jabones, detergentes, zapatos, tenis, huaraches y ladrillos.
+</mensaje>
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+<mensaje id="es" num="52">REGIÓN COSTA SUR
+Se ubica en la parte suroeste de la entidad y comprende los municipios de Autlán de Navarro, Casimiro Castillo, Cuautitlán de García Barragán, Villa Purificación, Cihuatlán y La Huerta. 
+Por su clima y relieve, la región es muy rica en vegetación, con especies como: hoyarín, pino chino, pochote, tepame, raspaviejo, nanche y palo dulce. Entre la fauna pueden verse el mapache, gato montés, lobo, jaguar y tigrillo.
+Como el clima de la región es cálido, con lluvias abundantes y ríos que tienen agua todo el año, los suelos resultan adecuados  para la agricultura, principalmente en los valles de Autlán de Navarro y Cihuatlán. Entre los cultivos agrícolas destacan los siguientes: maíz, caña de azúcar, frijol, chile, jitomate, mango, melón, sandía, coco y plátano. También se cría ganado bovino, porcino y caprino; aves de corral y abejas para la obtención de miel.
+En la región hay dos tipos de pesca: la costera, que permite extraer del mar diferentes especies de peces y mariscos, y la que se lleva a cabo en los esteros, principalmente en el municipio de Cihuatlán, donde se obtiene ostión, langostino y camarón.
+La minería es otra de las actividades importantes. Se extraen granito, yeso, cobre, plata y piedra caliza. La región cuenta con algunas zonas forestales, que permiten el aprovechamiento de especies como el pino, encino, oyamel y maderas tropicales.
+La industria azucarera destaca por la producción de los ingenios de Autlán de Navarro y Casimiro Castillo; asimismo, existen fábricas de fertilizantes, de alimentos procesados, de ropa y empacadoras de fruta.
+La actividad turística se desarrolla en los municipios de La Huerta y Cihuatlán, ya que cuentan con playas y lugares de descanso, como Melaque y Barra de Navidad que atraen a numerosos visitantes, así como Chamela, donde se protege a la naturaleza.
+</mensaje>
+<mensaje id="en" num="52">REGIÓN COSTA SUR
+Se ubica en la parte suroeste de la entidad y comprende los municipios de Autlán de Navarro, Casimiro Castillo, Cuautitlán de García Barragán, Villa Purificación, Cihuatlán y La Huerta. 
+Por su clima y relieve, la región es muy rica en vegetación, con especies como: hoyarín, pino chino, pochote, tepame, raspaviejo, nanche y palo dulce. Entre la fauna pueden verse el mapache, gato montés, lobo, jaguar y tigrillo.
+Como el clima de la región es cálido, con lluvias abundantes y ríos que tienen agua todo el año, los suelos resultan adecuados  para la agricultura, principalmente en los valles de Autlán de Navarro y Cihuatlán. Entre los cultivos agrícolas destacan los siguientes: maíz, caña de azúcar, frijol, chile, jitomate, mango, melón, sandía, coco y plátano. También se cría ganado bovino, porcino y caprino; aves de corral y abejas para la obtención de miel.
+En la región hay dos tipos de pesca: la costera, que permite extraer del mar diferentes especies de peces y mariscos, y la que se lleva a cabo en los esteros, principalmente en el municipio de Cihuatlán, donde se obtiene ostión, langostino y camarón.
+La minería es otra de las actividades importantes. Se extraen granito, yeso, cobre, plata y piedra caliza. La región cuenta con algunas zonas forestales, que permiten el aprovechamiento de especies como el pino, encino, oyamel y maderas tropicales.
+La industria azucarera destaca por la producción de los ingenios de Autlán de Navarro y Casimiro Castillo; asimismo, existen fábricas de fertilizantes, de alimentos procesados, de ropa y empacadoras de fruta.
+La actividad turística se desarrolla en los municipios de La Huerta y Cihuatlán, ya que cuentan con playas y lugares de descanso, como Melaque y Barra de Navidad que atraen a numerosos visitantes, así como Chamela, donde se protege a la naturaleza.
+</mensaje>
+<mensaje id="pr" num="52">REGIÓN COSTA SUR
+Se ubica en la parte suroeste de la entidad y comprende los municipios de Autlán de Navarro, Casimiro Castillo, Cuautitlán de García Barragán, Villa Purificación, Cihuatlán y La Huerta. 
+Por su clima y relieve, la región es muy rica en vegetación, con especies como: hoyarín, pino chino, pochote, tepame, raspaviejo, nanche y palo dulce. Entre la fauna pueden verse el mapache, gato montés, lobo, jaguar y tigrillo.
+Como el clima de la región es cálido, con lluvias abundantes y ríos que tienen agua todo el año, los suelos resultan adecuados  para la agricultura, principalmente en los valles de Autlán de Navarro y Cihuatlán. Entre los cultivos agrícolas destacan los siguientes: maíz, caña de azúcar, frijol, chile, jitomate, mango, melón, sandía, coco y plátano. También se cría ganado bovino, porcino y caprino; aves de corral y abejas para la obtención de miel.
+En la región hay dos tipos de pesca: la costera, que permite extraer del mar diferentes especies de peces y mariscos, y la que se lleva a cabo en los esteros, principalmente en el municipio de Cihuatlán, donde se obtiene ostión, langostino y camarón.
+La minería es otra de las actividades importantes. Se extraen granito, yeso, cobre, plata y piedra caliza. La región cuenta con algunas zonas forestales, que permiten el aprovechamiento de especies como el pino, encino, oyamel y maderas tropicales.
+La industria azucarera destaca por la producción de los ingenios de Autlán de Navarro y Casimiro Castillo; asimismo, existen fábricas de fertilizantes, de alimentos procesados, de ropa y empacadoras de fruta.
+La actividad turística se desarrolla en los municipios de La Huerta y Cihuatlán, ya que cuentan con playas y lugares de descanso, como Melaque y Barra de Navidad que atraen a numerosos visitantes, así como Chamela, donde se protege a la naturaleza.
+</mensaje>
+
+<mensaje id="es" num="53">REGIÓN COSTA NORTE
+Esta región se localiza en el este de la entidad, en el límite con el océano Pacífico. Aquí el relieve está formado por una parte de la Sierra Madre Occidental, algunos valles, llanuras y las playas. Abarca los municipios de  Puerto Vallarta, Cabo Corrientes y Tomatlán.
+Sus climas son el templado y el cálido y su vegetación es muy abundante. En las partes  altas de la sierra existen bosques de pino y encino, donde habitan conejos, zorras, zorrillos, coyotes y venados cola blanca; las partes bajas de la sierra están cubiertas por selva, con árboles de maderas preciosas como la caoba y el cedro, que son aprovechadas en la fabricación de muebles finos; la fauna está formada por especies como la onza, el puma, el jaguar, el caimán y la iguana. En cuanto a las aves, existen gavilanes, aguilillas, urracas, pájaros carpinteros y pericos, entre otros. En los valles abundan los cocoteros y platanares, y los manglares en el litoral.
+La ganadería de esta región incluye la cría de ganado bovino, porcino, ovino y caprino. En esta región extraen minerales, como el granito y la sal de las salinas de Tomatlán. La pesca es una actividad que cada vez cobra mayor importancia, ya que se capturan especies como camarón, cazón, guachinango, langosta, lisa, ostión, pargo, robalo, sierra y pulpo.
+Esta región tiene variados recursos naturales, entre los que hay que incluir el mar y sus paisajes llenos de belleza, que favorecen la actividad turística.
+</mensaje>
+<mensaje id="en" num="53">REGIÓN COSTA NORTE
+Esta región se localiza en el este de la entidad, en el límite con el océano Pacífico. Aquí el relieve está formado por una parte de la Sierra Madre Occidental, algunos valles, llanuras y las playas. Abarca los municipios de  Puerto Vallarta, Cabo Corrientes y Tomatlán.
+Sus climas son el templado y el cálido y su vegetación es muy abundante. En las partes  altas de la sierra existen bosques de pino y encino, donde habitan conejos, zorras, zorrillos, coyotes y venados cola blanca; las partes bajas de la sierra están cubiertas por selva, con árboles de maderas preciosas como la caoba y el cedro, que son aprovechadas en la fabricación de muebles finos; la fauna está formada por especies como la onza, el puma, el jaguar, el caimán y la iguana. En cuanto a las aves, existen gavilanes, aguilillas, urracas, pájaros carpinteros y pericos, entre otros. En los valles abundan los cocoteros y platanares, y los manglares en el litoral.
+La ganadería de esta región incluye la cría de ganado bovino, porcino, ovino y caprino. En esta región extraen minerales, como el granito y la sal de las salinas de Tomatlán. La pesca es una actividad que cada vez cobra mayor importancia, ya que se capturan especies como camarón, cazón, guachinango, langosta, lisa, ostión, pargo, robalo, sierra y pulpo.
+Esta región tiene variados recursos naturales, entre los que hay que incluir el mar y sus paisajes llenos de belleza, que favorecen la actividad turística.
+</mensaje>
+<mensaje id="pr" num="53">REGIÓN COSTA NORTE
+Esta región se localiza en el este de la entidad, en el límite con el océano Pacífico. Aquí el relieve está formado por una parte de la Sierra Madre Occidental, algunos valles, llanuras y las playas. Abarca los municipios de  Puerto Vallarta, Cabo Corrientes y Tomatlán.
+Sus climas son el templado y el cálido y su vegetación es muy abundante. En las partes  altas de la sierra existen bosques de pino y encino, donde habitan conejos, zorras, zorrillos, coyotes y venados cola blanca; las partes bajas de la sierra están cubiertas por selva, con árboles de maderas preciosas como la caoba y el cedro, que son aprovechadas en la fabricación de muebles finos; la fauna está formada por especies como la onza, el puma, el jaguar, el caimán y la iguana. En cuanto a las aves, existen gavilanes, aguilillas, urracas, pájaros carpinteros y pericos, entre otros. En los valles abundan los cocoteros y platanares, y los manglares en el litoral.
+La ganadería de esta región incluye la cría de ganado bovino, porcino, ovino y caprino. En esta región extraen minerales, como el granito y la sal de las salinas de Tomatlán. La pesca es una actividad que cada vez cobra mayor importancia, ya que se capturan especies como camarón, cazón, guachinango, langosta, lisa, ostión, pargo, robalo, sierra y pulpo.
+Esta región tiene variados recursos naturales, entre los que hay que incluir el mar y sus paisajes llenos de belleza, que favorecen la actividad turística.
+</mensaje>
+
+<mensaje id="es" num="54">REGIÓN SIERRA OCCIDENTAL
+Esta región se ubica en la parte oeste del Estado, y está formada por los municipios de Atenguillo, Ayutla, Cuautla, Guachinango, Mascota, Mixtlán, San Sebastián de Oeste y Talpa de Allende. De acuerdo con su nombre, la mayor parte del relieve lo componen zonas de sierras cuya vegetación es muy rica con especies de pino, oyamel, cedro, encino, parota, fresno, pochote, primavera y rosamorada. En las zonas bajas de las sierras hay mezquite, nopal, pitayo, huizache y pastizales.
+En la región predomina el clima templado que favorece la abundancia de bosques en las partes altas de la sierra. Está poblada por especies animales como el venado, jabalí, gato montés, puma, pantera y también de animales pequeños como ardillas, conejos y armadillos, sin faltar distintas especies de aves.
+La actividad agrícola  se desarrolla con cultivos de maíz, garbanzo, avena, sorgo, trigo, caña de azúcar y café. Se cultivan especies frutales como: guayabo, naranjo, durazno, aguacate y arrayán. 
+En la ganadería, las especies que más se crían son ganado bovino y porcino, aunque hay también ovino y caprino, así como granjas avícolas y colmenas.
+La región Sierra Occidental  tiene recursos mineros como cobre, plata, oro, barita, plomo, zinc y yeso.
+Por la abundancia de bosques, hay explotación forestal en los municipios de Ayutla, Mascota, San Sebastián del Oeste y Talpa de Allende.
+Otras actividades económicas son la industria de calzado, muebles y productos de plástico. Son notables las conservas y los dulces cubiertos que se preparan aprovechando las especies frutales.
+Con la resina del árbol del chilte se elaboran artesanías en la región de Talpa de Allende. Además, en este lugar hay un santuario religioso que es visitado por una gran cantidad de peregrinos que hacen grandes recorridos a pie, cruzando sierras y poblaciones durante varios días.
+Los paisajes de la sierra tienen un gran atractivo y son provechosos para la actividad turística; por ello en poblaciones como Mascota y San Sebastián de Oeste, es frecuente encontrar viajeros de varios lugares de nuestro país y del extranjero, que acuden a disfrutar la belleza de estos lugares, del clima y a realizar actividades de turismo de aventura.
+</mensaje>
+<mensaje id="en" num="54">REGIÓN SIERRA OCCIDENTAL
+Esta región se ubica en la parte oeste del Estado, y está formada por los municipios de Atenguillo, Ayutla, Cuautla, Guachinango, Mascota, Mixtlán, San Sebastián de Oeste y Talpa de Allende. De acuerdo con su nombre, la mayor parte del relieve lo componen zonas de sierras cuya vegetación es muy rica con especies de pino, oyamel, cedro, encino, parota, fresno, pochote, primavera y rosamorada. En las zonas bajas de las sierras hay mezquite, nopal, pitayo, huizache y pastizales.
+En la región predomina el clima templado que favorece la abundancia de bosques en las partes altas de la sierra. Está poblada por especies animales como el venado, jabalí, gato montés, puma, pantera y también de animales pequeños como ardillas, conejos y armadillos, sin faltar distintas especies de aves.
+La actividad agrícola  se desarrolla con cultivos de maíz, garbanzo, avena, sorgo, trigo, caña de azúcar y café. Se cultivan especies frutales como: guayabo, naranjo, durazno, aguacate y arrayán. 
+En la ganadería, las especies que más se crían son ganado bovino y porcino, aunque hay también ovino y caprino, así como granjas avícolas y colmenas.
+La región Sierra Occidental  tiene recursos mineros como cobre, plata, oro, barita, plomo, zinc y yeso.
+Por la abundancia de bosques, hay explotación forestal en los municipios de Ayutla, Mascota, San Sebastián del Oeste y Talpa de Allende.
+Otras actividades económicas son la industria de calzado, muebles y productos de plástico. Son notables las conservas y los dulces cubiertos que se preparan aprovechando las especies frutales.
+Con la resina del árbol del chilte se elaboran artesanías en la región de Talpa de Allende. Además, en este lugar hay un santuario religioso que es visitado por una gran cantidad de peregrinos que hacen grandes recorridos a pie, cruzando sierras y poblaciones durante varios días.
+Los paisajes de la sierra tienen un gran atractivo y son provechosos para la actividad turística; por ello en poblaciones como Mascota y San Sebastián de Oeste, es frecuente encontrar viajeros de varios lugares de nuestro país y del extranjero, que acuden a disfrutar la belleza de estos lugares, del clima y a realizar actividades de turismo de aventura.
+</mensaje>
+<mensaje id="pr" num="54">REGIÓN SIERRA OCCIDENTAL
+Esta región se ubica en la parte oeste del Estado, y está formada por los municipios de Atenguillo, Ayutla, Cuautla, Guachinango, Mascota, Mixtlán, San Sebastián de Oeste y Talpa de Allende. De acuerdo con su nombre, la mayor parte del relieve lo componen zonas de sierras cuya vegetación es muy rica con especies de pino, oyamel, cedro, encino, parota, fresno, pochote, primavera y rosamorada. En las zonas bajas de las sierras hay mezquite, nopal, pitayo, huizache y pastizales.
+En la región predomina el clima templado que favorece la abundancia de bosques en las partes altas de la sierra. Está poblada por especies animales como el venado, jabalí, gato montés, puma, pantera y también de animales pequeños como ardillas, conejos y armadillos, sin faltar distintas especies de aves.
+La actividad agrícola  se desarrolla con cultivos de maíz, garbanzo, avena, sorgo, trigo, caña de azúcar y café. Se cultivan especies frutales como: guayabo, naranjo, durazno, aguacate y arrayán. 
+En la ganadería, las especies que más se crían son ganado bovino y porcino, aunque hay también ovino y caprino, así como granjas avícolas y colmenas.
+La región Sierra Occidental  tiene recursos mineros como cobre, plata, oro, barita, plomo, zinc y yeso.
+Por la abundancia de bosques, hay explotación forestal en los municipios de Ayutla, Mascota, San Sebastián del Oeste y Talpa de Allende.
+Otras actividades económicas son la industria de calzado, muebles y productos de plástico. Son notables las conservas y los dulces cubiertos que se preparan aprovechando las especies frutales.
+Con la resina del árbol del chilte se elaboran artesanías en la región de Talpa de Allende. Además, en este lugar hay un santuario religioso que es visitado por una gran cantidad de peregrinos que hacen grandes recorridos a pie, cruzando sierras y poblaciones durante varios días.
+Los paisajes de la sierra tienen un gran atractivo y son provechosos para la actividad turística; por ello en poblaciones como Mascota y San Sebastián de Oeste, es frecuente encontrar viajeros de varios lugares de nuestro país y del extranjero, que acuden a disfrutar la belleza de estos lugares, del clima y a realizar actividades de turismo de aventura.
+</mensaje>
+
+<mensaje id="es" num="55">REGIÓN VALLES 
+La región se localiza en la parte centro-oeste de la entidad y está formada, como su nombre lo dice, por los valles de Ameca, Ahualulco de Mercado, Cocula, Etzatlán, Tala y Magdalena, que abarcan los municipios del mismo nombre. Además incluye otros municipios, como El Arenal, San Juanito de Escobedo, San Marcos, San Martín Hidalgo, Tequila, Teuchitlán, Hostotipaquillo y Amatitán.
+Los límites de estos valles por el sur son la sierra de Quila y los cerros La Tetilla y El  Huehuetón, y por el norte,  el volcán de Tequila. El clima predominante es el cálido con lluvias abundantes en verano.
+Esta región es de gran importancia para el Estado, ya que en ella se desarrolla la agricultura de riego y de temporal, con cultivos de maíz, garbanzo, trigo y sorgo, así como el agave y la caña de azúcar, que mantiene activas a las industrias tequilera y azucarera de la región. 
+En esta región se llevan a cabo actividades ganaderas, las cuales consisten principalmente en la cría de ganado bovino y caprino. Destaca por su importancia  la cría de aves de corral. Así mismo se cuenta con colmenas y apiarios para la producción de miel.
+Otra actividad importante es el aprovechamiento de algunos recursos forestales como el pino y el encino, sobre todo en las áreas boscosas de las sierras montañosas aledañas. La extracción de minerales como la plata y el ópalo sólo se lleva a cabo en las minas  de los municipios de  Tequila y Hostotipaquillo.
+La industria del tequila, que le ha dado fama y tradición al Estado a nivel nacional e internacional, se desarrolla en los municipios de Arenal, Tequila y Amatitlán. 
+La región Valles destaca también por la elaboración  de artesanías, como la joyería, con piedras de ópalo y obsidiana, la ropa bordada, los equipales, los muebles de madera con cuero curtido y las barricas para almacenar y añejar tequila.
+</mensaje>
+<mensaje id="en" num="55">REGIÓN VALLES 
+La región se localiza en la parte centro-oeste de la entidad y está formada, como su nombre lo dice, por los valles de Ameca, Ahualulco de Mercado, Cocula, Etzatlán, Tala y Magdalena, que abarcan los municipios del mismo nombre. Además incluye otros municipios, como El Arenal, San Juanito de Escobedo, San Marcos, San Martín Hidalgo, Tequila, Teuchitlán, Hostotipaquillo y Amatitán.
+Los límites de estos valles por el sur son la sierra de Quila y los cerros La Tetilla y El  Huehuetón, y por el norte,  el volcán de Tequila. El clima predominante es el cálido con lluvias abundantes en verano.
+Esta región es de gran importancia para el Estado, ya que en ella se desarrolla la agricultura de riego y de temporal, con cultivos de maíz, garbanzo, trigo y sorgo, así como el agave y la caña de azúcar, que mantiene activas a las industrias tequilera y azucarera de la región. 
+En esta región se llevan a cabo actividades ganaderas, las cuales consisten principalmente en la cría de ganado bovino y caprino. Destaca por su importancia  la cría de aves de corral. Así mismo se cuenta con colmenas y apiarios para la producción de miel.
+Otra actividad importante es el aprovechamiento de algunos recursos forestales como el pino y el encino, sobre todo en las áreas boscosas de las sierras montañosas aledañas. La extracción de minerales como la plata y el ópalo sólo se lleva a cabo en las minas  de los municipios de  Tequila y Hostotipaquillo.
+La industria del tequila, que le ha dado fama y tradición al Estado a nivel nacional e internacional, se desarrolla en los municipios de Arenal, Tequila y Amatitlán. 
+La región Valles destaca también por la elaboración  de artesanías, como la joyería, con piedras de ópalo y obsidiana, la ropa bordada, los equipales, los muebles de madera con cuero curtido y las barricas para almacenar y añejar tequila.
+</mensaje>
+<mensaje id="pr" num="55">REGIÓN VALLES 
+La región se localiza en la parte centro-oeste de la entidad y está formada, como su nombre lo dice, por los valles de Ameca, Ahualulco de Mercado, Cocula, Etzatlán, Tala y Magdalena, que abarcan los municipios del mismo nombre. Además incluye otros municipios, como El Arenal, San Juanito de Escobedo, San Marcos, San Martín Hidalgo, Tequila, Teuchitlán, Hostotipaquillo y Amatitán.
+Los límites de estos valles por el sur son la sierra de Quila y los cerros La Tetilla y El  Huehuetón, y por el norte,  el volcán de Tequila. El clima predominante es el cálido con lluvias abundantes en verano.
+Esta región es de gran importancia para el Estado, ya que en ella se desarrolla la agricultura de riego y de temporal, con cultivos de maíz, garbanzo, trigo y sorgo, así como el agave y la caña de azúcar, que mantiene activas a las industrias tequilera y azucarera de la región. 
+En esta región se llevan a cabo actividades ganaderas, las cuales consisten principalmente en la cría de ganado bovino y caprino. Destaca por su importancia  la cría de aves de corral. Así mismo se cuenta con colmenas y apiarios para la producción de miel.
+Otra actividad importante es el aprovechamiento de algunos recursos forestales como el pino y el encino, sobre todo en las áreas boscosas de las sierras montañosas aledañas. La extracción de minerales como la plata y el ópalo sólo se lleva a cabo en las minas  de los municipios de  Tequila y Hostotipaquillo.
+La industria del tequila, que le ha dado fama y tradición al Estado a nivel nacional e internacional, se desarrolla en los municipios de Arenal, Tequila y Amatitlán. 
+La región Valles destaca también por la elaboración  de artesanías, como la joyería, con piedras de ópalo y obsidiana, la ropa bordada, los equipales, los muebles de madera con cuero curtido y las barricas para almacenar y añejar tequila.
+</mensaje>
+
+<mensaje id="es" num="56">REGIÓN CENTRO 
+Esta región se ubica en la zona central de la entidad y comprende los municipios de Ixtlahuacán del Río, Ixtlahuacán de los Membrillos, Cuquío, Guadalajara, San Cristóbal de la Barranca, Zapopan, Tonalá, Tlaquepaque, Villa Corona, Tlajomulco de Zúñiga, Zapotlanejo, Acatlán de Juárez, Juanacatlán y El Salto. Su relieve es diverso.
+Comprende extensos valles, como el de Atemajac y Tesistán, donde se asientan gran parte de las ciudades de Guadalajara y Zapopan; alrededor de estos valles destacan los cerros de El Colli, Tonalá, La Loma, Las Juntas, El Cuarto, El Santa María y el Gachupín.
+En el oeste de esta región, el paisaje boscoso de las sierras de La Venta y La Primavera contrasta con la profunda y larga barranca de Oblatos, en la parte este, en cuyo fondo corre el río Santiago.
+El clima predominante es el cálido y en algunas zonas templado.
+Las actividades productivas de la región Centro son muy variadas. En algunos de sus municipios destaca la producción de maíz, sorgo, caña de azúcar, trigo y garbanzo forrajero y la cría de ganado bovino, porcino, ovino, caprino, así como aves de corral y abejas.
+Los municipios de Guadalajara, Zapopan, Tlaquepaque y Tonalá se unen y forman la zona metropolitana. Son los municipios de mayor desarrollo urbano y concentran una gran cantidad de industrias, fábricas, talleres de producción, servicios educativos, de salud, bancarios y turísticos, como hoteles y restaurantes.
+La actividad industrial abarca la producción de alimentos para el consumo humano y animal, bebidas, refrescos embotellados, dulces, tabaco, azúcar, textiles, prendas de vestir, de piel, calzado, muebles, papel, maquinaria, equipo para automóviles, medicinas, fertilizantes para la agricultura, productos fotográficos, hule, plástico y aparatos electrónicos.
+Es importante mencionar las actividades artesanales que se realizan en los municipios de Tlaquepaque y Tonalá. Los artesanos, con el trabajo de sus manos, convierten el barro, la piel, el papel o el vidrio en verdaderas obras de arte, reconocidas y admiradas en México y en muchos países del mundo.
+Estas actividades generan numerosos empleos. Por eso muchas personas de otras partes del Estado, y de fuera de él, se trasladan a la zona metropolitana en busca de trabajo.
+Pero en esta concentración de actividades económicas y servicios, también produce problemas. Por ejemplo, resultan insuficientes las viviendas, los transportes, el agua, los parques y las zonas arboladas, así como las oportunidades de empleo y lugar en las escuelas.
+Además, las fábricas, las grandes industrias y los vehículos de motor, son fuentes emisoras de contaminantes, que dañan la salud y el ambiente.
+</mensaje>
+<mensaje id="en" num="56">REGIÓN CENTRO 
+Esta región se ubica en la zona central de la entidad y comprende los municipios de Ixtlahuacán del Río, Ixtlahuacán de los Membrillos, Cuquío, Guadalajara, San Cristóbal de la Barranca, Zapopan, Tonalá, Tlaquepaque, Villa Corona, Tlajomulco de Zúñiga, Zapotlanejo, Acatlán de Juárez, Juanacatlán y El Salto. Su relieve es diverso.
+Comprende extensos valles, como el de Atemajac y Tesistán, donde se asientan gran parte de las ciudades de Guadalajara y Zapopan; alrededor de estos valles destacan los cerros de El Colli, Tonalá, La Loma, Las Juntas, El Cuarto, El Santa María y el Gachupín.
+En el oeste de esta región, el paisaje boscoso de las sierras de La Venta y La Primavera contrasta con la profunda y larga barranca de Oblatos, en la parte este, en cuyo fondo corre el río Santiago.
+El clima predominante es el cálido y en algunas zonas templado.
+Las actividades productivas de la región Centro son muy variadas. En algunos de sus municipios destaca la producción de maíz, sorgo, caña de azúcar, trigo y garbanzo forrajero y la cría de ganado bovino, porcino, ovino, caprino, así como aves de corral y abejas.
+Los municipios de Guadalajara, Zapopan, Tlaquepaque y Tonalá se unen y forman la zona metropolitana. Son los municipios de mayor desarrollo urbano y concentran una gran cantidad de industrias, fábricas, talleres de producción, servicios educativos, de salud, bancarios y turísticos, como hoteles y restaurantes.
+La actividad industrial abarca la producción de alimentos para el consumo humano y animal, bebidas, refrescos embotellados, dulces, tabaco, azúcar, textiles, prendas de vestir, de piel, calzado, muebles, papel, maquinaria, equipo para automóviles, medicinas, fertilizantes para la agricultura, productos fotográficos, hule, plástico y aparatos electrónicos.
+Es importante mencionar las actividades artesanales que se realizan en los municipios de Tlaquepaque y Tonalá. Los artesanos, con el trabajo de sus manos, convierten el barro, la piel, el papel o el vidrio en verdaderas obras de arte, reconocidas y admiradas en México y en muchos países del mundo.
+Estas actividades generan numerosos empleos. Por eso muchas personas de otras partes del Estado, y de fuera de él, se trasladan a la zona metropolitana en busca de trabajo.
+Pero en esta concentración de actividades económicas y servicios, también produce problemas. Por ejemplo, resultan insuficientes las viviendas, los transportes, el agua, los parques y las zonas arboladas, así como las oportunidades de empleo y lugar en las escuelas.
+Además, las fábricas, las grandes industrias y los vehículos de motor, son fuentes emisoras de contaminantes, que dañan la salud y el ambiente.
+</mensaje>
+<mensaje id="pr" num="56">REGIÓN CENTRO 
+Esta región se ubica en la zona central de la entidad y comprende los municipios de Ixtlahuacán del Río, Ixtlahuacán de los Membrillos, Cuquío, Guadalajara, San Cristóbal de la Barranca, Zapopan, Tonalá, Tlaquepaque, Villa Corona, Tlajomulco de Zúñiga, Zapotlanejo, Acatlán de Juárez, Juanacatlán y El Salto. Su relieve es diverso.
+Comprende extensos valles, como el de Atemajac y Tesistán, donde se asientan gran parte de las ciudades de Guadalajara y Zapopan; alrededor de estos valles destacan los cerros de El Colli, Tonalá, La Loma, Las Juntas, El Cuarto, El Santa María y el Gachupín.
+En el oeste de esta región, el paisaje boscoso de las sierras de La Venta y La Primavera contrasta con la profunda y larga barranca de Oblatos, en la parte este, en cuyo fondo corre el río Santiago.
+El clima predominante es el cálido y en algunas zonas templado.
+Las actividades productivas de la región Centro son muy variadas. En algunos de sus municipios destaca la producción de maíz, sorgo, caña de azúcar, trigo y garbanzo forrajero y la cría de ganado bovino, porcino, ovino, caprino, así como aves de corral y abejas.
+Los municipios de Guadalajara, Zapopan, Tlaquepaque y Tonalá se unen y forman la zona metropolitana. Son los municipios de mayor desarrollo urbano y concentran una gran cantidad de industrias, fábricas, talleres de producción, servicios educativos, de salud, bancarios y turísticos, como hoteles y restaurantes.
+La actividad industrial abarca la producción de alimentos para el consumo humano y animal, bebidas, refrescos embotellados, dulces, tabaco, azúcar, textiles, prendas de vestir, de piel, calzado, muebles, papel, maquinaria, equipo para automóviles, medicinas, fertilizantes para la agricultura, productos fotográficos, hule, plástico y aparatos electrónicos.
+Es importante mencionar las actividades artesanales que se realizan en los municipios de Tlaquepaque y Tonalá. Los artesanos, con el trabajo de sus manos, convierten el barro, la piel, el papel o el vidrio en verdaderas obras de arte, reconocidas y admiradas en México y en muchos países del mundo.
+Estas actividades generan numerosos empleos. Por eso muchas personas de otras partes del Estado, y de fuera de él, se trasladan a la zona metropolitana en busca de trabajo.
+Pero en esta concentración de actividades económicas y servicios, también produce problemas. Por ejemplo, resultan insuficientes las viviendas, los transportes, el agua, los parques y las zonas arboladas, así como las oportunidades de empleo y lugar en las escuelas.
+Además, las fábricas, las grandes industrias y los vehículos de motor, son fuentes emisoras de contaminantes, que dañan la salud y el ambiente.
+</mensaje>
+
+<mensaje id='es' num='94'>Caña de azúcar</mensaje>
+<mensaje id='en' num='94'>Caña de azúcar</mensaje>
+<mensaje id='pr' num='94'>Caña de azúcar</mensaje>
+<mensaje id='es' num='95'>Ganadería</mensaje>
+<mensaje id='en' num='95'>Ganadería</mensaje>
+<mensaje id='pr' num='95'>Ganadería</mensaje>
+<mensaje id='es' num='96'>Maíz</mensaje>
+<mensaje id='en' num='96'>Maíz</mensaje>
+<mensaje id='pr' num='96'>Maíz</mensaje>
+<mensaje id='es' num='99'>Pesca</mensaje>
+<mensaje id='en' num='99'>Pesca</mensaje>
+<mensaje id='pr' num='99'>Pesca</mensaje>
+<mensaje id='es' num='101'>Café</mensaje>
+<mensaje id='en' num='101'>Café</mensaje>
+<mensaje id='pr' num='101'>Café</mensaje>
+<mensaje id='es' num='102'>Recursos forestales</mensaje>
+<mensaje id='en' num='102'>Recursos forestales</mensaje>
+<mensaje id='pr' num='102'>Recursos forestales</mensaje>
+<mensaje id='es' num='109'>Arroz</mensaje>
+<mensaje id='en' num='109'>Arroz</mensaje>
+<mensaje id='pr' num='109'>Arroz</mensaje>
+<mensaje id='es' num='112'>Industria</mensaje>
+<mensaje id='en' num='112'>Industria</mensaje>
+<mensaje id='pr' num='112'>Industria</mensaje>
+<mensaje id='es' num='135'>Agave</mensaje>
+<mensaje id='en' num='135'>Agave</mensaje>
+<mensaje id='pr' num='135'>Agave</mensaje>
+<mensaje id='es' num='138'>Avicultura</mensaje>
+<mensaje id='en' num='138'>Avicultura</mensaje>
+<mensaje id='pr' num='138'>Avicultura</mensaje>
+<mensaje id='es' num='140'>Artesanias</mensaje>
+<mensaje id='en' num='140'>Artesanias</mensaje>
+<mensaje id='pr' num='140'>Artesanias</mensaje>
+<mensaje id='es' num='153'>Frutales</mensaje>
+<mensaje id='en' num='153'>Frutales</mensaje>
+<mensaje id='pr' num='153'>Frutales</mensaje>
+<mensaje id='es' num='162'>Sorgo</mensaje>
+<mensaje id='en' num='162'>Sorgo</mensaje>
+<mensaje id='pr' num='162'>Sorgo</mensaje>
+<mensaje id='es' num='163'>Minería</mensaje>
+<mensaje id='en' num='163'>Minería</mensaje>
+<mensaje id='pr' num='163'>Minería</mensaje>
+<mensaje id='es' num='164'>Avena, trigo y alfalfa</mensaje>
+<mensaje id='en' num='164'>Avena, trigo y alfalfa</mensaje>
+<mensaje id='pr' num='164'>Avena, trigo y alfalfa</mensaje>
+<mensaje id='es' num='165'>Ganado Caprino</mensaje>
+<mensaje id='en' num='165'>Ganado Caprino</mensaje>
+<mensaje id='pr' num='165'>Ganado Caprino</mensaje>
+<mensaje id='es' num='166'>Vestido</mensaje>
+<mensaje id='en' num='166'>Vestido</mensaje>
+<mensaje id='pr' num='166'>Vestido</mensaje>
+<mensaje id='es' num='167'>Ganado ovino</mensaje>
+<mensaje id='en' num='167'>Ganado ovino</mensaje>
+<mensaje id='pr' num='167'>Ganado ovino</mensaje>
+<mensaje id='es' num='168'>Ganado porcino</mensaje>
+<mensaje id='en' num='168'>Ganado porcino</mensaje>
+<mensaje id='pr' num='168'>Ganado porcino</mensaje>
+<mensaje id='es' num='169'>Colmenas</mensaje>
+<mensaje id='en' num='169'>Colmenas</mensaje>
+<mensaje id='pr' num='169'>Colmenas</mensaje>
+<mensaje id='es' num='170'>Turismo</mensaje>
+<mensaje id='en' num='170'>Turismo</mensaje>
+<mensaje id='pr' num='170'>Turismo</mensaje>
+<mensaje id='es' num='171'>Tabaco</mensaje>
+<mensaje id='en' num='171'>Tabaco</mensaje>
+<mensaje id='pr' num='171'>Tabaco</mensaje>
+<mensaje id='es' num='172'>Legumbres</mensaje>
+<mensaje id='en' num='172'>Legumbres</mensaje>
+<mensaje id='pr' num='172'>Legumbres</mensaje>
+
+<mensaje id='es' num='200'>Lago de Chapala</mensaje>
+<mensaje id='en' num='200'>Lago de Chapala</mensaje>
+<mensaje id='pr' num='200'>Lago de Chapala</mensaje>
+<mensaje id='es' num='201'>Laguna Atotonilco</mensaje>
+<mensaje id='en' num='201'>Laguna Atotonilco</mensaje>
+<mensaje id='pr' num='201'>Laguna Atotonilco</mensaje>
+<mensaje id='es' num='202'>Laguna Zacoalco</mensaje>
+<mensaje id='en' num='202'>Laguna Zacoalco</mensaje>
+<mensaje id='pr' num='202'>Laguna Zacoalco</mensaje>
+<mensaje id='es' num='203'>Laguna San Marcos</mensaje>
+<mensaje id='en' num='203'>Laguna San Marcos</mensaje>
+<mensaje id='pr' num='203'>Laguna San Marcos</mensaje>
+<mensaje id='es' num='204'>Laguna Cajititlán</mensaje>
+<mensaje id='en' num='204'>Laguna Cajititlán</mensaje>
+<mensaje id='pr' num='204'>Laguna Cajititlán</mensaje>
+<mensaje id='es' num='205'>Laguna Sayula</mensaje>
+<mensaje id='en' num='205'>Laguna Sayula</mensaje>
+<mensaje id='pr' num='205'>Laguna Sayula</mensaje>
+<mensaje id='es' num='206'>Presa Santa Rosa</mensaje>
+<mensaje id='en' num='206'>Presa Santa Rosa</mensaje>
+<mensaje id='pr' num='206'>Presa Santa Rosa</mensaje>
+<mensaje id='es' num='207'>Presa La Vega</mensaje>
+<mensaje id='en' num='207'>Presa La Vega</mensaje>
+<mensaje id='pr' num='207'>Presa La Vega</mensaje>
+<mensaje id='es' num='208'>Presa Las Piedras</mensaje>
+<mensaje id='en' num='208'>Presa Las Piedras</mensaje>
+<mensaje id='pr' num='208'>Presa Las Piedras</mensaje>
+<mensaje id='es' num='209'>Presa Tacotán</mensaje>
+<mensaje id='en' num='209'>Presa Tacotán</mensaje>
+<mensaje id='pr' num='209'>Presa Tacotán</mensaje>
+<mensaje id='es' num='210'>Presa Las Juntas</mensaje>
+<mensaje id='en' num='210'>Presa Las Juntas</mensaje>
+<mensaje id='pr' num='210'>Presa Las Juntas</mensaje>
+<mensaje id='es' num='211'>Presa Colimilla</mensaje>
+<mensaje id='en' num='211'>Presa Colimilla</mensaje>
+<mensaje id='pr' num='211'>Presa Colimilla</mensaje>
+<mensaje id='es' num='212'>Río Tecolotlán</mensaje>
+<mensaje id='en' num='212'>Río Tecolotlán</mensaje>
+<mensaje id='pr' num='212'>Río Tecolotlán</mensaje>
+<mensaje id='es' num='213'>Río María García</mensaje>
+<mensaje id='en' num='213'>Río María García</mensaje>
+<mensaje id='pr' num='213'>Río María García</mensaje>
+<mensaje id='es' num='214'>Río Tomatlán</mensaje>
+<mensaje id='en' num='214'>Río Tomatlán</mensaje>
+<mensaje id='pr' num='214'>Río Tomatlán</mensaje>
+<mensaje id='es' num='215'>Río San Nicolás</mensaje>
+<mensaje id='en' num='215'>Río San Nicolás</mensaje>
+<mensaje id='pr' num='215'>Río San Nicolás</mensaje>
+<mensaje id='es' num='216'>Río Cuitzmala </mensaje>
+<mensaje id='en' num='216'>Río Cuitzmala </mensaje>
+<mensaje id='pr' num='216'>Río Cuitzmala </mensaje>
+<mensaje id='es' num='217'>Río Purificación</mensaje>
+<mensaje id='en' num='217'>Río Purificación</mensaje>
+<mensaje id='pr' num='217'>Río Purificación</mensaje>
+<mensaje id='es' num='218'>Río Minatitlán - Cihuatlán</mensaje>
+<mensaje id='en' num='218'>Río Minatitlán - Cihuatlán</mensaje>
+<mensaje id='pr' num='218'>Río Minatitlán - Cihuatlán</mensaje>
+<mensaje id='es' num='219'>Río Tuxpan - Naranjo</mensaje>
+<mensaje id='en' num='219'>Río Tuxpan - Naranjo</mensaje>
+<mensaje id='pr' num='219'>Río Tuxpan - Naranjo</mensaje>
+<mensaje id='es' num='220'>Río Tamazula</mensaje>
+<mensaje id='en' num='220'>Río Tamazula</mensaje>
+<mensaje id='pr' num='220'>Río Tamazula</mensaje>
+<mensaje id='es' num='221'>Río Otates</mensaje>
+<mensaje id='en' num='221'>Río Otates</mensaje>
+<mensaje id='pr' num='221'>Río Otates</mensaje>
+<mensaje id='es' num='222'>Río Grande</mensaje>
+<mensaje id='en' num='222'>Río Grande</mensaje>
+<mensaje id='pr' num='222'>Río Grande</mensaje>
+<mensaje id='es' num='223'>Río Ayuquilla-Armería</mensaje>
+<mensaje id='en' num='223'>Río Ayuquilla-Armería</mensaje>
+<mensaje id='pr' num='223'>Río Ayuquilla-Armería</mensaje>
+<mensaje id='es' num='224'>Río Manantlán</mensaje>
+<mensaje id='en' num='224'>Río Manantlán</mensaje>
+<mensaje id='pr' num='224'>Río Manantlán</mensaje>
+<mensaje id='es' num='225'>Río Tuxcacuesco</mensaje>
+<mensaje id='en' num='225'>Río Tuxcacuesco</mensaje>
+<mensaje id='pr' num='225'>Río Tuxcacuesco</mensaje>
+<mensaje id='es' num='226'>Río Atengo</mensaje>
+<mensaje id='en' num='226'>Río Atengo</mensaje>
+<mensaje id='pr' num='226'>Río Atengo</mensaje>
+<mensaje id='es' num='227'>Río Mascota</mensaje>
+<mensaje id='en' num='227'>Río Mascota</mensaje>
+<mensaje id='pr' num='227'>Río Mascota</mensaje>
+<mensaje id='es' num='228'>Río Ameca</mensaje>
+<mensaje id='en' num='228'>Río Ameca</mensaje>
+<mensaje id='pr' num='228'>Río Ameca</mensaje>
+<mensaje id='es' num='229'>Río Grande de Santiago</mensaje>
+<mensaje id='en' num='229'>Río Grande de Santiago</mensaje>
+<mensaje id='pr' num='229'>Río Grande de Santiago</mensaje>
+<mensaje id='es' num='230'>Río Bolaños</mensaje>
+<mensaje id='en' num='230'>Río Bolaños</mensaje>
+<mensaje id='pr' num='230'>Río Bolaños</mensaje>
+<mensaje id='es' num='231'>Río Verde</mensaje>
+<mensaje id='en' num='231'>Río Verde</mensaje>
+<mensaje id='pr' num='231'>Río Verde</mensaje>
+<mensaje id='es' num='232'>Río San Miguel</mensaje>
+<mensaje id='en' num='232'>Río San Miguel</mensaje>
+<mensaje id='pr' num='232'>Río San Miguel</mensaje>
+<mensaje id='es' num='233'>Río San Juan de Los Lagos</mensaje>
+<mensaje id='en' num='233'>Río San Juan de Los Lagos</mensaje>
+<mensaje id='pr' num='233'>Río San Juan de Los Lagos</mensaje>
+<mensaje id='es' num='234'>Río Lerma</mensaje>
+<mensaje id='en' num='234'>Río Lerma</mensaje>
+<mensaje id='pr' num='234'>Río Lerma</mensaje>
+<mensaje id='es' num='235'>Río Tuito</mensaje>
+<mensaje id='en' num='235'>Río Tuito</mensaje>
+<mensaje id='pr' num='235'>Río Tuito</mensaje>
+<mensaje id='es' num='236'>Río Juchipila</mensaje>
+<mensaje id='en' num='236'>Río Juchipila</mensaje>
+<mensaje id='pr' num='236'>Río Juchipila</mensaje>
+
+
+<mensaje id='es' num='300'>Sierra San Isidro</mensaje>
+<mensaje id='en' num='300'>Sierra San Isidro</mensaje>
+<mensaje id='pr' num='300'>Sierra San Isidro</mensaje>
+<mensaje id='es' num='301'>Cerro García</mensaje>
+<mensaje id='en' num='301'>Cerro García</mensaje>
+<mensaje id='pr' num='301'>Cerro García</mensaje>
+<mensaje id='es' num='302'>Cerro Gordo</mensaje>
+<mensaje id='en' num='302'>Cerro Gordo</mensaje>
+<mensaje id='pr' num='302'>Cerro Gordo</mensaje>
+<mensaje id='es' num='303'>Cerro El Tigre</mensaje>
+<mensaje id='en' num='303'>Cerro El Tigre</mensaje>
+<mensaje id='pr' num='303'>Cerro El Tigre</mensaje>
+<mensaje id='es' num='304'>Cerro La Tetilla</mensaje>
+<mensaje id='en' num='304'>Cerro La Tetilla</mensaje>
+<mensaje id='pr' num='304'>Cerro La Tetilla</mensaje>
+<mensaje id='es' num='305'>Cerro Huehuetón</mensaje>
+<mensaje id='en' num='305'>Cerro Huehuetón</mensaje>
+<mensaje id='pr' num='305'>Cerro Huehuetón</mensaje>
+<mensaje id='es' num='306'>Volcán Tequila</mensaje>
+<mensaje id='en' num='306'>Volcán Tequila</mensaje>
+<mensaje id='pr' num='306'>Volcán Tequila</mensaje>
+<mensaje id='es' num='307'>Volcán Nevado de Colima</mensaje>
+<mensaje id='en' num='307'>Volcán Nevado de Colima</mensaje>
+<mensaje id='pr' num='307'>Volcán Nevado de Colima</mensaje>
+<mensaje id='es' num='308'>Volcán de Colima</mensaje>
+<mensaje id='en' num='308'>Volcán de Colima</mensaje>
+<mensaje id='pr' num='308'>Volcán de Colima</mensaje>
+<mensaje id='es' num='309'>Sierra El Tuito</mensaje>
+<mensaje id='en' num='309'>Sierra El Tuito</mensaje>
+<mensaje id='pr' num='309'>Sierra El Tuito</mensaje>
+<mensaje id='es' num='310'>Sierra Cacoma</mensaje>
+<mensaje id='en' num='310'>Sierra Cacoma</mensaje>
+<mensaje id='pr' num='310'>Sierra Cacoma</mensaje>
+<mensaje id='es' num='311'>Sierra Verde</mensaje>
+<mensaje id='en' num='311'>Sierra Verde</mensaje>
+<mensaje id='pr' num='311'>Sierra Verde</mensaje>
+<mensaje id='es' num='312'>Sierra Manantlán</mensaje>
+<mensaje id='en' num='312'>Sierra Manantlán</mensaje>
+<mensaje id='pr' num='312'>Sierra Manantlán</mensaje>
+<mensaje id='es' num='313'>Sierra Los Huicholes</mensaje>
+<mensaje id='en' num='313'>Sierra Los Huicholes</mensaje>
+<mensaje id='pr' num='313'>Sierra Los Huicholes</mensaje>
+<mensaje id='es' num='314'>Sierra de Colotlán</mensaje>
+<mensaje id='en' num='314'>Sierra de Colotlán</mensaje>
+<mensaje id='pr' num='314'>Sierra de Colotlán</mensaje>
+<mensaje id='es' num='315'>Sierra Los Pajaritos</mensaje>
+<mensaje id='en' num='315'>Sierra Los Pajaritos</mensaje>
+<mensaje id='pr' num='315'>Sierra Los Pajaritos</mensaje>
+<mensaje id='es' num='316'>Sierra Los Guajolotes</mensaje>
+<mensaje id='en' num='316'>Sierra Los Guajolotes</mensaje>
+<mensaje id='pr' num='316'>Sierra Los Guajolotes</mensaje>
+<mensaje id='es' num='317'>Sierra La Venta</mensaje>
+<mensaje id='en' num='317'>Sierra La Venta</mensaje>
+<mensaje id='pr' num='317'>Sierra La Venta</mensaje>
+<mensaje id='es' num='318'>Sierra de Quila</mensaje>
+<mensaje id='en' num='318'>Sierra de Quila</mensaje>
+<mensaje id='pr' num='318'>Sierra de Quila</mensaje>
+<mensaje id='es' num='319'>Sierra La Primavera</mensaje>
+<mensaje id='en' num='319'>Sierra La Primavera</mensaje>
+<mensaje id='pr' num='319'>Sierra La Primavera</mensaje>
+<mensaje id='es' num='320'>Sierra El Madroño</mensaje>
+<mensaje id='en' num='320'>Sierra El Madroño</mensaje>
+<mensaje id='pr' num='320'>Sierra El Madroño</mensaje>
+<mensaje id='es' num='321'>Sierra Tapalpa</mensaje>
+<mensaje id='en' num='321'>Sierra Tapalpa</mensaje>
+<mensaje id='pr' num='321'>Sierra Tapalpa</mensaje>
+<mensaje id='es' num='322'>Sierra Mazamitla</mensaje>
+<mensaje id='en' num='322'>Sierra Mazamitla</mensaje>
+<mensaje id='pr' num='322'>Sierra Mazamitla</mensaje>
+<mensaje id='es' num='323'>Sierra de Pihuamo</mensaje>
+<mensaje id='en' num='323'>Sierra de Pihuamo</mensaje>
+<mensaje id='pr' num='323'>Sierra de Pihuamo</mensaje>
+<mensaje id='es' num='324'>Sierra Lalo</mensaje>
+<mensaje id='en' num='324'>Sierra Lalo</mensaje>
+<mensaje id='pr' num='324'>Sierra Lalo</mensaje>
+<mensaje id='es' num='325'>Los Altos</mensaje>
+<mensaje id='en' num='325'>Los Altos</mensaje>
+<mensaje id='pr' num='325'>Los Altos</mensaje>
+<mensaje id='es' num='326'>Sierra El Tigre</mensaje>
+<mensaje id='en' num='326'>Sierra El Tigre</mensaje>
+<mensaje id='pr' num='326'>Sierra El Tigre</mensaje>
+
+<mensaje id='es' num='327'>Sierra Madre Occidental</mensaje>
+<mensaje id='en' num='327'>Sierra Madre Occidental</mensaje>
+<mensaje id='pr' num='327'>Sierra Madre Occidental</mensaje>
+
+<mensaje id='es' num='328'>Eje Neovolcánico</mensaje>
+<mensaje id='en' num='328'>Eje Neovolcánico</mensaje>
+<mensaje id='pr' num='328'>Eje Neovolcánico</mensaje>
+
+
+
+<mensaje id='es' num='400'>Colotlán</mensaje>
+<mensaje id='en' num='400'>Colotlán</mensaje>
+<mensaje id='pr' num='400'>Colotlán</mensaje>
+<mensaje id='es' num='401'>Lagos de Moreno</mensaje>
+<mensaje id='en' num='401'>Lagos de Moreno</mensaje>
+<mensaje id='pr' num='401'>Lagos de Moreno</mensaje>
+<mensaje id='es' num='402'>Tepatitlán de Morelos</mensaje>
+<mensaje id='en' num='402'>Tepatitlán</mensaje>
+<mensaje id='pr' num='402'>Tepatitlán</mensaje>
+<mensaje id='es' num='403'>Ocotlán</mensaje>
+<mensaje id='en' num='403'>Ocotlán</mensaje>
+<mensaje id='pr' num='403'>Ocotlán</mensaje>
+<mensaje id='es' num='404'>Tamazula de Gordiano</mensaje>
+<mensaje id='en' num='404'>Tamazula de Gordiano</mensaje>
+<mensaje id='pr' num='404'>Tamazula de Gordiano</mensaje>
+<mensaje id='es' num='405'>Zapotlán el Grande</mensaje>
+<mensaje id='en' num='405'>Zapotlán el Grande</mensaje>
+<mensaje id='pr' num='405'>Zapotlán el Grande</mensaje>
+<mensaje id='es' num='406'>El Grullo</mensaje>
+<mensaje id='en' num='406'>El Grullo</mensaje>
+<mensaje id='pr' num='406'>El Grullo</mensaje>
+<mensaje id='es' num='407'>Autlán de Navarro</mensaje>
+<mensaje id='en' num='407'>Autlán de Navarro</mensaje>
+<mensaje id='pr' num='407'>Autlán de Navarro</mensaje>
+<mensaje id='es' num='408'>Puerto Vallarta</mensaje>
+<mensaje id='en' num='408'>Puerto Vallarta</mensaje>
+<mensaje id='pr' num='408'>Puerto Vallarta</mensaje>
+<mensaje id='es' num='409'>Mascota</mensaje>
+<mensaje id='en' num='409'>Mascota</mensaje>
+<mensaje id='pr' num='409'>Mascota</mensaje>
+<mensaje id='es' num='410'>Ameca</mensaje>
+<mensaje id='en' num='410'>Ameca</mensaje>
+<mensaje id='pr' num='410'>Ameca</mensaje>
+<mensaje id='es' num='411'>Guadalajara</mensaje>
+<mensaje id='en' num='411'>Guadalajara</mensaje>
+<mensaje id='pr' num='411'>Guadalajara</mensaje>
+
+<mensaje id='es' num='500'>REGIÓN COSTA NORTE</mensaje>
+<mensaje id='en' num='500'>REGIÓN COSTA NORTE</mensaje>
+<mensaje id='pr' num='500'>REGIÓN COSTA NORTE</mensaje>
+<mensaje id='es' num='501'>REGIÓN SIERRA OCCIDENTAL</mensaje>
+<mensaje id='en' num='501'>REGIÓN SIERRA OCCIDENTAL</mensaje>
+<mensaje id='pr' num='501'>REGIÓN SIERRA OCCIDENTAL</mensaje>
+<mensaje id='es' num='502'>REGIÓN COSTA SUR</mensaje>
+<mensaje id='en' num='502'>REGIÓN COSTA SUR</mensaje>
+<mensaje id='pr' num='502'>REGIÓN COSTA SUR</mensaje>
+<mensaje id='es' num='503'>REGIÓN NORTE</mensaje>
+<mensaje id='en' num='503'>REGIÓN NORTE</mensaje>
+<mensaje id='pr' num='503'>REGIÓN NORTE</mensaje>
+<mensaje id='es' num='504'>REGIÓN VALLES</mensaje>
+<mensaje id='en' num='504'>REGIÓN VALLES</mensaje>
+<mensaje id='pr' num='504'>REGIÓN VALLES</mensaje>
+<mensaje id='es' num='505'>REGIÓN SIERRA DE AMULA</mensaje>
+<mensaje id='en' num='505'>REGIÓN SIERRA DE AMULA</mensaje>
+<mensaje id='pr' num='505'>REGIÓN SIERRA DE AMULA</mensaje>
+<mensaje id='es' num='506'>REGIÓN CENTRO</mensaje>
+<mensaje id='en' num='506'>REGIÓN CENTRO</mensaje>
+<mensaje id='pr' num='506'>REGIÓN CENTRO</mensaje>
+<mensaje id='es' num='507'>REGIÓN SUR</mensaje>
+<mensaje id='en' num='507'>REGIÓN SUR</mensaje>
+<mensaje id='pr' num='507'>REGIÓN SUR</mensaje>
+<mensaje id='es' num='508'>REGIÓN ALTOS NORTE</mensaje>
+<mensaje id='en' num='508'>REGIÓN ALTOS NORTE</mensaje>
+<mensaje id='pr' num='508'>REGIÓN ALTOS NORTE</mensaje>
+<mensaje id='es' num='509'>REGIÓN ALTOS SUR</mensaje>
+<mensaje id='en' num='509'>REGIÓN ALTOS SUR</mensaje>
+<mensaje id='pr' num='509'>REGIÓN ALTOS SUR</mensaje>
+<mensaje id='es' num='510'>REGIÓN CIÉNEGA</mensaje>
+<mensaje id='en' num='510'>REGIÓN CIÉNEGA</mensaje>
+<mensaje id='pr' num='510'>REGIÓN CIÉNEGA</mensaje>
+<mensaje id='es' num='511'>REGIÓN SURESTE</mensaje>
+<mensaje id='en' num='511'>REGIÓN SURESTE</mensaje>
+<mensaje id='pr' num='511'>REGIÓN SURESTE</mensaje>
+
+
+<mensaje id='es' num='600'>Puerto Vallarta</mensaje>
+<mensaje id='en' num='600'>Puerto Vallarta</mensaje>
+<mensaje id='pr' num='600'>Puerto Vallarta</mensaje>
+<mensaje id='es' num='601'>San Juan de los Lagos</mensaje>
+<mensaje id='en' num='601'>San Juan de los Lagos</mensaje>
+<mensaje id='pr' num='601'>San Juan de los Lagos</mensaje>
+<mensaje id='es' num='602'>Zona arqueológica Ixtepe</mensaje>
+<mensaje id='en' num='602'>Zona arqueológica Ixtepe</mensaje>
+<mensaje id='pr' num='602'>Zona arqueológica Ixtepe</mensaje>
+<mensaje id='es' num='603'>Universidad de Guadalajara</mensaje>
+<mensaje id='en' num='603'>Universidad de Guadalajara</mensaje>
+<mensaje id='pr' num='603'>Universidad de Guadalajara</mensaje>
+<mensaje id='es' num='604'>Lago de Chapala</mensaje>
+<mensaje id='en' num='604'>Lago de Chapala</mensaje>
+<mensaje id='pr' num='604'>Lago de Chapala</mensaje>
+<mensaje id='es' num='605'>Nevado de Colima</mensaje>
+<mensaje id='en' num='605'>Nevado de Colima</mensaje>
+<mensaje id='pr' num='605'>Nevado de Colima</mensaje>
+<mensaje id='es' num='606'>Tlaquepaque</mensaje>
+<mensaje id='en' num='606'>Tlaquepaque</mensaje>
+<mensaje id='pr' num='606'>Tlaquepaque</mensaje>
+
+
+</mensajes>

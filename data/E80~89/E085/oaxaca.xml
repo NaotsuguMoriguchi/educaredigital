@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">En el Estado de Oaxaca existe una considerable población indígena: Mixtecos,  Zapotecos y Mixes, entre los más importantes.</mensaje>
+<mensaje id="en" num="1">En el Estado de Oaxaca existe una considerable población indígena: Mixtecos,  Zapotecos y Mixes, entre los más importantes.</mensaje>
+<mensaje id="pr" num="1">En el Estado de Oaxaca existe una considerable población indígena: Mixtecos,  Zapotecos y Mixes, entre los más importantes. </mensaje>
+
+<mensaje id="es" num="2">Oaxaca cuenta con numerosas fuentes de aguas termales y sus playas desembocan al Golfo de Tehuantepec.</mensaje>
+<mensaje id="en" num="2">Oaxaca cuenta con numerosas fuentes de aguas termales y sus playas desembocan al Golfo de Tehuantepec.</mensaje>
+<mensaje id="pr" num="2">Oaxaca cuenta con numerosas fuentes de aguas termales y sus playas desembocan al Golfo de Tehuantepec.</mensaje>
+
+<mensaje id="es" num="3">Oaxaca cuenta con la zona arqueológica de Monte Albán, una ciudad formada por el Templo de los Danzantes.</mensaje>
+<mensaje id="en" num="3">Oaxaca cuenta con la zona arqueológica de Monte Albán, una ciudad formada por el Templo de los Danzantes.</mensaje>
+<mensaje id="pr" num="3">Oaxaca cuenta con la zona arqueológica de Monte Albán, una ciudad formada por el Templo de los Danzantes.</mensaje>
+
+<mensaje id="es" num="4">En este Estado existen, además de Monte Albán, zonas arqueológicas como las de Mitla, Coixtlahuaca, Zaachila y otras de menor importancia, pero de enorme interés para el turismo.</mensaje>
+<mensaje id="en" num="4">En este Estado existen, además de Monte Albán, zonas arqueológicas como las de Mitla, Coixtlahuaca, Zaachila y otras de menor importancia, pero de enorme interés para el turismo.</mensaje>
+<mensaje id="pr" num="4">En este Estado existen, además de Monte Albán, zonas arqueológicas como las de Mitla, Coixtlahuaca, Zaachila y otras de menor importancia, pero de enorme interés para el turismo.</mensaje>
+
+<mensaje id="es" num="5">La Ciudad de Oaxaca fue fundada por Nuño de Mercado quien le dio el nombre de  “Antequera”. A partir de 1872 se llamó Oaxaca de Juárez.</mensaje>
+<mensaje id="en" num="5">La Ciudad de Oaxaca fue fundada por Nuño de Mercado quien le dio el nombre de  “Antequera”. A partir de 1872 se llamó Oaxaca de Juárez.</mensaje>
+<mensaje id="pr" num="5">La Ciudad de Oaxaca fue fundada por Nuño de Mercado quien le dio el nombre de  “Antequera”. A partir de 1872 se llamó Oaxaca de Juárez.</mensaje>
+
+<mensaje id="es" num="6">Los Jesuitas fundaron el Instituto de Ciencias y Artes, semillero de grandes hombres como Benito Juárez, Porfirio Díaz, Demetrio Sodi, Ignacio Mariscal, Matías Romero y otros que darían fama a México.</mensaje>
+<mensaje id="en" num="6">Los Jesuitas fundaron el Instituto de Ciencias y Artes, semillero de grandes hombres como Benito Juárez, Porfirio Díaz, Demetrio Sodi, Ignacio Mariscal, Matías Romero y otros que darían fama a México.</mensaje>
+<mensaje id="pr" num="6">Los Jesuitas fundaron el Instituto de Ciencias y Artes, semillero de grandes hombres como Benito Juárez, Porfirio Díaz, Demetrio Sodi, Ignacio Mariscal, Matías Romero y otros que darían fama a México.</mensaje>
+
+<mensaje id="es" num="7">La producción industrial de Oaxaca cuenta con oro, carbón, mica, azufre, uranio y sustancias radioactivas, aserraderos, molinos de trigo, plantas metalúrgicas, cemento, tabacos y cerámicas.</mensaje>
+<mensaje id="en" num="7">La producción industrial de Oaxaca cuenta con oro, carbón, mica, azufre, uranio y sustancias radioactivas, aserraderos, molinos de trigo, plantas metalúrgicas, cemento, tabacos y cerámicas.</mensaje>
+<mensaje id="pr" num="7">La producción industrial de Oaxaca cuenta con oro, carbón, mica, azufre, uranio y sustancias radioactivas, aserraderos, molinos de trigo, plantas metalúrgicas, cemento, tabacos y cerámicas.</mensaje>
+
+<mensaje id="es" num="8">Uno de los trajes típicos de Oaxaca es el yalalteca, tiene una túnica blanca, con un trenzado en el pecho y el rebozo envuelve la cabeza a manera de turbante.</mensaje>
+<mensaje id="en" num="8">Uno de los trajes típicos de Oaxaca es el yalalteca, tiene una túnica blanca, con un trenzado en el pecho y el rebozo envuelve la cabeza a manera de turbante.</mensaje>
+<mensaje id="pr" num="8">Uno de los trajes típicos de Oaxaca es el yalalteca, tiene una túnica blanca, con un trenzado en el pecho y el rebozo envuelve la cabeza a manera de turbante.</mensaje>
+
+<mensaje id="es" num="9">La artesanía que caracteriza a Oaxaca es la cerámica de barro negro.</mensaje>
+<mensaje id="en" num="9">La artesanía que caracteriza a Oaxaca es la cerámica de barro negro.</mensaje>
+<mensaje id="pr" num="9">La artesanía que caracteriza a Oaxaca es la cerámica de barro negro.</mensaje>
+
+<mensaje id="es" num="10">Existe también un árbol ahuehuete que data de muchos cientos de años, donde más de cuarenta hombres tomados de las manos pueden rodear su enorme tronco. Es llamado “El Árbol del Tule”.</mensaje>
+<mensaje id="en" num="10">Existe también un árbol ahuehuete que data de muchos cientos de años, donde más de cuarenta hombres tomados de las manos pueden rodear su enorme tronco. Es llamado “El Árbol del Tule”.</mensaje>
+<mensaje id="pr" num="10">Existe también un árbol ahuehuete que data de muchos cientos de años, donde más de cuarenta hombres tomados de las manos pueden rodear su enorme tronco. Es llamado “El Árbol del Tule”.</mensaje>
+
+<mensaje id="es" num="11">Golfo de México</mensaje>
+<mensaje id="en" num="11">Gulf of Mexico</mensaje>
+<mensaje id="pr" num="11">Golfo de México</mensaje>
+
+<mensaje id="es" num="12">Océano Pacífico</mensaje>
+<mensaje id="en" num="12">Pacific Ocean</mensaje>
+<mensaje id="pr" num="12">Oceano Pacífico</mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id="es" num="39">REGIÓN CAÑADA
+Esta región se encuentra al norte del Estado y colinda con Puebla. Es la más pequeña de las regiones. Está formada por dos distritos: Teotitlán y Cuicatlán.</mensaje>
+<mensaje id="en" num="39">REGIÓN CAÑADA
+Esta región se encuentra al norte del Estado y colinda con Puebla. Es la más pequeña de las regiones. Está formada por dos distritos: Teotitlán y Cuicatlán.</mensaje>
+<mensaje id="pr" num="39">REGIÓN CAÑADA
+Esta región se encuentra al norte del Estado y colinda con Puebla. Es la más pequeña de las regiones. Está formada por dos distritos: Teotitlán y Cuicatlán.</mensaje>
+
+<mensaje id="es" num="40">REGIÓN COSTA
+Está región está formada por hermosas playas, se localiza al sur del Estado y limita con Guerreo. La mayoría de su territorio está constituido por tierras planas en las que soplan vientos húmedos que vienen del mar. Está formada por tres distritos: Jamiltepec, Juquila y Pochutla.</mensaje>
+<mensaje id="en" num="40">REGIÓN COSTA
+Está región está formada por hermosas playas, se localiza al sur del Estado y limita con Guerreo. La mayoría de su territorio está constituido por tierras planas en las que soplan vientos húmedos que vienen del mar. Está formada por tres distritos: Jamiltepec, Juquila y Pochutla.</mensaje>
+<mensaje id="pr" num="40">REGIÓN COSTA
+Está región está formada por hermosas playas, se localiza al sur del Estado y limita con Guerreo. La mayoría de su territorio está constituido por tierras planas en las que soplan vientos húmedos que vienen del mar. Está formada por tres distritos: Jamiltepec, Juquila y Pochutla.</mensaje>
+
+<mensaje id="es" num="41">REGIÓN ISTMO
+Esta región se localiza al este de Oaxaca, limita con los Estados de Veracruz y Chiapas y con el Océano Pacífico. Se ubica en la parte más angosta de la República Mexicana y por eso es llamada así. Por su ubicación geográfica es la región mejor comunicada de Oaxaca.  Está formada por dos distritos: Tehuantepec y Juchitán.</mensaje>
+
+<mensaje id="en" num="41">REGIÓN ISTMO
+Esta región se localiza al este de Oaxaca, limita con los Estados de Veracruz y Chiapas y con el Océano Pacífico. Se ubica en la parte más angosta de la República Mexicana y por eso es llamada así. Por su ubicación geográfica es la región mejor comunicada de Oaxaca.  Está formada por dos distritos: Tehuantepec y Juchitán.</mensaje>
+
+<mensaje id="pr" num="41">REGIÓN ISTMO
+Esta región se localiza al este de Oaxaca, limita con los Estados de Veracruz y Chiapas y con el Océano Pacífico. Se ubica en la parte más angosta de la República Mexicana y por eso es llamada así. Por su ubicación geográfica es la región mejor comunicada de Oaxaca.  Está formada por dos distritos: Tehuantepec y Juchitán.</mensaje>
+
+<mensaje id="es" num="42">REGIÓN MIXTECA
+Esta región forma parte de una más grande que abarca territorios de los Estados vecinos de Puebla y Guerrero. Es una zona muy extensa formada por bosques y áreas secas. Son escasos los terrenos planos pues abundan las montañas. Está formada por siete distritos: Silacayoapam, Huajuapan, Coixtlahuaca, Juxtlahuaca, Teposcolula, Nochixtlán y Tlaxiaco.</mensaje>
+
+<mensaje id="en" num="42">REGIÓN MIXTECA
+Esta región forma parte de una más grande que abarca territorios de los Estados vecinos de Puebla y Guerrero. Es una zona muy extensa formada por bosques y áreas secas. Son escasos los terrenos planos pues abundan las montañas. Está formada por siete distritos: Silacayoapam, Huajuapan, Coixtlahuaca, Juxtlahuaca, Teposcolula, Nochixtlán y Tlaxiaco.</mensaje>
+
+<mensaje id="pr" num="42">REGIÓN MIXTECA
+Esta región forma parte de una más grande que abarca territorios de los Estados vecinos de Puebla y Guerrero. Es una zona muy extensa formada por bosques y áreas secas. Son escasos los terrenos planos pues abundan las montañas. Está formada por siete distritos: Silacayoapam, Huajuapan, Coixtlahuaca, Juxtlahuaca, Teposcolula, Nochixtlán y Tlaxiaco.</mensaje>
+
+<mensaje id="es" num="43">REGIÓN SIERRA NORTE
+Esta región es sumamente montañosa, como su nombre lo indica. Está formada por grandes bosques de pinos y divide a los Valles Centrales de la región de Tuxtepec. Está formada por tres distritos: Ixtlán, Villa Alta y Mixe. </mensaje>
+
+<mensaje id="en" num="43">REGIÓN SIERRA NORTE
+Esta región es sumamente montañosa, como su nombre lo indica. Está formada por grandes bosques de pinos y divide a los Valles Centrales de la región de Tuxtepec. Está formada por tres distritos: Ixtlán, Villa Alta y Mixe. </mensaje>
+
+<mensaje id="pr" num="43">REGIÓN SIERRA NORTE
+Esta región es sumamente montañosa, como su nombre lo indica. Está formada por grandes bosques de pinos y divide a los Valles Centrales de la región de Tuxtepec. Está formada por tres distritos: Ixtlán, Villa Alta y Mixe. </mensaje>
+
+<mensaje id="es" num="44">REGIÓN SIERRA SUR
+En esta región hay bosques y se cultiva café. Sus montañas separan a la Costa de la región de los Valles. Está formada por cuatro distritos: Putla, Sola de Vega, Miahuatlán y Yautepec.</mensaje>
+
+<mensaje id="en" num="44">REGIÓN SIERRA SUR
+En esta región hay bosques y se cultiva café. Sus montañas separan a la Costa de la región de los Valles. Está formada por cuatro distritos: Putla, Sola de Vega, Miahuatlán y Yautepec.</mensaje>
+
+<mensaje id="pr" num="44">REGIÓN SIERRA SUR
+En esta región hay bosques y se cultiva café. Sus montañas separan a la Costa de la región de los Valles. Está formada por cuatro distritos: Putla, Sola de Vega, Miahuatlán y Yautepec.</mensaje>
+
+<mensaje id="es" num="45">REGIÓN TUXTEPEC
+Esta región colinda con tierras veracruzanas e inicia donde las montañas de la Sierra Norte comienzan a descender. Es una zona de tierras bajas en la que llueve mucho, también conocida como región del Papaloapan, ya que la atraviesa el río del mismo nombre. Está formada por dos distritos: Tuxtepec y Choapam.</mensaje>
+
+<mensaje id="en" num="45">REGIÓN TUXTEPEC
+Esta región colinda con tierras veracruzanas e inicia donde las montañas de la Sierra Norte comienzan a descender. Es una zona de tierras bajas en la que llueve mucho, también conocida como región del Papaloapan, ya que la atraviesa el río del mismo nombre. Está formada por dos distritos: Tuxtepec y Choapam.</mensaje>
+
+<mensaje id="pr" num="45">REGIÓN TUXTEPEC
+Esta región colinda con tierras veracruzanas e inicia donde las montañas de la Sierra Norte comienzan a descender. Es una zona de tierras bajas en la que llueve mucho, también conocida como región del Papaloapan, ya que la atraviesa el río del mismo nombre. Está formada por dos distritos: Tuxtepec y Choapam.</mensaje>
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+<mensaje id="es" num="52">REGIÓN VALLES CENTRALES
+Esta región está limitada  por ambas sierras y es una zona de tierras altas pero planas. Aquí vive la mayoría de la población oaxaqueña y en su territorio se localiza la capital del Estado. En los Valles Centrales el comercio y el turismo son actividades muy importantes. Está formada por siete distritos: Etla, Zaachila, Zimatlán, Centro, Tlacolula, Ejutla y Ocotlán.</mensaje>
+
+<mensaje id="en" num="52">REGIÓN VALLES CENTRALES
+Esta región está limitada  por ambas sierras y es una zona de tierras altas pero planas. Aquí vive la mayoría de la población oaxaqueña y en su territorio se localiza la capital del Estado. En los Valles Centrales el comercio y el turismo son actividades muy importantes. Está formada por siete distritos: Etla, Zaachila, Zimatlán, Centro, Tlacolula, Ejutla y Ocotlán.</mensaje>
+
+<mensaje id="pr" num="52">REGIÓN VALLES CENTRALES
+Esta región está limitada  por ambas sierras y es una zona de tierras altas pero planas. Aquí vive la mayoría de la población oaxaqueña y en su territorio se localiza la capital del Estado. En los Valles Centrales el comercio y el turismo son actividades muy importantes. Está formada por siete distritos: Etla, Zaachila, Zimatlán, Centro, Tlacolula, Ejutla y Ocotlán.</mensaje>
+
+
+<mensaje id='es' num='99'>Pesca</mensaje>
+<mensaje id='en' num='99'>Pesca</mensaje>
+<mensaje id='pr' num='99'>Pesca</mensaje>
+<mensaje id='es' num='102'>Recursos forestales</mensaje>
+<mensaje id='en' num='102'>Recursos forestales</mensaje>
+<mensaje id='pr' num='102'>Recursos forestales</mensaje>
+<mensaje id='es' num='121'>Oyamel</mensaje>
+<mensaje id='en' num='121'>Oyamel</mensaje>
+<mensaje id='pr' num='121'>Oyamel</mensaje>
+<mensaje id='es' num='127'>Encino</mensaje>
+<mensaje id='en' num='127'>Encino</mensaje>
+<mensaje id='pr' num='127'>Encino</mensaje>
+<mensaje id='es' num='131'>Pino ocotero</mensaje>
+<mensaje id='en' num='131'>Pine</mensaje>
+<mensaje id='pr' num='131'>Pinho</mensaje>
+<mensaje id='es' num='135'>Agave</mensaje>
+<mensaje id='en' num='135'>Agave</mensaje>
+<mensaje id='pr' num='135'>Agave</mensaje>
+<mensaje id='es' num='157'>Fresno</mensaje>
+<mensaje id='en' num='157'>Caimán</mensaje>
+<mensaje id='pr' num='157'>Caimán</mensaje>
+<mensaje id='es' num='163'>Minería</mensaje>
+<mensaje id='en' num='163'>Minería</mensaje>
+<mensaje id='pr' num='163'>Minería</mensaje>
+<mensaje id='es' num='167'>Comercio</mensaje>
+<mensaje id='en' num='167'>Comercio</mensaje>
+<mensaje id='pr' num='167'>Comercio</mensaje>
+<mensaje id='es' num='170'>Turismo</mensaje>
+<mensaje id='en' num='170'>Turismo</mensaje>
+<mensaje id='pr' num='170'>Turismo</mensaje>
+<mensaje id='es' num='173'>Framboyan</mensaje>
+<mensaje id='en' num='173'>Framboyan</mensaje>
+<mensaje id='pr' num='173'>Framboyan</mensaje>
+<mensaje id='es' num='174'>Zapote</mensaje>
+<mensaje id='en' num='174'>Zapote</mensaje>
+<mensaje id='pr' num='174'>Zapote</mensaje>
+<mensaje id='es' num='175'>Cocos</mensaje>
+<mensaje id='en' num='175'>Cocos</mensaje>
+<mensaje id='pr' num='175'>Cocos</mensaje>
+<mensaje id='es' num='176'>Piña</mensaje>
+<mensaje id='en' num='176'>Piña</mensaje>
+<mensaje id='pr' num='176'>Piña</mensaje>
+
+<mensaje id='es' num='200'>Presa Miguel Alemán</mensaje>
+<mensaje id='en' num='200'>Presa Miguel Alemán</mensaje>
+<mensaje id='pr' num='200'>Presa Miguel Alemán</mensaje>
+<mensaje id='es' num='201'>Presa Cerro de Oro</mensaje>
+<mensaje id='en' num='201'>Presa Cerro de Oro</mensaje>
+<mensaje id='pr' num='201'>Presa Cerro de Oro</mensaje>
+<mensaje id='es' num='202'>Río Papaloapan</mensaje>
+<mensaje id='en' num='202'>Río Papaloapan</mensaje>
+<mensaje id='pr' num='202'>Río Papaloapan</mensaje>
+<mensaje id='es' num='203'>Río Cajonos</mensaje>
+<mensaje id='en' num='203'>Río Cajonos</mensaje>
+<mensaje id='pr' num='203'>Río Cajonos</mensaje>
+<mensaje id='es' num='204'>Río Trinidad</mensaje>
+<mensaje id='en' num='204'>Río Trinidad</mensaje>
+<mensaje id='pr' num='204'>Río Trinidad</mensaje>
+<mensaje id='es' num='205'>Río Jaltepec</mensaje>
+<mensaje id='en' num='205'>Río Jaltepec</mensaje>
+<mensaje id='pr' num='205'>Río Jaltepec</mensaje>
+<mensaje id='es' num='206'>Río El Corte</mensaje>
+<mensaje id='en' num='206'>Río El Corte</mensaje>
+<mensaje id='pr' num='206'>Río El Corte</mensaje>
+<mensaje id='es' num='207'>Río Uxpanapa</mensaje>
+<mensaje id='en' num='207'>Río Uxpanapa</mensaje>
+<mensaje id='pr' num='207'>Río Uxpanapa</mensaje>
+<mensaje id='es' num='208'>Río Negro</mensaje>
+<mensaje id='en' num='208'>Río Negro</mensaje>
+<mensaje id='pr' num='208'>Río Negro</mensaje>
+<mensaje id='es' num='209'>Río Chicapa</mensaje>
+<mensaje id='en' num='209'>Río Chicapa</mensaje>
+<mensaje id='pr' num='209'>Río Chicapa</mensaje>
+<mensaje id='es' num='210'>Río Ostuta</mensaje>
+<mensaje id='en' num='210'>Río Ostuta</mensaje>
+<mensaje id='pr' num='210'>Río Ostuta</mensaje>
+<mensaje id='es' num='211'>Laguna Superior</mensaje>
+<mensaje id='en' num='211'>Laguna Superior</mensaje>
+<mensaje id='pr' num='211'>Laguna Superior</mensaje>
+<mensaje id='es' num='212'>Laguna Inferior</mensaje>
+<mensaje id='en' num='212'>Laguna Inferior</mensaje>
+<mensaje id='pr' num='212'>Laguna Inferior</mensaje>
+<mensaje id='es' num='213'>Río Los Perros</mensaje>
+<mensaje id='en' num='213'>Río Los Perros</mensaje>
+<mensaje id='pr' num='213'>Río Los Perros</mensaje>
+<mensaje id='es' num='214'>Presa Benito Juárez</mensaje>
+<mensaje id='en' num='214'>Presa Benito Juárez</mensaje>
+<mensaje id='pr' num='214'>Presa Benito Juárez</mensaje>
+<mensaje id='es' num='215'>Río Tenango</mensaje>
+<mensaje id='en' num='215'>Río Tenango</mensaje>
+<mensaje id='pr' num='215'>Río Tenango</mensaje>
+<mensaje id='es' num='216'>Río Atoyac</mensaje>
+<mensaje id='en' num='216'>Río Atoyac</mensaje>
+<mensaje id='pr' num='216'>Río Atoyac</mensaje>
+<mensaje id='es' num='217'>Río Colotepec</mensaje>
+<mensaje id='en' num='217'>Río Colotepec</mensaje>
+<mensaje id='pr' num='217'>Río Colotepec</mensaje>
+<mensaje id='es' num='218'>Río Verde</mensaje>
+<mensaje id='en' num='218'>Río Verde</mensaje>
+<mensaje id='pr' num='218'>Río Verde</mensaje>
+<mensaje id='es' num='219'>Río La Arena</mensaje>
+<mensaje id='en' num='219'>Río La Arena</mensaje>
+<mensaje id='pr' num='219'>Río La Arena</mensaje>
+<mensaje id='es' num='220'>Río Cortijos</mensaje>
+<mensaje id='en' num='220'>Río Cortijos</mensaje>
+<mensaje id='pr' num='220'>Río Cortijos</mensaje>
+<mensaje id='es' num='221'>Río Mixteco</mensaje>
+<mensaje id='en' num='221'>Río Mixteco</mensaje>
+<mensaje id='pr' num='221'>Río Mixteco</mensaje>
+<mensaje id='es' num='222'>Río Yosocuta</mensaje>
+<mensaje id='en' num='222'>Río Yosocuta</mensaje>
+<mensaje id='pr' num='222'>Río Yosocuta</mensaje>
+<mensaje id='es' num='223'>Río Hondo</mensaje>
+<mensaje id='en' num='223'>Río Hondo</mensaje>
+<mensaje id='pr' num='223'>Río Hondo</mensaje>
+<mensaje id='es' num='224'>Río Salado</mensaje>
+<mensaje id='en' num='224'>Río Salado</mensaje>
+<mensaje id='pr' num='224'>Río Salado</mensaje>
+<mensaje id='es' num='225'>Río Atoyac Superior</mensaje>
+<mensaje id='en' num='225'>Río Atoyac Superior</mensaje>
+<mensaje id='pr' num='225'>Río Atoyac Superior</mensaje>
+
+<mensaje id='es' num='300'>Sierra Madre Oriental</mensaje>
+<mensaje id='en' num='300'>Sierra Madre Oriental</mensaje>
+<mensaje id='pr' num='300'>Sierra Madre Oriental</mensaje>
+<mensaje id='es' num='301'>Cerro Volcán Prieto</mensaje>
+<mensaje id='en' num='301'>Cerro Volcán Prieto</mensaje>
+<mensaje id='pr' num='301'>Cerro Volcán Prieto</mensaje>
+<mensaje id='es' num='302'>Sierra Atravesada</mensaje>
+<mensaje id='en' num='302'>Sierra Atravesada</mensaje>
+<mensaje id='pr' num='302'>Sierra Atravesada</mensaje>
+<mensaje id='es' num='303'>Cerro Yucuyacua</mensaje>
+<mensaje id='en' num='303'>Cerro Yucuyacua</mensaje>
+<mensaje id='pr' num='303'>Cerro Yucuyacua</mensaje>
+<mensaje id='es' num='304'>Cerro Piedra de Olla</mensaje>
+<mensaje id='en' num='304'>Cerro Piedra de Olla</mensaje>
+<mensaje id='pr' num='304'>Cerro Piedra de Olla</mensaje>
+<mensaje id='es' num='305'>Sierra Madre del Sur</mensaje>
+<mensaje id='en' num='305'>Sierra Madre del Sur</mensaje>
+<mensaje id='pr' num='305'>Sierra Madre del Sur</mensaje>
+<mensaje id='es' num='306'>Cerro Quiexoba</mensaje>
+<mensaje id='en' num='306'>Cerro Quiexoba</mensaje>
+<mensaje id='pr' num='306'>Cerro Quiexoba</mensaje>
+<mensaje id='es' num='307'>Cerro Humo Grande</mensaje>
+<mensaje id='en' num='307'>Cerro Humo Grande</mensaje>
+<mensaje id='pr' num='307'>Cerro Humo Grande</mensaje>
+
+<mensaje id='es' num='400'>Juxtlahuaca</mensaje>
+<mensaje id='en' num='400'>Juxtlahuaca</mensaje>
+<mensaje id='pr' num='400'>Juxtlahuaca</mensaje>
+<mensaje id='es' num='401'>Silacayoapan</mensaje>
+<mensaje id='en' num='401'>Silacayoapan</mensaje>
+<mensaje id='pr' num='401'>Silacayoapan</mensaje>
+<mensaje id='es' num='402'>Huajuapan</mensaje>
+<mensaje id='en' num='402'>Huajuapan</mensaje>
+<mensaje id='pr' num='402'>Huajuapan</mensaje>
+<mensaje id='es' num='403'>Coixtlahuaca</mensaje>
+<mensaje id='en' num='403'>Coixtlahuaca</mensaje>
+<mensaje id='pr' num='403'>Coixtlahuaca</mensaje>
+<mensaje id='es' num='404'>Teotitlán</mensaje>
+<mensaje id='en' num='404'>Teotitlán</mensaje>
+<mensaje id='pr' num='404'>Teotitlán</mensaje>
+<mensaje id='es' num='405'>Tuxtepec</mensaje>
+<mensaje id='en' num='405'>Tuxtepec</mensaje>
+<mensaje id='pr' num='405'>Tuxtepec</mensaje>
+<mensaje id='es' num='406'>Putla</mensaje>
+<mensaje id='en' num='406'>Putla</mensaje>
+<mensaje id='pr' num='406'>Putla</mensaje>
+<mensaje id='es' num='407'>Tlaxiaco</mensaje>
+<mensaje id='en' num='407'>Tlaxiaco</mensaje>
+<mensaje id='pr' num='407'>Tlaxiaco</mensaje>
+<mensaje id='es' num='408'>Nochixtlán</mensaje>
+<mensaje id='en' num='408'>Nochixtlán</mensaje>
+<mensaje id='pr' num='408'>Nochixtlán</mensaje>
+<mensaje id='es' num='409'>Ixtlán</mensaje>
+<mensaje id='en' num='409'>Ixtlán</mensaje>
+<mensaje id='pr' num='409'>Ixtlán</mensaje>
+<mensaje id='es' num='410'>Villa Alta</mensaje>
+<mensaje id='en' num='410'>Villa Alta</mensaje>
+<mensaje id='pr' num='410'>Villa Alta</mensaje>
+<mensaje id='es' num='411'>Choapan</mensaje>
+<mensaje id='en' num='411'>Choapan</mensaje>
+<mensaje id='pr' num='411'>Choapan</mensaje>
+<mensaje id='es' num='412'>Etla</mensaje>
+<mensaje id='en' num='412'>Etla</mensaje>
+<mensaje id='pr' num='412'>Etla</mensaje>
+<mensaje id='es' num='413'>Centro</mensaje>
+<mensaje id='en' num='413'>Centro</mensaje>
+<mensaje id='pr' num='413'>Centro</mensaje>
+<mensaje id='es' num='414'>Mixe</mensaje>
+<mensaje id='en' num='414'>Mixe</mensaje>
+<mensaje id='pr' num='414'>Mixe</mensaje>
+<mensaje id='es' num='415'>Zimatlán</mensaje>
+<mensaje id='en' num='415'>Zimatlán</mensaje>
+<mensaje id='pr' num='415'>Zimatlán</mensaje>
+<mensaje id='es' num='416'>Zaachila</mensaje>
+<mensaje id='en' num='416'>Zaachila</mensaje>
+<mensaje id='pr' num='416'>Zaachila</mensaje>
+<mensaje id='es' num='417'>Ocotlán</mensaje>
+<mensaje id='en' num='417'>Ocotlán</mensaje>
+<mensaje id='pr' num='417'>Ocotlán</mensaje>
+<mensaje id='es' num='418'>Tlacolula</mensaje>
+<mensaje id='en' num='418'>Tlacolula</mensaje>
+<mensaje id='pr' num='418'>Tlacolula</mensaje>
+<mensaje id='es' num='419'>Jamiltepec</mensaje>
+<mensaje id='en' num='419'>Jamiltepec</mensaje>
+<mensaje id='pr' num='419'>Jamiltepec</mensaje>
+<mensaje id='es' num='420'>Juquila</mensaje>
+<mensaje id='en' num='420'>Juquila</mensaje>
+<mensaje id='pr' num='420'>Juquila</mensaje>
+<mensaje id='es' num='421'>Sola de Vega</mensaje>
+<mensaje id='en' num='421'>Sola de Vega</mensaje>
+<mensaje id='pr' num='421'>Sola de Vega</mensaje>
+<mensaje id='es' num='422'>Ejutla</mensaje>
+<mensaje id='en' num='422'>Ejutla</mensaje>
+<mensaje id='pr' num='422'>Ejutla</mensaje>
+<mensaje id='es' num='423'>Miahuatlán</mensaje>
+<mensaje id='en' num='423'>Miahuatlán</mensaje>
+<mensaje id='pr' num='423'>Miahuatlán</mensaje>
+<mensaje id='es' num='424'>Yautepec</mensaje>
+<mensaje id='en' num='424'>Yautepec</mensaje>
+<mensaje id='pr' num='424'>Yautepec</mensaje>
+<mensaje id='es' num='425'>Tehuantepec</mensaje>
+<mensaje id='en' num='425'>Tehuantepec</mensaje>
+<mensaje id='pr' num='425'>Tehuantepec</mensaje>
+<mensaje id='es' num='426'>Juchitán</mensaje>
+<mensaje id='en' num='426'>Juchitán</mensaje>
+<mensaje id='pr' num='426'>Juchitán</mensaje>
+<mensaje id='es' num='427'>Pochutla</mensaje>
+<mensaje id='en' num='427'>Pochutla</mensaje>
+<mensaje id='pr' num='427'>Pochutla</mensaje>
+
+<mensaje id='es' num='500'>REGIÓN MIXTECA</mensaje>
+<mensaje id='en' num='500'>REGIÓN MIXTECA</mensaje>
+<mensaje id='pr' num='500'>REGIÓN MIXTECA</mensaje>
+<mensaje id='es' num='501'>REGIÓN CAÑADA</mensaje>
+<mensaje id='en' num='501'>REGIÓN CAÑADA</mensaje>
+<mensaje id='pr' num='501'>REGIÓN CAÑADA</mensaje>
+<mensaje id='es' num='502'>REGIÓN TUXTEPEC</mensaje>
+<mensaje id='en' num='502'>REGIÓN TUXTEPEC</mensaje>
+<mensaje id='pr' num='502'>REGIÓN TUXTEPEC</mensaje>
+<mensaje id='es' num='503'>REGIÓN SIERRA NORTE</mensaje>
+<mensaje id='en' num='503'>REGIÓN SIERRA NORTE</mensaje>
+<mensaje id='pr' num='503'>REGIÓN SIERRA NORTE</mensaje>
+<mensaje id='es' num='504'>REGIÓN VALLES CENTRALES</mensaje>
+<mensaje id='en' num='504'>REGIÓN VALLES CENTRALES</mensaje>
+<mensaje id='pr' num='504'>REGIÓN VALLES CENTRALES</mensaje>
+<mensaje id='es' num='505'>REGIÓN ISTMO</mensaje>
+<mensaje id='en' num='505'>REGIÓN ISTMO</mensaje>
+<mensaje id='pr' num='505'>REGIÓN ISTMO</mensaje>
+<mensaje id='es' num='506'>REGIÓN SIERRA SUR</mensaje>
+<mensaje id='en' num='506'>REGIÓN SIERRA SUR</mensaje>
+<mensaje id='pr' num='506'>REGIÓN SIERRA SUR</mensaje>
+<mensaje id='es' num='507'>REGIÓN COSTA</mensaje>
+<mensaje id='en' num='507'>REGIÓN COSTA</mensaje>
+<mensaje id='pr' num='507'>REGIÓN COSTA</mensaje>
+
+<mensaje id='es' num='600'>Iglesia de la Soledad</mensaje>
+<mensaje id='en' num='600'>Iglesia de la Soledad</mensaje>
+<mensaje id='pr' num='600'>Iglesia de la Soledad</mensaje>
+<mensaje id='es' num='601'>Zona arqueológica Monte Albán</mensaje>
+<mensaje id='en' num='601'>Zona arqueológica Monte Albán</mensaje>
+<mensaje id='pr' num='601'>Zona arqueológica Monte Albán</mensaje>
+<mensaje id='es' num='602'>Árbol del Tule</mensaje>
+<mensaje id='en' num='602'>Árbol del Tule</mensaje>
+<mensaje id='pr' num='602'>Árbol del Tule</mensaje>
+<mensaje id='es' num='603'>Convento de Cuilapan</mensaje>
+<mensaje id='en' num='603'>Convento de Cuilapan</mensaje>
+<mensaje id='pr' num='603'>Convento de Cuilapan</mensaje>
+<mensaje id='es' num='604'>Mitla</mensaje>
+<mensaje id='en' num='604'>Mitla</mensaje>
+<mensaje id='pr' num='604'>Mitla</mensaje>
+<mensaje id='es' num='605'>Puerto Escondido</mensaje>
+<mensaje id='en' num='605'>Puerto Escondido</mensaje>
+<mensaje id='pr' num='605'>Puerto Escondido</mensaje>
+<mensaje id='es' num='606'>Puerto Ángel</mensaje>
+<mensaje id='en' num='606'>Puerto Ángel</mensaje>
+<mensaje id='pr' num='606'>Puerto Ángel</mensaje>
+<mensaje id='es' num='607'>Huatulco</mensaje>
+<mensaje id='en' num='607'>Huatulco</mensaje>
+<mensaje id='pr' num='607'>Huatulco</mensaje>
+
+<mensaje id='es' num='608'>Cuicatlán</mensaje>
+<mensaje id='en' num='608'>Cuicatlán</mensaje>
+<mensaje id='pr' num='608'>Cuicatlán</mensaje>
+
+</mensajes>

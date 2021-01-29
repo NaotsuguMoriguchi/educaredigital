@@ -1,0 +1,13 @@
+www.swo.educaredigital.com
+
+
+change folder:
+	map_1 // Color 1
+	map_2 // Color 2
+	map_3 // Color 3
+	map_4 // Color 4
+
+	map_w // 
+	mount //
+	river_min //
+	selmap //

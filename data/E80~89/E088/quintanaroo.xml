@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">Quintana Roo fue elevada a la categoría de Estado hasta 1974. Su población está  compuesta  por mayas y otomíes.</mensaje>
+<mensaje id="en" num="1">Quintana Roo fue elevada a la categoría de Estado hasta 1974. Su población está  compuesta  por mayas y otomíes.</mensaje>
+<mensaje id="pr" num="1">Quintana Roo fue elevada a la categoría de Estado hasta 1974. Su población está  compuesta  por mayas y otomíes.</mensaje>
+
+<mensaje id="es" num="2">Este Estado lleva ese nombre en honor a Don Andrés Quintana Roo y esposo de Leona Vicario quien participó en la Independencia de México.</mensaje>
+<mensaje id="en" num="2">Este Estado lleva ese nombre en honor a Don Andrés Quintana Roo y esposo de Leona Vicario quien participó en la Independencia de México.</mensaje>
+<mensaje id="pr" num="2">Este Estado lleva ese nombre en honor a Don Andrés Quintana Roo y esposo de Leona Vicario quien participó en la Independencia de México.</mensaje>
+
+<mensaje id="es" num="3">Las tierras de Quintana Roo formaban parte del gran Imperio Maya hasta que fue erigido Estado libre y soberano.</mensaje>
+<mensaje id="en" num="3">Las tierras de Quintana Roo formaban parte del gran Imperio Maya hasta que fue erigido Estado libre y soberano.</mensaje>
+<mensaje id="pr" num="3">Las tierras de Quintana Roo formaban parte del gran Imperio Maya hasta que fue erigido Estado libre y soberano.</mensaje>
+
+<mensaje id="es" num="4">Cancún se ha distinguido por la instalación de hoteles y playas de recreo como la Playa del Chac–Mol, la de Tortugas y los arrecifes de Yal–ku, lugares preferidos del turismo.</mensaje>
+<mensaje id="en" num="4">Cancún se ha distinguido por la instalación de hoteles y playas de recreo como la Playa del Chac–Mol, la de Tortugas y los arrecifes de Yal–ku, lugares preferidos del turismo.</mensaje>
+<mensaje id="pr" num="4">Cancún se ha distinguido por la instalación de hoteles y playas de recreo como la Playa del Chac–Mol, la de Tortugas y los arrecifes de Yal–ku, lugares preferidos del turismo.</mensaje>
+
+<mensaje id="es" num="5">Las ruinas arqueológicas de Tulum ofrecen una maravillosa vista del Mar Caribe; también se conservan las ruinas de El Castillo y el Templo de los Frescos.</mensaje>
+<mensaje id="en" num="5">Las ruinas arqueológicas de Tulum ofrecen una maravillosa vista del Mar Caribe; también se conservan las ruinas de El Castillo y el Templo de los Frescos.</mensaje>
+<mensaje id="pr" num="5">Las ruinas arqueológicas de Tulum ofrecen una maravillosa vista del Mar Caribe; también se conservan las ruinas de El Castillo y el Templo de los Frescos.</mensaje>
+
+<mensaje id="es" num="6">En Isla Mujeres se encuentra el Templo maya de Ix–chel junto al mar. Esta isla mide aproximadamente 6 km. de largo por 2 km. de ancho y tiene un faro en su extremo sur.</mensaje>
+<mensaje id="en" num="6">En Isla Mujeres se encuentra el Templo maya de Ix–chel junto al mar. Esta isla mide aproximadamente 6 km. de largo por 2 km. de ancho y tiene un faro en su extremo sur.</mensaje>
+<mensaje id="pr" num="6">En Isla Mujeres se encuentra el Templo maya de Ix–chel junto al mar. Esta isla mide aproximadamente 6 km. de largo por 2 km. de ancho y tiene un faro en su extremo sur.</mensaje>
+
+<mensaje id="es" num="7">En la isla de Cozumel existe un muelle fiscal y el atracadero de lanchas y cruceros con visitantes nacionales y extranjeros.</mensaje>
+<mensaje id="en" num="7">En la isla de Cozumel existe un muelle fiscal y el atracadero de lanchas y cruceros con visitantes nacionales y extranjeros.</mensaje>
+<mensaje id="pr" num="7">En la isla de Cozumel existe un muelle fiscal y el atracadero de lanchas y cruceros con visitantes nacionales y extranjeros.</mensaje>
+
+<mensaje id="es" num="8">La industria de mayor desarrollo en Quintana Roo es la pesquera ya que hay especies comestibles e industriales en abundancia.</mensaje>
+<mensaje id="en" num="8">La industria de mayor desarrollo en Quintana Roo es la pesquera ya que hay especies comestibles e industriales en abundancia.</mensaje>
+<mensaje id="pr" num="8">La industria de mayor desarrollo en Quintana Roo es la pesquera ya que hay especies comestibles e industriales en abundancia.</mensaje>
+
+<mensaje id="es" num="9">Sus principales poblados son Cozumel, Isla Mujeres, Cancún, Tulum, Akumal y Xel–ha.</mensaje>
+<mensaje id="en" num="9">Sus principales poblados son Cozumel, Isla Mujeres, Cancún, Tulum, Akumal y Xel–ha.</mensaje>
+<mensaje id="pr" num="9">Sus principales poblados son Cozumel, Isla Mujeres, Cancún, Tulum, Akumal y Xel–ha.</mensaje>
+
+<mensaje id="es" num="10">Dadas las características físicas de Quintana Roo solamente cuenta con tierras de labor cerca de las poblaciones, produciendo coco de aceite, coco de agua, camote  y yuca.</mensaje>
+<mensaje id="en" num="10">Dadas las características físicas de Quintana Roo solamente cuenta con tierras de labor cerca de las poblaciones, produciendo coco de aceite, coco de agua, camote  y yuca.</mensaje>
+<mensaje id="pr" num="10">Dadas las características físicas de Quintana Roo solamente cuenta con tierras de labor cerca de las poblaciones, produciendo coco de aceite, coco de agua, camote  y yuca.</mensaje>
+
+<mensaje id="es" num="11">Golfo de México</mensaje>
+<mensaje id="en" num="11">Golf of Mexico</mensaje>
+<mensaje id="pr" num="11">Golfo de México</mensaje>
+
+<mensaje id="es" num="12">Mar Caribe</mensaje>
+<mensaje id="en" num="12">Caribbean Sea</mensaje>
+<mensaje id="pr" num="12">Mar Caribe</mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id="es" num="39">BENITO JUÁREZ
+Se encuentra al sur del municipio de Isla mujeres. Su cabecera es la ciudad de Cancún. Es el principal centro turístico y comercial del Estado así como el que cuenta con el mayor número de población. Esta es la actividad principal del municipio, es el primer centro turístico del Estado y el primer destino de playas a nivel nacional. Alrededor de 2.5 millones de visitantes arriban a Cancún al año, principalmente por vía aérea; por ser un polo de desarrollo turístico, cuenta con alimentos de todo el país, cocina internacional que incluye platillos asiáticos; además es posible disfrutar de manjares elaborados a base de los productos pesqueros de la región, como son langosta, camarón y caracol. 
+Actividades productivas; pesca de autoconsumo y ganado vacuno.
+</mensaje>
+
+<mensaje id="en" num="39">BENITO JUÁREZ
+Se encuentra al sur del municipio de Isla mujeres. Su cabecera es la ciudad de Cancún. Es el principal centro turístico y comercial del Estado así como el que cuenta con el mayor número de población. Esta es la actividad principal del municipio, es el primer centro turístico del Estado y el primer destino de playas a nivel nacional. Alrededor de 2.5 millones de visitantes arriban a Cancún al año, principalmente por vía aérea; por ser un polo de desarrollo turístico, cuenta con alimentos de todo el país, cocina internacional que incluye platillos asiáticos; además es posible disfrutar de manjares elaborados a base de los productos pesqueros de la región, como son langosta, camarón y caracol. 
+Actividades productivas; pesca de autoconsumo y ganado vacuno.
+</mensaje>
+
+<mensaje id="pr" num="39">BENITO JUÁREZ
+Se encuentra al sur del municipio de Isla mujeres. Su cabecera es la ciudad de Cancún. Es el principal centro turístico y comercial del Estado así como el que cuenta con el mayor número de población. Esta es la actividad principal del municipio, es el primer centro turístico del Estado y el primer destino de playas a nivel nacional. Alrededor de 2.5 millones de visitantes arriban a Cancún al año, principalmente por vía aérea; por ser un polo de desarrollo turístico, cuenta con alimentos de todo el país, cocina internacional que incluye platillos asiáticos; además es posible disfrutar de manjares elaborados a base de los productos pesqueros de la región, como son langosta, camarón y caracol. 
+Actividades productivas; pesca de autoconsumo y ganado vacuno.
+</mensaje>
+
+<mensaje id="es" num="40">COZUMEL
+Este municipio abarca la isla de Cozumel e islotes cercanos así como dos zonas continentales que incluyen el parque ecológico de Xel-Há. La cabecera es la ciudad de Cozumel. Esta isla es una de las más grandes del país y tiene relevancia sus atractivos turísticos. Los principales recursos del municipio son sus playas y mar cristalino y sus arrecifes de coral que atraen a visitantes nacionales e internacionales, también cuenta con abundantes recursos pesqueros. Aunque no es explotada, se cuenta con suelos aptos para la agricultura y fruticultura.
+Actividades productivas; explotación forestal y pesca.
+</mensaje>
+
+<mensaje id="en" num="40">COZUMEL
+Este municipio abarca la isla de Cozumel e islotes cercanos así como dos zonas continentales que incluyen el parque ecológico de Xel-Há. La cabecera es la ciudad de Cozumel. Esta isla es una de las más grandes del país y tiene relevancia sus atractivos turísticos. Los principales recursos del municipio son sus playas y mar cristalino y sus arrecifes de coral que atraen a visitantes nacionales e internacionales, también cuenta con abundantes recursos pesqueros. Aunque no es explotada, se cuenta con suelos aptos para la agricultura y fruticultura.
+Actividades productivas; explotación forestal y pesca.
+</mensaje>
+
+<mensaje id="pr" num="40">COZUMEL
+Este municipio abarca la isla de Cozumel e islotes cercanos así como dos zonas continentales que incluyen el parque ecológico de Xel-Há. La cabecera es la ciudad de Cozumel. Esta isla es una de las más grandes del país y tiene relevancia sus atractivos turísticos. Los principales recursos del municipio son sus playas y mar cristalino y sus arrecifes de coral que atraen a visitantes nacionales e internacionales, también cuenta con abundantes recursos pesqueros. Aunque no es explotada, se cuenta con suelos aptos para la agricultura y fruticultura.
+Actividades productivas; explotación forestal y pesca.
+</mensaje>
+
+<mensaje id="es" num="41">FELIPE CARRILLO PUERTO
+Su cabecera es la ciudad del mismo nombre, se localiza en el centro del Estado y es el municipio con el mayor número de habitantes  de origen maya. Entre las danzas tradicionales están el baile de la cabeza de cochino, otro baile  es  La Cinta.También  son  comunes  las  jaranas  de  influencia yucateca, que se bailan en las Vaquerías, fiestas populares que se realizan generalmente en honor de los santos patronos.Se fabrican artesanías a base de bejuco, en el resto del municipio es común la fabricación de ropa tradicional con bordados a mano, como los huipiles.  
+Actividades productivas;  pesca, recursos forestales,  agricultura maíz y ganadería.
+</mensaje>
+
+<mensaje id="en" num="41">FELIPE CARRILLO PUERTO
+Su cabecera es la ciudad del mismo nombre, se localiza en el centro del Estado y es el municipio con el mayor número de habitantes  de origen maya. Entre las danzas tradicionales están el baile de la cabeza de cochino, otro baile  es  La Cinta.   También  son  comunes  las  jaranas  de  influencia yucateca, que se bailan en las Vaquerías, fiestas populares que se realizan generalmente en honor de los santos patronos.Se fabrican artesanías a base de bejuco, en el resto del municipio es común la fabricación de ropa tradicional con bordados a mano, como los huipiles.  
+Actividades productivas;  pesca, recursos forestales,  agricultura maíz y ganadería.
+</mensaje>
+
+<mensaje id="pr" num="41">FELIPE CARRILLO PUERTO
+Su cabecera es la ciudad del mismo nombre, se localiza en el centro del Estado y es el municipio con el mayor número de habitantes  de origen maya. Entre las danzas tradicionales están el baile de la cabeza de cochino, otro baile  es  La Cinta.  También  son  comunes  las  jaranas  de  influencia yucateca, que se bailan en las Vaquerías, fiestas populares que se realizan generalmente en honor de los santos patronos.Se fabrican artesanías a base de bejuco, en el resto del municipio es común la fabricación de ropa tradicional con bordados a mano, como los huipiles.  
+Actividades productivas;  pesca, recursos forestales,  agricultura maíz y ganadería.
+</mensaje>
+
+<mensaje id="es" num="42">ISLA MUJERES
+Se ubica al norte del municipio de Benito Juárez, abarca la isla y parte continental. Su cabecera es la ciudad del mismo nombre, el municipio basa su economía en la pesca y el turismo. Es el lugar del país en donde alumbra primero el sol. La actividad más importante del municipio, se concentra principalmente en Isla Mujeres, la costa continental e Isla Contoy. Existen 33 establecimientos hoteleros con 848 cuartos. Se tiene un gran potencial en la zona continental que aún no ha sido explotada, pero requiere un especial cuidado para no dañar el equilibrio ecológico. Las artesanías son elaboradas a base de conchas marinas, corales y otros materiales del mar. 
+Actividades productivas; ganadería y pesca.</mensaje>
+
+<mensaje id="en" num="42">ISLA MUJERES
+Se ubica al norte del municipio de Benito Juárez, abarca la isla y parte continental. Su cabecera es la ciudad del mismo nombre, el municipio basa su economía en la pesca y el turismo. Es el lugar del país en donde alumbra primero el sol. La actividad más importante del municipio, se concentra principalmente en Isla Mujeres, la costa continental e Isla Contoy. Existen 33 establecimientos hoteleros con 848 cuartos. Se tiene un gran potencial en la zona continental que aún no ha sido explotada, pero requiere un especial cuidado para no dañar el equilibrio ecológico. Las artesanías son elaboradas a base de conchas marinas, corales y otros materiales del mar. 
+Actividades productivas; ganadería y pesca.</mensaje>
+
+<mensaje id="pr" num="42">ISLA MUJERES
+Se ubica al norte del municipio de Benito Juárez, abarca la isla y parte continental. Su cabecera es la ciudad del mismo nombre, el municipio basa su economía en la pesca y el turismo. Es el lugar del país en donde alumbra primero el sol. La actividad más importante del municipio, se concentra principalmente en Isla Mujeres, la costa continental e Isla Contoy. Existen 33 establecimientos hoteleros con 848 cuartos. Se tiene un gran potencial en la zona continental que aún no ha sido explotada, pero requiere un especial cuidado para no dañar el equilibrio ecológico. Las artesanías son elaboradas a base de conchas marinas, corales y otros materiales del mar. 
+Actividades productivas; ganadería y pesca.</mensaje>
+
+<mensaje id="es" num="43">JOSÉ MARÍA MORELOS
+Colinda con los Estados de Yucatán y Campeche, su cabecera es la ciudad del mismo nombre. La agricultura es la principal actividad económica del municipio, produce maíz, sandia y cítricos. La comida tradicional tiene como base la utilización de animales silvestres como el jabalí, venado, faisán, etc, preparados en pibil, que son horneados bajo tierra. Destaca en la artesanía la producción  de diferentes objetos tejidos con palma, cestos y otros utensilios tejidos con paja, hamacas y huipiles bordados a mano.
+Actividades productivas; recursos forestales.</mensaje>
+<mensaje id="en" num="43">JOSÉ MARÍA MORELOS
+Colinda con los Estados de Yucatán y Campeche, su cabecera es la ciudad del mismo nombre. La agricultura es la principal actividad económica del municipio, produce maíz, sandia y cítricos. La comida tradicional tiene como base la utilización de animales silvestres como el jabalí, venado, faisán, etc, preparados en pibil, que son horneados bajo tierra. Destaca en la artesanía la producción  de diferentes objetos tejidos con palma, cestos y otros utensilios tejidos con paja, hamacas y huipiles bordados a mano.
+Actividades productivas; recursos forestales.</mensaje>
+<mensaje id="pr" num="43">JOSÉ MARÍA MORELOS
+Colinda con los Estados de Yucatán y Campeche, su cabecera es la ciudad del mismo nombre. La agricultura es la principal actividad económica del municipio, produce maíz, sandia y cítricos. La comida tradicional tiene como base la utilización de animales silvestres como el jabalí, venado, faisán, etc, preparados en pibil, que son horneados bajo tierra. Destaca en la artesanía la producción  de diferentes objetos tejidos con palma, cestos y otros utensilios tejidos con paja, hamacas y huipiles bordados a mano.
+Actividades productivas; recursos forestales.</mensaje>
+
+<mensaje id="es" num="44">LÁZARO CÁRDENAS
+Su cabecera es Kantunilkín y sus habitantes son de origen maya se dedican  a la agricultura y ganadería. Parte de la población se dedica a la pesca de consumo autoconsumo y se realiza en las aguas que rodean a Holbox. Los principales recursos naturales del municipio son los pesqueros, forestales y las playas para la explotación turística. Los suelos no son muy aptos para la agricultura, aunque es posible su utilización para fines pecuarios. En diciembre se celebra la fiesta de la Virgen de la Concepción, en abril la Fiesta de San Joaquín, patrono de Holbox. Existen tradiciones mayas como el Lol cah en la que se santigua al pueblo con rezos mayas; la siembra de la Ceiba, que es el árbol sagrado; las ofrendas al dios Chac, de la lluvia, para evitar las sequías. 
+Actividades productivas; pesca de autoconsumo, maíz y ganadería.</mensaje>
+<mensaje id="en" num="44">LÁZARO CÁRDENAS
+Su cabecera es Kantunilkín y sus habitantes son de origen maya se dedican  a la agricultura y ganadería. Parte de la población se dedica a la pesca de consumo autoconsumo y se realiza en las aguas que rodean a Holbox. Los principales recursos naturales del municipio son los pesqueros, forestales y las playas para la explotación turística. Los suelos no son muy aptos para la agricultura, aunque es posible su utilización para fines pecuarios. En diciembre se celebra la fiesta de la Virgen de la Concepción, en abril la Fiesta de San Joaquín, patrono de Holbox. Existen tradiciones mayas como el Lol cah en la que se santigua al pueblo con rezos mayas; la siembra de la Ceiba, que es el árbol sagrado; las ofrendas al dios Chac, de la lluvia, para evitar las sequías. 
+Actividades productivas; pesca de autoconsumo, maíz y ganadería.</mensaje>
+<mensaje id="pr" num="44">LÁZARO CÁRDENAS
+Su cabecera es Kantunilkín y sus habitantes son de origen maya se dedican  a la agricultura y ganadería. Parte de la población se dedica a la pesca de consumo autoconsumo y se realiza en las aguas que rodean a Holbox. Los principales recursos naturales del municipio son los pesqueros, forestales y las playas para la explotación turística. Los suelos no son muy aptos para la agricultura, aunque es posible su utilización para fines pecuarios. En diciembre se celebra la fiesta de la Virgen de la Concepción, en abril la Fiesta de San Joaquín, patrono de Holbox. Existen tradiciones mayas como el Lol cah en la que se santigua al pueblo con rezos mayas; la siembra de la Ceiba, que es el árbol sagrado; las ofrendas al dios Chac, de la lluvia, para evitar las sequías. 
+Actividades productivas; pesca de autoconsumo, maíz y ganadería.</mensaje>
+
+<mensaje id="es" num="45">OTHÓN POMPEYO BLANCO
+Es el municipio de mayor extensión en el Estado. Limita con Belice y Guatemala, Chetumal es su cabecera y capital del Estado. Destaca por sus modernas instalaciones el llamado Museo de la Cultura Maya, donde en forma interactiva el visitante conoce los detalles de los asentamientos de esta gran cultura prehispánica. La tradición musical de esta región está compuesta por influencia del vecino Estado de Yucatán, con la trova y las jaranas y por otra parte con la soca, el reggae y el calipso de Belice.
+Se practica la agricultura en buena parte de la zona, se tiene una región  cañera importante y se cultiva también arroz y productos hortofrutícolas, entre los que destaca el chile jalapeño. 
+Basa su economía en el comercio y en la producción agropecuaria con cultivos de maíz, arroz, azúcar y maderables.</mensaje>
+<mensaje id="en" num="45">OTHÓN POMPEYO BLANCO
+Es el municipio de mayor extensión en el Estado. Limita con Belice y Guatemala, Chetumal es su cabecera y capital del Estado. Destaca por sus modernas instalaciones el llamado Museo de la Cultura Maya, donde en forma interactiva el visitante conoce los detalles de los asentamientos de esta gran cultura prehispánica. La tradición musical de esta región está compuesta por influencia del vecino Estado de Yucatán, con la trova y las jaranas y por otra parte con la soca, el reggae y el calipso de Belice.
+Se practica la agricultura en buena parte de la zona, se tiene una región  cañera importante y se cultiva también arroz y productos hortofrutícolas, entre los que destaca el chile jalapeño. 
+Basa su economía en el comercio y en la producción agropecuaria con cultivos de maíz, arroz, azúcar y maderables.</mensaje>
+<mensaje id="pr" num="45">OTHÓN POMPEYO BLANCO
+Es el municipio de mayor extensión en el Estado. Limita con Belice y Guatemala, Chetumal es su cabecera y capital del Estado. Destaca por sus modernas instalaciones el llamado Museo de la Cultura Maya, donde en forma interactiva el visitante conoce los detalles de los asentamientos de esta gran cultura prehispánica. La tradición musical de esta región está compuesta por influencia del vecino Estado de Yucatán, con la trova y las jaranas y por otra parte con la soca, el reggae y el calipso de Belice.
+Se practica la agricultura en buena parte de la zona, se tiene una región  cañera importante y se cultiva también arroz y productos hortofrutícolas, entre los que destaca el chile jalapeño. 
+Basa su economía en el comercio y en la producción agropecuaria con cultivos de maíz, arroz, azúcar y maderables.</mensaje>
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+<mensaje id="es" num="52">SOLIDARIDAD
+Es el municipio más joven, su cabecera municipal es la ciudad de playa del Carmen.
+Se forma con la parte continental de pertenecía al municipio de Cozumel. Constituye la principal actividad del municipio y se localiza en toda la costa, conocida como la Riviera Maya. Se elaboran artesanías de madera, palma, piedra caliza, resina y bordados a mano en la elaboración de vestimentas tradicionales. Los principales platillos se componen de mariscos y pescado, además del auge de la comida internacional en los centros turísticos. En la zona rural se mantiene la tradición de la comida maya a base de caza de monte y con gran influencia yucateca en la preparación.
+Actividad económica; forestal, ganado y pesca.</mensaje>
+<mensaje id="en" num="52">SOLIDARIDAD
+Es el municipio más joven, su cabecera municipal es la ciudad de playa del Carmen.
+Se forma con la parte continental de pertenecía al municipio de Cozumel. Constituye la principal actividad del municipio y se localiza en toda la costa, conocida como la Riviera Maya. Se elaboran artesanías de madera, palma, piedra caliza, resina y bordados a mano en la elaboración de vestimentas tradicionales. Los principales platillos se componen de mariscos y pescado, además del auge de la comida internacional en los centros turísticos. En la zona rural se mantiene la tradición de la comida maya a base de caza de monte y con gran influencia yucateca en la preparación.
+Actividad económica; forestal, ganado y pesca.</mensaje>
+<mensaje id="pr" num="52">SOLIDARIDAD
+Es el municipio más joven, su cabecera municipal es la ciudad de playa del Carmen.
+Se forma con la parte continental de pertenecía al municipio de Cozumel. Constituye la principal actividad del municipio y se localiza en toda la costa, conocida como la Riviera Maya. Se elaboran artesanías de madera, palma, piedra caliza, resina y bordados a mano en la elaboración de vestimentas tradicionales. Los principales platillos se componen de mariscos y pescado, además del auge de la comida internacional en los centros turísticos. En la zona rural se mantiene la tradición de la comida maya a base de caza de monte y con gran influencia yucateca en la preparación.
+Actividad económica; forestal, ganado y pesca.</mensaje>
+
+
+<mensaje id='es' num='95'>Ganadería</mensaje>
+<mensaje id='en' num='95'>Ganadería</mensaje>
+<mensaje id='pr' num='95'>Ganadería</mensaje>
+<mensaje id='es' num='96'>Maíz</mensaje>
+<mensaje id='en' num='96'>Maíz</mensaje>
+<mensaje id='pr' num='96'>Maíz</mensaje>
+<mensaje id='es' num='99'>Pesca</mensaje>
+<mensaje id='en' num='99'>Pesca</mensaje>
+<mensaje id='pr' num='99'>Pesca</mensaje>
+<mensaje id='es' num='125'>Agricultura</mensaje>
+<mensaje id='en' num='125'>Agricultura</mensaje>
+<mensaje id='pr' num='125'>Agricultura</mensaje>
+<mensaje id='es' num='102'>Recursos forestales</mensaje>
+<mensaje id='en' num='102'>Recursos forestales</mensaje>
+<mensaje id='pr' num='102'>Recursos forestales</mensaje>
+<mensaje id='es' num='109'>Arroz</mensaje>
+<mensaje id='en' num='109'>Arroz</mensaje>
+<mensaje id='pr' num='109'>Arroz</mensaje>
+<mensaje id='es' num='110'>Caña de azúcar</mensaje>
+<mensaje id='en' num='110'>Caña de azúcar</mensaje>
+<mensaje id='pr' num='110'>Caña de azúcar</mensaje>
+
+<mensaje id='es' num='200'>Río Hondo</mensaje>
+<mensaje id='en' num='200'>Río Hondo</mensaje>
+<mensaje id='pr' num='200'>Río Hondo</mensaje>
+<mensaje id='es' num='201'>Laguna Yalahau</mensaje>
+<mensaje id='en' num='201'>Laguna Yalahau</mensaje>
+<mensaje id='pr' num='201'>Laguna Yalahau</mensaje>
+<mensaje id='es' num='202'>Laguna Nichupté</mensaje>
+<mensaje id='en' num='202'>Laguna Nichupté</mensaje>
+<mensaje id='pr' num='202'>Laguna Nichupté</mensaje>
+<mensaje id='es' num='203'>Laguna Chichancanab</mensaje>
+<mensaje id='en' num='203'>Laguna Chichancanab</mensaje>
+<mensaje id='pr' num='203'>Laguna Chichancanab</mensaje>
+<mensaje id='es' num='204'>Laguna Esmeralda</mensaje>
+<mensaje id='en' num='204'>Laguna Esmeralda</mensaje>
+<mensaje id='pr' num='204'>Laguna Esmeralda</mensaje>
+<mensaje id='es' num='205'>Laguna La Virtud</mensaje>
+<mensaje id='en' num='205'>Laguna La Virtud</mensaje>
+<mensaje id='pr' num='205'>Laguna La Virtud</mensaje>
+<mensaje id='es' num='206'>Laguna San Felipe</mensaje>
+<mensaje id='en' num='206'>Laguna San Felipe</mensaje>
+<mensaje id='pr' num='206'>Laguna San Felipe</mensaje>
+<mensaje id='es' num='207'>Laguna Bacalar</mensaje>
+<mensaje id='en' num='207'>Laguna Bacalar</mensaje>
+<mensaje id='pr' num='207'>Laguna Bacalar</mensaje>
+<mensaje id='es' num='208'>Laguna K'an xul</mensaje>
+<mensaje id='en' num='208'>Laguna K'an xul</mensaje>
+<mensaje id='pr' num='208'>Laguna K'an xul</mensaje>
+<mensaje id='es' num='209'>Laguna Salada</mensaje>
+<mensaje id='en' num='209'>Laguna Salada</mensaje>
+<mensaje id='pr' num='209'>Laguna Salada</mensaje>
+<mensaje id='es' num='210'>Laguna Guerrero</mensaje>
+<mensaje id='en' num='210'>Laguna Guerrero</mensaje>
+<mensaje id='pr' num='210'>Laguna Guerrero</mensaje>
+<mensaje id='es' num='211'>Laguna Milagros</mensaje>
+<mensaje id='en' num='211'>Laguna Milagros</mensaje>
+<mensaje id='pr' num='211'>Laguna Milagros</mensaje>
+
+
+<mensaje id='es' num='300'>200 metros</mensaje>
+<mensaje id='en' num='300'>200 metros</mensaje>
+<mensaje id='pr' num='300'>200 metros</mensaje>
+<mensaje id='es' num='301'>150 metros</mensaje>
+<mensaje id='en' num='301'>150 metros</mensaje>
+<mensaje id='pr' num='301'>150 metros</mensaje>
+<mensaje id='es' num='302'>100 metros</mensaje>
+<mensaje id='en' num='302'>100 metros</mensaje>
+<mensaje id='pr' num='302'>100 metros</mensaje>
+<mensaje id='es' num='303'>50 metros</mensaje>
+<mensaje id='en' num='303'>50 metros</mensaje>
+<mensaje id='pr' num='303'>50 metros</mensaje>
+<mensaje id='es' num='304'>10 metros</mensaje>
+<mensaje id='en' num='304'>10 metros</mensaje>
+<mensaje id='pr' num='304'>10 metros</mensaje>
+
+
+<mensaje id='es' num='400'>Ingenio Álvaro Obregón</mensaje>
+<mensaje id='en' num='400'>Ingenio Álvaro Obregón</mensaje>
+<mensaje id='pr' num='400'>Ingenio Álvaro Obregón</mensaje>
+<mensaje id='es' num='401'>Nicolás Bravo</mensaje>
+<mensaje id='en' num='401'>Nicolás Bravo</mensaje>
+<mensaje id='pr' num='401'>Nicolás Bravo</mensaje>
+<mensaje id='es' num='402'>Álvaro Obregón</mensaje>
+<mensaje id='en' num='402'>Álvaro Obregón</mensaje>
+<mensaje id='pr' num='402'>Álvaro Obregón</mensaje>
+<mensaje id='es' num='403'>Sergio Buitrón Casas</mensaje>
+<mensaje id='en' num='403'>Sergio Buitrón Casas</mensaje>
+<mensaje id='pr' num='403'>Sergio Buitrón Casas</mensaje>
+<mensaje id='es' num='404'>Chetumal</mensaje>
+<mensaje id='en' num='404'>Chetumal</mensaje>
+<mensaje id='pr' num='404'>Chetumal</mensaje>
+<mensaje id='es' num='405'>Mayabalam</mensaje>
+<mensaje id='en' num='405'>Mayabalam</mensaje>
+<mensaje id='pr' num='405'>Mayabalam</mensaje>
+<mensaje id='es' num='406'>Bacalar</mensaje>
+<mensaje id='en' num='406'>Bacalar</mensaje>
+<mensaje id='pr' num='406'>Bacalar</mensaje>
+<mensaje id='es' num='407'>Calderitas</mensaje>
+<mensaje id='en' num='407'>Calderitas</mensaje>
+<mensaje id='pr' num='407'>Calderitas</mensaje>
+<mensaje id='es' num='408'>José María Morelos</mensaje>
+<mensaje id='en' num='408'>José María Morelos</mensaje>
+<mensaje id='pr' num='408'>José María Morelos</mensaje>
+<mensaje id='es' num='409'>Chunhuhub</mensaje>
+<mensaje id='en' num='409'>Chunhuhub</mensaje>
+<mensaje id='pr' num='409'>Chunhuhub</mensaje>
+<mensaje id='es' num='410'>Felipe Carrillo Puerto</mensaje>
+<mensaje id='en' num='410'>Felipe Carrillo Puerto</mensaje>
+<mensaje id='pr' num='410'>Felipe Carrillo Puerto</mensaje>
+<mensaje id='es' num='411'>Tihosuco</mensaje>
+<mensaje id='en' num='411'>Tihosuco</mensaje>
+<mensaje id='pr' num='411'>Tihosuco</mensaje>
+<mensaje id='es' num='412'>Kantunilkín</mensaje>
+<mensaje id='en' num='412'>Kantunilkín</mensaje>
+<mensaje id='pr' num='412'>Kantunilkín</mensaje>
+<mensaje id='es' num='413'>Playa del Carmen</mensaje>
+<mensaje id='en' num='413'>Playa del Carmen</mensaje>
+<mensaje id='pr' num='413'>Playa del Carmen</mensaje>
+<mensaje id='es' num='414'>Alfredo V. Bonfil</mensaje>
+<mensaje id='en' num='414'>Alfredo V. Bonfil</mensaje>
+<mensaje id='pr' num='414'>Alfredo V. Bonfil</mensaje>
+<mensaje id='es' num='415'>Cancún</mensaje>
+<mensaje id='en' num='415'>Cancún</mensaje>
+<mensaje id='pr' num='415'>Cancún</mensaje>
+<mensaje id='es' num='416'>Isla Mujeres</mensaje>
+<mensaje id='en' num='416'>Isla Mujeres</mensaje>
+<mensaje id='pr' num='416'>Isla Mujeres</mensaje>
+<mensaje id='es' num='417'>Cozumel</mensaje>
+<mensaje id='en' num='417'>Cozumel</mensaje>
+<mensaje id='pr' num='417'>Cozumel</mensaje>
+
+<mensaje id='es' num='500'>BENITO JUÁREZ</mensaje>
+<mensaje id='en' num='500'>BENITO JUÁREZ</mensaje>
+<mensaje id='pr' num='500'>BENITO JUÁREZ</mensaje>
+<mensaje id='es' num='501'>COZUMEL</mensaje>
+<mensaje id='en' num='501'>COZUMEL</mensaje>
+<mensaje id='pr' num='501'>COZUMEL</mensaje>
+<mensaje id='es' num='502'>FELIPE CARRILLO PUERTO</mensaje>
+<mensaje id='en' num='502'>FELIPE CARRILLO PUERTO</mensaje>
+<mensaje id='pr' num='502'>FELIPE CARRILLO PUERTO</mensaje>
+<mensaje id='es' num='503'>ISLA MUJERES</mensaje>
+<mensaje id='en' num='503'>ISLA MUJERES</mensaje>
+<mensaje id='pr' num='503'>ISLA MUJERES</mensaje>
+<mensaje id='es' num='504'>JOSÉ MARÍA MORELOS</mensaje>
+<mensaje id='en' num='504'>JOSÉ MARÍA MORELOS</mensaje>
+<mensaje id='pr' num='504'>JOSÉ MARÍA MORELOS</mensaje>
+<mensaje id='es' num='505'>LÁZARO CÁRDENAS</mensaje>
+<mensaje id='en' num='505'>LÁZARO CÁRDENAS</mensaje>
+<mensaje id='pr' num='505'>LÁZARO CÁRDENAS</mensaje>
+<mensaje id='es' num='506'>OTHÓN POMPEYO BLANCO</mensaje>
+<mensaje id='en' num='506'>OTHÓN POMPEYO BLANCO</mensaje>
+<mensaje id='pr' num='506'>OTHÓN POMPEYO BLANCO</mensaje>
+<mensaje id='es' num='507'>SOLIDARIDAD</mensaje>
+<mensaje id='en' num='507'>SOLIDARIDAD</mensaje>
+<mensaje id='pr' num='507'>SOLIDARIDAD</mensaje>
+
+
+<mensaje id='es' num='600'>Isla Mujeres</mensaje>
+<mensaje id='en' num='600'>Isla Mujeres</mensaje>
+<mensaje id='pr' num='600'>Isla Mujeres</mensaje>
+<mensaje id='es' num='601'>Cancún</mensaje>
+<mensaje id='en' num='601'>Cancún</mensaje>
+<mensaje id='pr' num='601'>Cancún</mensaje>
+<mensaje id='es' num='602'>Tulum</mensaje>
+<mensaje id='en' num='602'>Tulum</mensaje>
+<mensaje id='pr' num='602'>Tulum</mensaje>
+<mensaje id='es' num='603'>Cozumel</mensaje>
+<mensaje id='en' num='603'>Cozumel</mensaje>
+<mensaje id='pr' num='603'>Cozumel</mensaje>
+<mensaje id='es' num='604'>Laguna de Bacalar</mensaje>
+<mensaje id='en' num='604'>Laguna de Bacalar</mensaje>
+<mensaje id='pr' num='604'>Laguna de Bacalar</mensaje>
+<mensaje id='es' num='605'>Xcaret</mensaje>
+<mensaje id='en' num='605'>Xcaret</mensaje>
+<mensaje id='pr' num='605'>Xcaret</mensaje>
+<mensaje id='es' num='606'>Puerto Aventuras</mensaje>
+<mensaje id='en' num='606'>Puerto Aventuras</mensaje>
+<mensaje id='pr' num='606'>Puerto Aventuras</mensaje>
+<mensaje id='es' num='607'>Playa del Carmen</mensaje>
+<mensaje id='en' num='607'>Playa del Carmen</mensaje>
+<mensaje id='pr' num='607'>Playa del Carmen</mensaje>
+<mensaje id='es' num='608'>Chetumal</mensaje>
+<mensaje id='en' num='608'>Chetumal</mensaje>
+<mensaje id='pr' num='608'>Chetumal</mensaje>
+<mensaje id='es' num='609'>El observatorio</mensaje>
+<mensaje id='en' num='609'>El observatorio</mensaje>
+<mensaje id='pr' num='609'>El observatorio</mensaje>
+<mensaje id='es' num='610'>Cenote Azul</mensaje>
+<mensaje id='en' num='610'>Cenote Azul</mensaje>
+<mensaje id='pr' num='610'>Cenote Azul</mensaje>
+<mensaje id='es' num='611'>El Santuario de la Cruz Parlante</mensaje>
+<mensaje id='en' num='611'>El Santuario de la Cruz Parlante</mensaje>
+<mensaje id='pr' num='611'>El Santuario de la Cruz Parlante</mensaje>
+
+</mensajes>

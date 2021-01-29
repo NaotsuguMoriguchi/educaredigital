@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">La población indígena de este Estado está integrada por mexicas y huastecos, quedando en la actualidad muy pocos.</mensaje>
+<mensaje id="en" num="1">The indigenous population of this state is integrated by huastecos mexicas and, being left at the present time very few.</mensaje>
+<mensaje id="pr" num="1">A população indígena deste Estado é integrada por mexicas dos huastecos e, sendo saido no tempo atual muito poucos.</mensaje>
+
+<mensaje id="es" num="2">El Estado de San Luis Potosí está integrado por 55  municipios, siendo los principales: su capital del mismo nombre, Tamazunchale, Matehuala, Río Verde y Ciudad Valles.</mensaje>
+<mensaje id="en" num="2">The State of San Luis Potosí is integrated by 55 municipalities, being the main ones: its capital of he himself name, Tamazunchale, Matehuala, Verde River and City Valleys.</mensaje>
+<mensaje id="pr" num="2">O Estado de San Luis Potosí é integrado por 55 municipalidades, sendo principais: seu capital do ele ele mesmo nome, Tamazunchale, Matehuala, rio de Verde e vales da cidade.</mensaje>
+
+<mensaje id="es" num="3">San Luis Potosí fue fundado en el año de 1583 por Fray Diego de la Magdalena, creando un convento sólo para indígenas.</mensaje>
+<mensaje id="en" num="3">San Luis Potosí was founded on the year of 1583 by Fray Diego of the Magdalena, creating a convent only for natives.</mensaje>
+<mensaje id="pr" num="3">O San Luis Potosí foi fundado no ano de 1583 pela batalha Diego do Magdalena, criando um convent somente para nativos.</mensaje>
+
+<mensaje id="es" num="4">En 1583 se descubrió el mineral en el Cerro de San Pedro, lo que apresuró la construcción de la Ciudad de San Luis y se le agregó la palabra “Potosí” por sus grandes riquezas mineras.</mensaje>
+<mensaje id="en" num="4">In 1583 the mineral in the Hill of San Pedro was discovered, which hurried the construction of the City of San Luis and it was added to him word “Potosí” by its great mining wealth.</mensaje>
+<mensaje id="pr" num="4">Em 1583 o mineral no monte do San Pedro foi descoberto, que apressou a construção da cidade de San Luis e lhe foi adicionado palavra “Potosí” por sua riqueza minando grande.</mensaje>
+
+<mensaje id="es" num="5">San Luis Potosí cuenta también como otros Estados de la república con plantas eléctricas que proporcionan alumbrado y energía al Estado.</mensaje>
+<mensaje id="en" num="5">San Luis Potosí also counts as other states of the republic with electrical plants that provide lighting system and energy to state.</mensaje>
+<mensaje id="pr" num="5">O San Luis Potosí conta também como outros Estados da república com plantas elétricas aquele fornecer o sistema e a energia de lighting ao Estado.</mensaje>
+
+<mensaje id="es" num="6">En el Estado de San Luis Potosí se desarrollan las industrias de molinos de trigo, despepitadoras de algodón, industria textil, siderúrgica, aserraderos, industria jabonera, talleres ferrocarrileros, refresqueras, entre otros.</mensaje>
+<mensaje id="en" num="6">In the State of San Luis Potosí the industries of wheat mills are developed, despepitadoras of cotton, train textile, iron and steel, sawmills, jabonera industry, ferrocarrileros factories, refresqueras, among others.</mensaje>
+<mensaje id="pr" num="6">No Estado de San Luis Potosí as indústrias de moinhos do trigo são desenvolvidas, despepitadoras do algodão, textile do trem, ferro e aço, sawmills, indústria do jabonera, fábricas dos ferrocarrileros, refresqueras, entre outros.</mensaje>
+
+<mensaje id="es" num="7">En San Luis Potosí destaca la producción de  ganado como bueyes, caballos, mulas, asnos, aves de corral: gallos, gallinas, guajolotes, patos, gansos, entre otros.</mensaje>
+<mensaje id="en" num="7">In San Luis Potosí it emphasizes the production of cattle like oxen, horses, mules, asses, poultries: roosters, hens, guajolotes, ducks, gansos, among others.</mensaje>
+<mensaje id="pr" num="7">Em San Luis Potosí emfatiza a produção do gado gosta de bois, cavalos, mulas, burros, poultries: galos, galinhas, guajolotes, patos, gansos, entre outros.</mensaje>
+
+<mensaje id="es" num="8">La riqueza agrícola del Estado lo convierte en una de las entidades del país más productivas de maíz, aguacate, limones, frijol, ajo, chile, tabaco, guayabas, mango, tuna, etcétera.</mensaje>
+<mensaje id="en" num="8">The agricultural wealth of the state turns it one of the most productive organizations of the country of maize, avocado, lemons, frijol, garlic, Chile, tobacco, guayabas, handle, tuna, et cetera.</mensaje>
+<mensaje id="pr" num="8">A riqueza agricultural do Estado gira-o uma das organizações as mais produtivas do país do maize, do abacate, das limões, do frijol, do garlic, do Chile, do tabaco, dos guayabas, do punho, do atum, et do cetera.</mensaje>
+
+<mensaje id="es" num="9">Son las pequeñas industrias artesanales familiares las que producen queso de tuna, miel de tuna, colores vegetales, espuelas, fruta cubierta, ropa regional, etcétera.</mensaje>
+<mensaje id="en" num="9">They are the small artisan industries familiar those that produce cheese of tuna, vegetal honey of tuna, colors, spurs, covered fruit, regional clothes, et cetera.</mensaje>
+<mensaje id="pr" num="9">São o familiar pequeno das indústrias do artisan aqueles que produzem o queijo do atum, do mel vegetal do atum, das cores, dos dentes retos, da fruta coberta, da roupa regional, et do cetera.</mensaje>
+
+<mensaje id="es" num="10">Francisco González Bocanegra, autor de la letra de nuestro Himno Nacional, nació en Matehuala, San Luis Potosí, en el año 1824.</mensaje>
+<mensaje id="en" num="10">Francisco González Bocanegra, author of the letter of our National anthem, was born in Matehuala, San Luis Potosí, in 1824.</mensaje>
+<mensaje id="pr" num="10">Francisco González Bocanegra, autor da letra de nosso anthem nacional, foi carregado em Matehuala, San Luis Potosí, em 1824.</mensaje>
+
+<mensaje id="es" num="11">Golfo de México</mensaje>
+<mensaje id="en" num="11">Gulf of Mexico</mensaje>
+<mensaje id="pr" num="11">Golfo de México</mensaje>
+
+<mensaje id="es" num="12">Estado de México</mensaje>
+<mensaje id="en" num="12">State of Mexico </mensaje>
+<mensaje id="pr" num="12">Estado de México </mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id="es" num="39">REGIÓN NORTE 
+El clima de esta región es seco desértico y el suelo es duro y salado. Abundan los nopales, la palma, el mezquite, la gobernadora, la lechuguilla, la candelilla, las yucas, el guayule y el huizache.
+Las características del suelo de la zona, dificultan la agricultura, sólo se dan el maíz y el frijol. En cambio las posibilidades de su uso para la ganadería son mayores. Sobre la Sierra de Mazapil, que es la más seca de la región, predominan las cabras, y en el resto de la región el ganado bovino. 
+En esta región hay animales silvestres como: venado, coyote, jabalí, víbora de cascabel y rata canguro.</mensaje>
+
+<mensaje id="en" num="39">THE REGIÓN NORTE
+The climate of this region is dry desert and the ground is hard and salty. The nopales, the palm, mezquite, the governor, lechuguilla, the small candle, the yuccas, guayule and huizache abound. The characteristics of the ground of the zone, make difficult agriculture, to the maize and frijol only occur. However the possibilities of their use for the cattle ranch are greater. On the Mountain range of Mazapil, that is driest of region, predominates the goats, and in the rest of the region the bovine cattle. In this region there are wild animals like: deer, coyote, wild boar, viper of bell and rat kangaroo.</mensaje>
+
+<mensaje id="pr" num="39">O REGIÓN NORTE 
+O clima desta região é deserto seco e a terra é dura e salty. Os nopales, a palma, o mezquite, o regulador, o lechuguilla, a vela pequena, os yuccas, o guayule e o huizache abound. As características da terra da zona, fazem a agricultura difícil, ao maize e o frijol ocorre somente. Entretanto as possibilidades de seu uso para o rancho do gado são mais grandes. Na escala da montanha de Mazapil, isso está o mais seco da região, predominates as cabras, e no descanso da região o gado de Bovídeos. Nesta região há animais selvagens como: cervos, chacal, varrão selvagem, víbora do sino e canguru do rato.</mensaje>
+
+
+
+
+
+<mensaje id="es" num="40">REGIÓN CENTRO
+Los climas de esta región  son el semidesértico y el templado semiseco. La vegetación es variada pero predominan los pastizales y matorrales, también existen bosques de encinos y coníferas. Algunas partes de esta región tienen posibilidades para el uso agrícola.
+Las especies que forman la fauna silvestre de esta región son: coyote, gato montés, tlacuache, murciélago, jabalí, águila real, guajolote silvestre, conejo, topo, tuza y guacamaya enana.</mensaje>
+
+<mensaje id="en" num="40"> THE REGIÓN CENTRO 
+The climates of this region are semidesert and the semidry tempering. The vegetation is varied but they predominate pastizales and scrubs, also exist forests of encinos and coniferous. Some parts of this region have possibilities for the agricultural use. The species that form the fauna wild of this region is: coyote, wild cat, tlacuache, bat, wild boar, wild real eagle, guajolote, rabbit, dwarfed awkward person, tuza and guacamaya.</mensaje>
+
+<mensaje id="pr" num="40">A REGIÓN CENTRO 
+Os climas desta região são semidesert e moderar semidry. A vegetação é variada mas predominate os pastizales e esfregam, existem também florestas dos encinos e coniferous. Algumas partes desta região têm possibilidades para o uso agricultural. A espécie que dá forma ao fauna selvagem desta região é: o chacal, gato selvagem, tlacuache, bastão, varrão selvagem, águia real selvagem, guajolote, coelho, dwarfed a pessoa, o tuza e o guacamaya inábeis.</mensaje>
+
+
+<mensaje id="es" num="41">REGIÓN SUR
+Ésta es la más grande de las regiones naturales de Zacatecas y por lo mismo podemos encontrar en esta región varios climas: el seco semidesértico, el templado semiseco y el templado subhúmedo.
+Abundan los bosques de encinos en varias partes de la región mientras que en otras crecen matorrales y pastizales; también existen numerosos ríos por lo que la región tiene grandes posibilidades  para la explotación agrícola.
+Entre su fauna encontramos: tlacuache, armadillo, coyote, conejo, venado, ratón de campo, águila y guacamaya verde.</mensaje>
+
+<mensaje id="en" num="41"> THE REGIÓN SUR
+This one is greatest of the natural regions of Zacatecas and by the same we can find in this region several climates: dry the semidesert one, the semidry tempering and the subhumid tempering. The forests abound with encinos in several parts of the region whereas in others scrubs and pastizales grow; also numerous rivers exist reason why the region has great possibilities for the agricultural operation. Between its fauna we found: tlacuache, armadillo, coyote, rabbit, deer, mouse of field, green eagle and guacamaya.</mensaje>
+
+<mensaje id="pr" num="41">A REGIÓN SUR 
+Os climas desta região são semidesert e moderar semidry. A vegetação é variada mas predominate os pastizales e esfregam, existem também florestas dos encinos e coniferous. Algumas partes desta região têm possibilidades para o uso agricultural. A espécie que dá forma ao fauna selvagem desta região é: o chacal, gato selvagem, tlacuache, bastão, varrão selvagem, águia real selvagem, guajolote, coelho, dwarfed a pessoa, o tuza e o guacamaya inábeis.</mensaje>
+
+
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+
+
+
+<mensaje id="es" num="200">Laguna Santa Clara</mensaje>
+<mensaje id="en" num="200">Laguna Santa Clara</mensaje>
+<mensaje id="pr" num="200">Laguna Santa Clara</mensaje>
+
+<mensaje id="es" num="201">Laguna el Perdido</mensaje>
+<mensaje id="en" num="201">Laguna el Perdido</mensaje>
+<mensaje id="pr" num="201">Laguna el Perdido</mensaje>
+
+<mensaje id="es" num="202">Laguna Cornejo</mensaje>
+<mensaje id="en" num="202">Laguna Cornejo</mensaje>
+<mensaje id="pr" num="202">Laguna Cornejo</mensaje>
+
+<mensaje id="es" num="203">Laguna la Mesilla</mensaje>
+<mensaje id="en" num="203">Laguna la Mesilla</mensaje>
+<mensaje id="pr" num="203">Laguna la Mesilla</mensaje>
+
+<mensaje id="es" num="204">Río San Nicolas</mensaje>
+<mensaje id="en" num="204">Río San Nicolas</mensaje>
+<mensaje id="pr" num="204">Río San Nicolas</mensaje>
+
+<mensaje id="es" num="205">Lago la Ciénega</mensaje>
+<mensaje id="en" num="205">Lago la Ciénega</mensaje>
+<mensaje id="pr" num="205">Lago la Ciénega</mensaje>
+
+<mensaje id="es" num="206">Laguna Grande</mensaje>
+<mensaje id="en" num="206">Laguna Grande</mensaje>
+<mensaje id="pr" num="206">Laguna Grande</mensaje>
+
+<mensaje id="es" num="207">Las lajillas</mensaje>
+<mensaje id="en" num="207">Las lajillas</mensaje>
+<mensaje id="pr" num="207">Las lajillas</mensaje>
+
+<mensaje id="es" num="208">Laguna Mariana</mensaje>
+<mensaje id="en" num="208">Laguna Mariana</mensaje>
+<mensaje id="pr" num="208">Laguna Mariana</mensaje>
+
+<mensaje id="es" num="209">Laguna chajil</mensaje>
+<mensaje id="en" num="209">Laguna chajil</mensaje>
+<mensaje id="pr" num="209">Laguna chajil</mensaje>
+
+<mensaje id="es" num="210">Río Santa María</mensaje>
+<mensaje id="en" num="210">Río Santa María</mensaje>
+<mensaje id="pr" num="210">Río Santa María</mensaje>
+
+<mensaje id="es" num="211">Río Moctezuma</mensaje>
+<mensaje id="en" num="211">Río Moctezuma</mensaje>
+<mensaje id="pr" num="211">Río Moctezuma</mensaje>
+
+<mensaje id="es" num="212">Río Verde</mensaje>
+<mensaje id="en" num="212">Río Verde</mensaje>
+<mensaje id="pr" num="212">Río Verde</mensaje>
+
+<mensaje id="es" num="300">Recursos forestales</mensaje>
+<mensaje id="en" num="300">Recursos forestales</mensaje>
+<mensaje id="pr" num="300">Recursos forestales</mensaje>
+
+<mensaje id="es" num="301">Frijol</mensaje>
+<mensaje id="en" num="301">Frijol</mensaje>
+<mensaje id="pr" num="301">Frijol</mensaje>
+
+<mensaje id="es" num="302">Plata</mensaje>
+<mensaje id="en" num="302">Plata</mensaje>
+<mensaje id="pr" num="302">Plata</mensaje>
+
+<mensaje id="es" num="303">Minería</mensaje>
+<mensaje id="en" num="303">Minería</mensaje>
+<mensaje id="pr" num="303">Minería</mensaje>
+
+<mensaje id="es" num="304">Minería</mensaje>
+<mensaje id="en" num="304">Minería</mensaje>
+<mensaje id="pr" num="304">Minería</mensaje>
+
+<mensaje id="es" num="305">Maíz</mensaje>
+<mensaje id="en" num="305">Maíz</mensaje>
+<mensaje id="pr" num="305">Maíz</mensaje>
+
+<mensaje id="es" num="306">Turismo</mensaje>
+<mensaje id="en" num="306">Turismo</mensaje>
+<mensaje id="pr" num="306">Turismo</mensaje>
+
+<mensaje id="es" num="307">Ganado Caprino</mensaje>
+<mensaje id="en" num="307">Ganado Caprino</mensaje>
+<mensaje id="pr" num="307">Ganado Caprino</mensaje>
+
+<mensaje id="es" num="308">Ganado ovino</mensaje>
+<mensaje id="en" num="308">Ganado ovino</mensaje>
+<mensaje id="pr" num="308">Ganado ovino</mensaje>
+
+<mensaje id="es" num="309">Industria</mensaje>
+<mensaje id="en" num="309">Industria</mensaje>
+<mensaje id="pr" num="309">Industria</mensaje>
+
+<mensaje id="es" num="310">Chile</mensaje>
+<mensaje id="en" num="310">Chile</mensaje>
+<mensaje id="pr" num="310">Chile</mensaje>
+
+<mensaje id="es" num="311">Ganado porcino</mensaje>
+<mensaje id="en" num="311">Ganado porcino</mensaje>
+<mensaje id="pr" num="311">Ganado porcino</mensaje>
+
+<mensaje id="es" num="312">Ganado bovino</mensaje>
+<mensaje id="en" num="312">Ganado bovino</mensaje>
+<mensaje id="pr" num="312">Ganado bovino</mensaje>
+
+<mensaje id="es" num="313">Hortalizas</mensaje>
+<mensaje id="en" num="313">Hortalizas</mensaje>
+<mensaje id="pr" num="313">Hortalizas</mensaje>
+
+<mensaje id="es" num="314">Tomate</mensaje>
+<mensaje id="en" num="314">Tomate</mensaje>
+<mensaje id="pr" num="314">Tomate</mensaje>
+
+<mensaje id="es" num="315">Mandarina</mensaje>
+<mensaje id="en" num="315">Mandarina</mensaje>
+<mensaje id="pr" num="315">Mandarina</mensaje>
+
+<mensaje id="es" num="316">Naranja</mensaje>
+<mensaje id="en" num="316">Naranja</mensaje>
+<mensaje id="pr" num="316">Naranja</mensaje>
+
+<mensaje id="es" num="317"></mensaje>
+<mensaje id="en" num="317"></mensaje>
+<mensaje id="pr" num="317"></mensaje>
+
+<mensaje id="es" num="318">Papaya</mensaje>
+<mensaje id="en" num="318">Papaya</mensaje>
+<mensaje id="pr" num="318">Papaya</mensaje>
+
+<mensaje id="es" num="319">Café</mensaje>
+<mensaje id="en" num="319">Café</mensaje>
+<mensaje id="pr" num="319">Café</mensaje>
+
+<mensaje id="es" num="320">Piña</mensaje>
+<mensaje id="en" num="320">Piña</mensaje>
+<mensaje id="pr" num="320">Piña</mensaje>
+
+<mensaje id="es" num="321">Cacahuate</mensaje>
+<mensaje id="en" num="321">Cacahuate</mensaje>
+<mensaje id="pr" num="321">Cacahuate</mensaje>
+
+<mensaje id="es" num="322">Aguacate</mensaje>
+<mensaje id="en" num="322">Aguacate</mensaje>
+<mensaje id="pr" num="322">Aguacate</mensaje>
+
+<mensaje id="es" num="323">Guayaba</mensaje>
+<mensaje id="en" num="323">Guayaba</mensaje>
+<mensaje id="pr" num="323">Guayaba</mensaje>
+
+<mensaje id="es" num="324">Caña</mensaje>
+<mensaje id="en" num="324">Caña</mensaje>
+<mensaje id="pr" num="324">Caña</mensaje>
+
+<mensaje id="es" num="325">Plátano</mensaje>
+<mensaje id="en" num="325">Plátano</mensaje>
+<mensaje id="pr" num="325">Plátano</mensaje>
+
+<mensaje id="es" num="326">Mango</mensaje>
+<mensaje id="en" num="326">Mango</mensaje>
+<mensaje id="pr" num="326">Mango</mensaje>
+
+<mensaje id="es" num="327">Pesca</mensaje>
+<mensaje id="en" num="327">Pesca</mensaje>
+<mensaje id="pr" num="327">Pesca</mensaje>
+
+<mensaje id="es" num="328"></mensaje>
+<mensaje id="en" num="328"></mensaje>
+<mensaje id="pr" num="328"></mensaje>
+
+<mensaje id="es" num="329"></mensaje>
+<mensaje id="en" num="329"></mensaje>
+<mensaje id="pr" num="329"></mensaje>
+
+
+
+
+
+
+
+
+<mensaje id="es" num="400">Iglesia de San Francisco</mensaje>
+<mensaje id="en" num="400">Iglesia de San Francisco</mensaje>
+<mensaje id="pr" num="400">Iglesia de San Francisco</mensaje>
+
+<mensaje id="es" num="401">Tunel Obarrio</mensaje>
+<mensaje id="en" num="401">Tunel Obarrio</mensaje>
+<mensaje id="pr" num="401">Tunel Obarrio</mensaje>
+
+<mensaje id="es" num="402">Parque Turistico Media Luna</mensaje>
+<mensaje id="en" num="402">Parque Turistico Media Luna</mensaje>
+<mensaje id="pr" num="402">Parque Turistico Media Luna</mensaje>
+
+<mensaje id="es" num="403">Teatro la Paz</mensaje>
+<mensaje id="en" num="403">Teatro la Paz</mensaje>
+<mensaje id="pr" num="403">Teatro la Paz</mensaje>
+
+<mensaje id="es" num="404">Templo de la Compañía</mensaje>
+<mensaje id="en" num="404">Templo de la Compañía</mensaje>
+<mensaje id="pr" num="404">Templo de la Compañía</mensaje>
+
+<mensaje id="es" num="405">Iglesia de Rioverde</mensaje>
+<mensaje id="en" num="405">Iglesia de Rioverde</mensaje>
+<mensaje id="pr" num="405">Iglesia de Rioverde</mensaje>
+
+<mensaje id="es" num="406">Cascada de Tamul</mensaje>
+<mensaje id="en" num="406">Cascada de Tamul</mensaje>
+<mensaje id="pr" num="406">Cascada de Tamul</mensaje>
+
+<mensaje id="es" num="407">Iglesia de Tancanhuitz de Santos</mensaje>
+<mensaje id="en" num="407">Iglesia de Tancanhuitz de Santos</mensaje>
+<mensaje id="pr" num="407">Iglesia de Tancanhuitz de Santos</mensaje>
+
+<mensaje id="es" num="500">Sierra Tablón Guadalcázar</mensaje>
+<mensaje id="en" num="500">Sierra Tablón Guadalcázar</mensaje>
+<mensaje id="pr" num="500">Sierra Tablón Guadalcázar</mensaje>
+
+<mensaje id="es" num="501">Sierra de Álvarez-Catorce</mensaje>
+<mensaje id="en" num="501">Sierra de Álvarez-Catorce</mensaje>
+<mensaje id="pr" num="501">Sierra de Álvarez-Catorce</mensaje>
+
+<mensaje id="es" num="502">Sierra de San Luis</mensaje>
+<mensaje id="en" num="502">Sierra de San Luis</mensaje>
+<mensaje id="pr" num="502">Sierra de San Luis</mensaje>
+
+<mensaje id="es" num="503">Sierra Madre Oriental</mensaje>
+<mensaje id="en" num="503">Sierra Madre Oriental</mensaje>
+<mensaje id="pr" num="503">Sierra Madre Oriental</mensaje>
+
+<mensaje id="es" num="600">Cedral</mensaje>
+<mensaje id="en" num="600">Cedral</mensaje>
+<mensaje id="pr" num="600">Cedral</mensaje>
+
+<mensaje id="es" num="601">Matehuala</mensaje>
+<mensaje id="en" num="601">Matehuala</mensaje>
+<mensaje id="pr" num="601">Matehuala</mensaje>
+
+<mensaje id="es" num="602">Charcas</mensaje>
+<mensaje id="en" num="602">Charcas</mensaje>
+<mensaje id="pr" num="602">Charcas</mensaje>
+
+<mensaje id="es" num="603">Salinas</mensaje>
+<mensaje id="en" num="603">Salinas</mensaje>
+<mensaje id="pr" num="603">Salinas</mensaje>
+
+<mensaje id="es" num="604">Venado</mensaje>
+<mensaje id="en" num="604">Venado</mensaje>
+<mensaje id="pr" num="604">Venado</mensaje>
+
+<mensaje id="es" num="605">Cerritos</mensaje>
+<mensaje id="en" num="605">Cerritos</mensaje>
+<mensaje id="pr" num="605">Cerritos</mensaje>
+
+<mensaje id="es" num="606">Ciudad del Maíz</mensaje>
+<mensaje id="en" num="606">Ciudad del Maíz</mensaje>
+<mensaje id="pr" num="606">Ciudad del Maíz</mensaje>
+
+<mensaje id="es" num="607">Ébano</mensaje>
+<mensaje id="en" num="607">Ébano</mensaje>
+<mensaje id="pr" num="607">Ébano</mensaje>
+
+<mensaje id="es" num="608">Soledad de Graciano Sánchez</mensaje>
+<mensaje id="en" num="608">Soledad de Graciano Sánchez</mensaje>
+<mensaje id="pr" num="608">Soledad de Graciano Sánchez</mensaje>
+
+<mensaje id="es" num="609">San Luis Potosí</mensaje>
+<mensaje id="en" num="609">San Luis Potosí</mensaje>
+<mensaje id="pr" num="609">San Luis Potosí</mensaje>
+
+<mensaje id="es" num="610">Ciudad Fernández</mensaje>
+<mensaje id="en" num="610">Ciudad Fernández</mensaje>
+<mensaje id="pr" num="610">Ciudad Fernández</mensaje>
+
+<mensaje id="es" num="611">Cárdenas</mensaje>
+<mensaje id="en" num="611">Cárdenas</mensaje>
+<mensaje id="pr" num="611">Cárdenas</mensaje>
+
+<mensaje id="es" num="612">Rioverde</mensaje>
+<mensaje id="en" num="612">Rioverde</mensaje>
+<mensaje id="pr" num="612">Rioverde</mensaje>
+
+<mensaje id="es" num="613">Ciudad Valles</mensaje>
+<mensaje id="en" num="613">Ciudad Valles</mensaje>
+<mensaje id="pr" num="613">Ciudad Valles</mensaje>
+
+<mensaje id="es" num="614">Tamuín</mensaje>
+<mensaje id="en" num="614">Tamuín</mensaje>
+<mensaje id="pr" num="614">Tamuín</mensaje>
+
+<mensaje id="es" num="615">Aquismón</mensaje>
+<mensaje id="en" num="615">Aquismón</mensaje>
+<mensaje id="pr" num="615">Aquismón</mensaje>
+
+<mensaje id="es" num="616">Axtla de Terrazas</mensaje>
+<mensaje id="en" num="616">Axtla de Terrazas</mensaje>
+<mensaje id="pr" num="616">Axtla de Terrazas</mensaje>
+
+<mensaje id="es" num="617">Tamazunchale</mensaje>
+<mensaje id="en" num="617">Tamazunchale</mensaje>
+<mensaje id="pr" num="617">Tamazunchale</mensaje>
+
+<mensaje id="es" num="618">Xilitla</mensaje>
+<mensaje id="en" num="618">Xilitla</mensaje>
+<mensaje id="pr" num="618">Xilitla</mensaje>
+
+<mensaje id="es" num="700">REGIÓN DEL ALTIPLANO</mensaje>
+<mensaje id="en" num="700">REGIÓN DEL ALTIPLANO</mensaje>
+<mensaje id="pr" num="700">REGIÓN DEL ALTIPLANO</mensaje>
+
+<mensaje id="es" num="701">REGIÓN MEDIA</mensaje>
+<mensaje id="en" num="701">REGIÓN MEDIA</mensaje>
+<mensaje id="pr" num="701">REGIÓN MEDIA</mensaje>
+
+<mensaje id="es" num="702">REGIÓN SAN LUIS</mensaje>
+<mensaje id="en" num="702">REGIÓN SAN LUIS</mensaje>
+<mensaje id="pr" num="702">REGIÓN SAN LUIS</mensaje>
+
+<mensaje id="es" num="703">REGIÓN HUASTECA</mensaje>
+<mensaje id="en" num="703">REGIÓN HUASTECA</mensaje>
+<mensaje id="pr" num="703">REGIÓN HUASTECA</mensaje>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<mensaje id="es" num="901">REGIÓN DEL ALTIPLANO
+Es la región más grande de la entidad, ya que ocupa casi la mitad del territorio del Estado. Está integrada por 15 municipios: Vanegas, Cedral, Catorce, Villa de la Paz, Matehuala, Santo Domingo, Charcas, Villa de Guadalupe, Salinas, Moctezuma, Villa de Arista, Villa Hidalgo, Guadalcázar, Villa de Ramos y Venado.
+El clima es seco y la lluvia es escasa, y esto provoca que el suelo sea poco utilizable para la agricultura.
+Las actividades económicas más importantes en esta región son la ganadería, los cultivos de temporal, la minería,  el turismo y la industria.</mensaje>
+<mensaje id="en" num="901">REGIÓN DEL ALTIPLANO
+Es la región más grande de la entidad, ya que ocupa casi la mitad del territorio del Estado. Está integrada por 15 municipios: Vanegas, Cedral, Catorce, Villa de la Paz, Matehuala, Santo Domingo, Charcas, Villa de Guadalupe, Salinas, Moctezuma, Villa de Arista, Villa Hidalgo, Guadalcázar, Villa de Ramos y Venado.
+El clima es seco y la lluvia es escasa, y esto provoca que el suelo sea poco utilizable para la agricultura.
+Las actividades económicas más importantes en esta región son la ganadería, los cultivos de temporal, la minería,  el turismo y la industria.</mensaje>
+<mensaje id="pr" num="901">REGIÓN DEL ALTIPLANO
+Es la región más grande de la entidad, ya que ocupa casi la mitad del territorio del Estado. Está integrada por 15 municipios: Vanegas, Cedral, Catorce, Villa de la Paz, Matehuala, Santo Domingo, Charcas, Villa de Guadalupe, Salinas, Moctezuma, Villa de Arista, Villa Hidalgo, Guadalcázar, Villa de Ramos y Venado.
+El clima es seco y la lluvia es escasa, y esto provoca que el suelo sea poco utilizable para la agricultura.
+Las actividades económicas más importantes en esta región son la ganadería, los cultivos de temporal, la minería,  el turismo y la industria.</mensaje>
+
+<mensaje id="es" num="902">REGIÓN SAN LUIS
+La región San Luis está integrada por 11 municipios: Ahualulco, Mexquitic de Carmona, Villa de Arriaga, Villa de Reyes, Santa María del Río, Tierra Nueva, Zaragoza, Armadillo de los Infante, Cerro de San Pedro, Soledad de Graciano Sánchez y San Luis Potosí, capital del Estado.
+Su clima y tipo de suelo son semejantes a los de la región del Altiplano. Pero aquí la mayoría de la población es urbana, vive en la ciudad y no en el campo. 
+La región de San Luis cuenta con muchos servicios públicos y un importante centro de comercio. También cuenta con una gran actividad industrial y la mayor parte de la población del Estado vive en esta región.</mensaje>
+<mensaje id="en" num="902">REGIÓN SAN LUIS
+La región San Luis está integrada por 11 municipios: Ahualulco, Mexquitic de Carmona, Villa de Arriaga, Villa de Reyes, Santa María del Río, Tierra Nueva, Zaragoza, Armadillo de los Infante, Cerro de San Pedro, Soledad de Graciano Sánchez y San Luis Potosí, capital del Estado.
+Su clima y tipo de suelo son semejantes a los de la región del Altiplano. Pero aquí la mayoría de la población es urbana, vive en la ciudad y no en el campo. 
+La región de San Luis cuenta con muchos servicios públicos y un importante centro de comercio. También cuenta con una gran actividad industrial y la mayor parte de la población del Estado vive en esta región.</mensaje>
+<mensaje id="pr" num="902">REGIÓN SAN LUIS
+La región San Luis está integrada por 11 municipios: Ahualulco, Mexquitic de Carmona, Villa de Arriaga, Villa de Reyes, Santa María del Río, Tierra Nueva, Zaragoza, Armadillo de los Infante, Cerro de San Pedro, Soledad de Graciano Sánchez y San Luis Potosí, capital del Estado.
+Su clima y tipo de suelo son semejantes a los de la región del Altiplano. Pero aquí la mayoría de la población es urbana, vive en la ciudad y no en el campo. 
+La región de San Luis cuenta con muchos servicios públicos y un importante centro de comercio. También cuenta con una gran actividad industrial y la mayor parte de la población del Estado vive en esta región.</mensaje>
+
+<mensaje id="es" num="903">REGIÓN MEDIA
+Esta región está integrada por 13 municipios: Cerritos, San Nicolás Tolentino, Villa Juárez, Ciudad Fernández, Rioverde, San Ciro de Acosta, Ciudad del Maíz, El Naranjo, Alaquines, Cárdenas, Rayón, Lagunillas y Santa Catarina.
+Es la región que se encuentra ubicada a la mitad del Estado. Los tipos de clima y de suelo ya no son como los de las regiones del Altiplano y San Luis. El clima es un poco más caluroso y húmedo. El suelo es más generoso.
+La región Media, es una zona preferentemente agrícola, porque sus recursos naturales son ricos y variados.</mensaje>
+<mensaje id="en" num="903">REGIÓN MEDIA
+Esta región está integrada por 13 municipios: Cerritos, San Nicolás Tolentino, Villa Juárez, Ciudad Fernández, Rioverde, San Ciro de Acosta, Ciudad del Maíz, El Naranjo, Alaquines, Cárdenas, Rayón, Lagunillas y Santa Catarina.
+Es la región que se encuentra ubicada a la mitad del Estado. Los tipos de clima y de suelo ya no son como los de las regiones del Altiplano y San Luis. El clima es un poco más caluroso y húmedo. El suelo es más generoso.
+La región Media, es una zona preferentemente agrícola, porque sus recursos naturales son ricos y variados.</mensaje>
+<mensaje id="pr" num="903">REGIÓN MEDIA
+Esta región está integrada por 13 municipios: Cerritos, San Nicolás Tolentino, Villa Juárez, Ciudad Fernández, Rioverde, San Ciro de Acosta, Ciudad del Maíz, El Naranjo, Alaquines, Cárdenas, Rayón, Lagunillas y Santa Catarina.
+Es la región que se encuentra ubicada a la mitad del Estado. Los tipos de clima y de suelo ya no son como los de las regiones del Altiplano y San Luis. El clima es un poco más caluroso y húmedo. El suelo es más generoso.
+La región Media, es una zona preferentemente agrícola, porque sus recursos naturales son ricos y variados.</mensaje>
+
+<mensaje id="es" num="904">REGIÓN HUASTECA
+La región Huasteca está integrada por 19 municipios: Tamasopo, Cuidad Valles, Tamuín, Ébano, San Vicente Tencuayalab, Aquismón, Tanlajás, Tanquián de Escobedo, Tancanhuitz de Santos, San Antonio, Huehuetlán, Coxcatlán, Tampamolón Corona, San Martín  Chalchicuautla, Tampacán, Axla de Terrazas, Matlapa, Tamazunchale y Xilitla.
+Esta región ocupa el nivel más bajo de nuestro territorio y en ella se encuentran los principales ríos del Estado. Por eso su suelo es muy fértil. 
+En esta zona se concentra  más de la mitad de la producción ganadera de la entidad y la pesca es otra actividad muy importante de la región.</mensaje>
+<mensaje id="en" num="904">REGIÓN HUASTECA
+La región Huasteca está integrada por 19 municipios: Tamasopo, Cuidad Valles, Tamuín, Ébano, San Vicente Tencuayalab, Aquismón, Tanlajás, Tanquián de Escobedo, Tancanhuitz de Santos, San Antonio, Huehuetlán, Coxcatlán, Tampamolón Corona, San Martín  Chalchicuautla, Tampacán, Axla de Terrazas, Matlapa, Tamazunchale y Xilitla.
+Esta región ocupa el nivel más bajo de nuestro territorio y en ella se encuentran los principales ríos del Estado. Por eso su suelo es muy fértil. 
+En esta zona se concentra  más de la mitad de la producción ganadera de la entidad y la pesca es otra actividad muy importante de la región.</mensaje>
+<mensaje id="pr" num="904">REGIÓN HUASTECA
+La región Huasteca está integrada por 19 municipios: Tamasopo, Cuidad Valles, Tamuín, Ébano, San Vicente Tencuayalab, Aquismón, Tanlajás, Tanquián de Escobedo, Tancanhuitz de Santos, San Antonio, Huehuetlán, Coxcatlán, Tampamolón Corona, San Martín  Chalchicuautla, Tampacán, Axla de Terrazas, Matlapa, Tamazunchale y Xilitla.
+Esta región ocupa el nivel más bajo de nuestro territorio y en ella se encuentran los principales ríos del Estado. Por eso su suelo es muy fértil. 
+En esta zona se concentra  más de la mitad de la producción ganadera de la entidad y la pesca es otra actividad muy importante de la región.</mensaje>
+</mensajes>
+
+
